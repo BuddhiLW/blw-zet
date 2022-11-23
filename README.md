@@ -1,6 +1,7 @@
 # blw-Zettelkasten
 
 - isosec: 20221004152318
+- As of know (20221123232731), notes will be taken using the `KEG` technology[^1].
 
 ## How to
 
@@ -18,3 +19,6 @@
 ## Conventions
 
 - Link to searches, not to content.
+
+# References
+[^1]: (https://github.com/rwxrob/keg)[https://github.com/rwxrob/keg]
