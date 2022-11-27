@@ -23,14 +23,17 @@ for her spitefulness.
 
 And, as if she was trained in Dramatism, understands all this, not
 through Tótski words. But, as is common in the book, and in life, she
-come to akwnoledge her situation, by analyzing the non-verbal Action; the non-verbal relation of the Scene; and, the Purpouse that arrives from these elements. Finally, arriving at Tóstski's motives.
+come to akwnoledge her situation, by analyzing the non-verbal Action;
+the non-verbal relation of the Scene; and, the Purpouse that arrives 
+from these elements. Finally, arriving at Tóstski's motives.
 
 All these things are not said by the author itself. But, you must arrive
 at these conclusions on your own, just to make sense of the history. Now,
 factoring in that Act take places with at least four Agents, with all
 this complexity, we can see why this book-read has been considered
-extremelly hard to understand and predict. Therefore, a true masterpiece
-of literature.
+extremelly hard to understand and predict. Therefore, a true masterpiece of 
+literature.
+
 
 ## References
 - `? Dramatistic pentad`.

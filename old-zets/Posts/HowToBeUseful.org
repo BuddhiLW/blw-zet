@@ -1,0 +1,22 @@
+#+TITLE: How To Be Useful
+
+* Q: How does one become a productive member of a destructive society?
+- Carolin Söderman
+
+** A:
+#+begin_quote
+For an example, are you giving your freedom to use your computational powers to Microsoft to shape it as it sees fit? One can start from taking over the control of this asset, and installing Linux and learning how to make cyber services out of sheer electrical energy (programming services). The costs are electrical energy and time (for learning), the limits are your imagination basically.
+
+Further on this particular example, one could use Libgenesis APIs to build a tiny website with all TVP recommended books for download, for free, in a personal website, as I'm doing (expect to publish this part of the website in a month or so). Etc. Knowledge and abundant resources are our disposal; we must not be lazy to tame it, though; else someone else will tame it for us and sell it for us.
+
+- Mass scale food generation;
+- Software services;
+- Embedded systems to automate ones home with open-hardware and software (start with arduinos).
+- Producing educational videos on these knowledge and others.
+- Consuming only scientific and applicable knowledge in a daily basis (forget comics, super hero movies, hollywood bullcrap etc).
+- Changing your diet to non-industrial based ones.
+- Organizing groups of reading, with relevant material (non-fictional, in general).
+
+Those are from the top of my head.
+#+end_quote
+- Pedro G. Branquinho

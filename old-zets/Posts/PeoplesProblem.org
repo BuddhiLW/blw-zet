@@ -1,0 +1,91 @@
+#+TITLE: Peoples Problem; minority-thinking is flawed.
+
+It's said /divide and conquer/ is one of the oldest tricks in the book.
+Certainly, it haven't gone out of style.
+
+#+begin_quote
+ Tradition attributes the origin of the motto to Philip
+   II of Macedon: Greek: διαίρει καὶ
+   βασίλευε diaírei kài basíleue, in Ancient Greek,
+   meaning "divide and rule".
+#+end_quote
+
+#+begin_quote
+   Divide and rule policy (Latin: divide et impera), or
+   divide and conquer, in politics and sociology is
+   gaining and maintaining power by breaking up larger
+   concentrations of power into pieces that individually
+   have less power than the one implementing the
+   strategy.
+#+end_quote
+- Quotes from: https://en.wikipedia.org/wiki/Divide_and_rule
+
+* The fallacious concept: =minorities=
+#+begin_quote
+A partition of objects into groups is one of the
+possible ways of subdividing the objects into groups ().
+
+The rules are: the order in which objects are
+assigned to a group does not matter; each object can
+be assigned to only one group.
+#+end_quote
+- Source: Partitions into groups, Marco Taboga, PhD.
+
+For every class, or set, given that there are $n$ distinct elements, one can
+form a huge number of possible partitions with them ([[https://wikiless.org/wiki/Bell_number?lang=en][Known as Bell Numbers]]).
+Here is a short table mapping for each group formed of $n$ people, how many
+partitions (subgroups) can be formed.
+
+|------------+-----------------|
+| =n= people | possible groups |
+|------------+-----------------|
+|          0 |               1 |
+|          1 |               1 |
+|          2 |               2 |
+|          3 |               5 |
+|          4 |              15 |
+|          5 |              52 |
+|          6 |             203 |
+|          7 |             877 |
+|          8 |            4140 |
+|      (...) |           (...) |
+|------------+-----------------|
+
+Therefore, for the same group of people, let's say, *8* of them, you could form
+*4140* possible subgroup-partition schemes! This concept is extremely important
+to be grasped. Because, these numbers are so astronomical and they signal the
+following: reasoning based on *group-partitioning* are essentially flawed, out
+of any context.
+
+Any opinion can be held about groups, once we can form an
+astronomical quantity of them, and surely one of these possible partitioning
+will fit our biased description of reality.
+
+Finally, at least half (this proportion increases as the $n$ increases) of all
+possible groupings are of *minority*-partitioning schemes.
+
+** Historical examples of contraditions minority-schemes
+
+In 03 February 2022, today, it's not outrageous to say that the
+*LGBTQ+*-movement and the *Black*-movement are two of the greatest
+*minority-based* movements there are. One, lead by group-thinking, might believe
+that /clashes/ or /frictions/ between them to be exceptions. For, they both are
+=minority= groups. Although, faced by the reality that, even when we deal with
+small groups, there are no /possible/ one, unifying, partition-rule that
+characterize them. Therefore, all kinds of *unaccounted* behavior follow from
+the great variate of subgroups possible in a group.
+
+We know look at examples of *unaccounted* behaviors arising amongst minority
+groups. Movements, itself, that appear antagonist and improbable, if we depart
+from the minority-group hypothesis.
+
+** Racism in LGBTQ+ groups?
+
+https://www.nbcnews.com/nbc-out/out-news/human-rights-campaigns-first-black-leader-sues-firing-alleging-racial-rcna14726
+
+** LGBTQ+ phobia in black groups?
+
+* All resources:
+- https://en.wikipedia.org/wiki/Divide_and_rule
+- https://wikiless.org/wiki/Bell_number?lang=en
+- https://www.nbcnews.com/nbc-out/out-news/human-rights-campaigns-first-black-leader-sues-firing-alleging-racial-rcna14726
