@@ -1,3 +1,4 @@
+* 2022-11-28 16:18:55Z [The divergent series (20221128185105)](/9)
 * 2022-11-27 22:29:05Z [The underling forces behind Industry](/8)
 * 2022-11-26 22:38:18Z [Vim formatting text](/7)
 * 2022-11-26 22:26:29Z [Dostoievsky's The Idiot (20221125132220)](/3)
