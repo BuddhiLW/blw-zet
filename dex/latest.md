@@ -1,3 +1,4 @@
+* 2022-11-27 22:29:05Z [The underling forces behind Industry](/8)
 * 2022-11-26 22:38:18Z [Vim formatting text](/7)
 * 2022-11-26 22:26:29Z [Dostoievsky's The Idiot (20221125132220)](/3)
 * 2022-11-25 19:21:52Z [Facebook gathered-content](/6)
