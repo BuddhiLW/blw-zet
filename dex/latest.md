@@ -1,8 +1,9 @@
+* 2022-11-30 23:34:19Z [`tmux` really is awesome](/10)
+* 2022-11-29 21:38:23Z [Facebook gathered-content](/6)
 * 2022-11-28 16:18:55Z [The divergent series (20221128185105)](/9)
 * 2022-11-27 22:29:05Z [The underling forces behind Industry](/8)
 * 2022-11-26 22:38:18Z [Vim formatting text](/7)
 * 2022-11-26 22:26:29Z [Dostoievsky's The Idiot (20221125132220)](/3)
-* 2022-11-25 19:21:52Z [Facebook gathered-content](/6)
 * 2022-11-25 19:08:13Z [Experimenting with KEG](/5)
 * 2022-11-25 13:19:55Z [The enginners and the price system](/4)
 * 2022-11-24 09:50:50Z [Makes Sense](/2)
