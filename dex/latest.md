@@ -1,3 +1,4 @@
+* 2022-12-02 17:04:19Z [The Specter of Communism](/11)
 * 2022-11-30 23:34:19Z [`tmux` really is awesome](/10)
 * 2022-11-29 21:38:23Z [Facebook gathered-content](/6)
 * 2022-11-28 16:18:55Z [The divergent series (20221128185105)](/9)
