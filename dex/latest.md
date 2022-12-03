@@ -1,3 +1,6 @@
+* 2022-12-03 20:25:16Z [Vim plugin for snippets](/0)
+* 2022-12-03 15:16:25Z [](/14)
+* 2022-12-03 15:15:43Z [Spell checking with Vi](/13)
 * 2022-12-02 23:06:07Z [Useful extra-functionalies in Vim](/12)
 * 2022-12-02 17:04:19Z [The Specter of Communism](/11)
 * 2022-11-30 23:34:19Z [`tmux` really is awesome](/10)
@@ -9,5 +12,4 @@
 * 2022-11-25 19:08:13Z [Experimenting with KEG](/5)
 * 2022-11-25 13:19:55Z [The enginners and the price system](/4)
 * 2022-11-24 09:50:50Z [Makes Sense](/2)
-* 2022-11-24 09:45:04Z [Sorry, planned but not yet available](/0)
 * 2022-11-24 09:45:04Z [Trying out KEG](/1)
