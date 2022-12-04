@@ -1,3 +1,4 @@
+* 2022-12-04 14:25:57Z [A Command-line Interface (`CLI`) for translation](/16)
 * 2022-12-04 12:52:25Z [Active procedure of paranoiac thought ](/15)
 * 2022-12-03 20:39:45Z [](/14)
 * 2022-12-03 20:32:05Z [Vim plugin for snippets](/13)
