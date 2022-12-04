@@ -1,3 +1,5 @@
+* 2022-12-04 12:52:25Z [Active procedure of paranoiac thought ](/15)
+* 2022-12-03 20:39:45Z [](/14)
 * 2022-12-03 20:32:05Z [Vim plugin for snippets](/13)
 * 2022-12-02 23:06:07Z [Useful extra-functionalies in Vim](/12)
 * 2022-12-02 17:04:19Z [The Specter of Communism](/11)
