@@ -1,3 +1,4 @@
+* 2022-12-20 09:01:37Z [Chinese and programming](/19)
 * 2022-12-05 18:47:11Z [Lutris debug - glibc](/18)
 * 2022-12-04 15:18:59Z [Input-method in the terminal - tmux](/17)
 * 2022-12-04 14:25:57Z [A Command-line Interface (`CLI`) for translation](/16)
