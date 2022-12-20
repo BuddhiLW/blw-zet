@@ -1,4 +1,5 @@
-* 2022-12-20 11:26:44Z [Chinese Practices](/20)
+* 2022-12-20 12:04:48Z [Language and culture](/21)
+* 2022-12-20 12:00:51Z [Chinese Practices](/20)
 * 2022-12-20 09:01:37Z [Chinese and programming](/19)
 * 2022-12-05 18:47:11Z [Lutris debug - glibc](/18)
 * 2022-12-04 15:18:59Z [Input-method in the terminal - tmux](/17)

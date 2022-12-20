@@ -24,6 +24,3 @@ I took part at the class
 
 /Wǒ cānjiāle kètáng/
 ```
-
-
-
