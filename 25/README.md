@@ -39,10 +39,16 @@ literally: until next time
 (Zài)
 Again
 
-
-
 ## Looked-up Phrases
 "the language everyone speaks"
 [ English -> Chinese (Simplified) ]
 每个人都说的语言
 /Měi gèrén dōu shuō de yǔyán/
+
+这里每个人说的语言都是中文
+(Zhèlǐ měi gèrén shuō de yǔyán dōu shì zhōngwén)
+
+[ Chinese (Simplified) -> English ]
+
+Everyone here speaks Chinese
+
