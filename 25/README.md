@@ -8,6 +8,7 @@
 
 明天见
 (Míngtiān jiàn)
+
 ### Literal Translation
 
 同学们，现再下课
@@ -26,6 +27,22 @@ Grammar: period + jiàn = untill next period.
 
 Examples:
 
-- see you next week
-- 下周见 (Xià zhōu jiàn)
+- see you next week: 下周见 (Xià zhōu jiàn)
+- see you next month: 下个月见 (Xià gè yuè jiàn)
 
+再见
+(Zàijiàn)
+approximation: goodbye
+literally: until next time
+
+再
+(Zài)
+Again
+
+
+
+## Looked-up Phrases
+"the language everyone speaks"
+[ English -> Chinese (Simplified) ]
+每个人都说的语言
+/Měi gèrén dōu shuō de yǔyán/

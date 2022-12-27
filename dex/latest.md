@@ -1,4 +1,4 @@
-* 2022-12-27 17:47:21Z [Chinese Class 2](/25)
+* 2022-12-27 19:24:52Z [Chinese Class 2](/25)
 * 2022-12-26 06:23:19Z ["Solving" `tmux` using the `/bin/sh`](/24)
 * 2022-12-23 16:41:28Z [Chinese Class 1](/22)
 * 2022-12-20 12:04:48Z [Language and culture](/21)
