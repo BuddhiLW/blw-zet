@@ -1,3 +1,4 @@
+* 2023-01-04 18:57:24Z [Software Idea](/26)
 * 2022-12-27 20:23:16Z [Chinese Class 2](/25)
 * 2022-12-26 06:23:19Z ["Solving" `tmux` using the `/bin/sh`](/24)
 * 2022-12-23 16:41:28Z [Chinese Class 1](/22)
