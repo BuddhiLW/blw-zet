@@ -1,0 +1,11 @@
+# Learn Reitit Course Notes
+
+Requirements:
+- Clojure
+- Heroku [^1]
+
+## Setup [^2]
+
+## References
+[^1]: https://www.heroku.com/
+[^2]: https://www.jacekschae.com/view/courses/learn-reitit-pro/348400-setup/1012767-05-services-setup
