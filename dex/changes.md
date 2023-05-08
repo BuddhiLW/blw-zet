@@ -1,4 +1,4 @@
-* 2023-05-08 08:46:34Z [Re-frame](../47)
+* 2023-05-08 09:15:58Z [Re-frame](../47)
 * 2023-05-07 14:56:59Z [Stack Overflow Deleted question](../46)
 * 2023-05-06 17:04:32Z [Install emacs with native compilation](../45)
 * 2023-05-03 18:09:26Z [Quote 1](../43)
@@ -16,10 +16,10 @@
 * 2023-01-15 19:41:57Z [Automate testing your website rendering](../29)
 * 2023-01-15 17:42:17Z [Dotfiles: the struggle is real](../28)
 * 2023-01-14 00:04:28Z [Configuração do Github Actions](../27)
-* 2023-01-10 16:44:32Z [Experimenting with KEG](../5)
+* 2023-01-10 16:44:32Z [The enginners and the price system](../4)
 * 2023-01-10 16:44:32Z [The underling forces behind Industry](../8)
 * 2023-01-10 16:44:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
-* 2023-01-10 16:44:32Z [The enginners and the price system](../4)
+* 2023-01-10 16:44:32Z [Experimenting with KEG](../5)
 * 2023-01-10 16:44:32Z [Lutris debug - glibc](../18)
 * 2023-01-10 16:44:32Z [A Command-line Interface (`CLI`) for translation](../16)
 * 2023-01-10 16:44:32Z [Active procedure of paranoiac thought ](../15)
