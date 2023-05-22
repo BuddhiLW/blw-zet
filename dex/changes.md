@@ -1,3 +1,4 @@
+* 2023-05-22 08:53:48Z [Interesting Websites and People](../58)
 * 2023-05-18 07:28:02Z [20230518102750](../57)
 * 2023-05-17 16:02:47Z [Differences on Jetty and Aleph (Clojure web applications libraries)](../55)
 * 2023-05-17 09:39:40Z [](../56)
@@ -22,10 +23,9 @@
 * 2023-03-26 12:59:53Z [The capitalist markets](../34)
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
-* 2023-03-05 20:20:32Z [Configuração do Github Actions](../27)
-* 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
-* 2023-03-05 20:20:32Z [VirtualBox and Mongodb - AVX and AVX2](../31)
 * 2023-03-05 20:20:32Z [Software Idea](../26)
+* 2023-03-05 20:20:32Z [VirtualBox and Mongodb - AVX and AVX2](../31)
+* 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
 * 2023-03-05 20:20:32Z [Chinese Class 2](../25)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
 * 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
@@ -45,9 +45,10 @@
 * 2023-03-05 20:20:32Z [Useful extra-functionalies in Vim](../12)
 * 2023-03-05 20:20:32Z [The Specter of Communism](../11)
 * 2023-03-05 20:20:32Z [The divergent series (20221128185105)](../9)
-* 2023-03-05 20:20:32Z [Trying out KEG](../1)
+* 2023-03-05 20:20:32Z [Configuração do Github Actions](../27)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [Language and culture](../21)
 * 2023-03-05 20:20:32Z [Sorry, planned but not yet available](../0)
 * 2023-03-05 20:20:32Z [`tmux` really is awesome](../10)
+* 2023-03-05 20:20:32Z [Trying out KEG](../1)
