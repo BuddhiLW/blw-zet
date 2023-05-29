@@ -1,3 +1,4 @@
+* 2023-05-29 10:10:13Z [Ascension of Bahá’u’lláh - what Emacs can tech you](../63)
 * 2023-05-27 12:49:19Z [Interesting Websites and People](../58)
 * 2023-05-26 13:20:55Z [Use and translate tutorials with Clojure](../62)
 * 2023-05-26 13:18:13Z [Cassandra, Postgres and Kafka with Clojure](../61)
@@ -28,7 +29,6 @@
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
-* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
 * 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [Chinese Class 1](../22)
 * 2023-03-05 20:20:32Z [The underling forces behind Industry](../8)
@@ -49,10 +49,11 @@
 * 2023-03-05 20:20:32Z [Software Idea](../26)
 * 2023-03-05 20:20:32Z [Chinese Class 2](../25)
 * 2023-03-05 20:20:32Z [VirtualBox and Mongodb - AVX and AVX2](../31)
-* 2023-03-05 20:20:32Z [Sorry, planned but not yet available](../0)
+* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
 * 2023-03-05 20:20:32Z [`tmux` really is awesome](../10)
 * 2023-03-05 20:20:32Z [Trying out KEG](../1)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
 * 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [Language and culture](../21)
+* 2023-03-05 20:20:32Z [Sorry, planned but not yet available](../0)
