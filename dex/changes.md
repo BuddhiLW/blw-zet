@@ -1,4 +1,4 @@
-* 2023-05-29 14:45:19Z [Interesting Websites and People](../58)
+* 2023-05-30 15:48:24Z [Interesting Websites and People](../58)
 * 2023-05-29 10:10:13Z [Ascension of Bahá’u’lláh - what Emacs can tech you](../63)
 * 2023-05-26 13:20:55Z [Use and translate tutorials with Clojure](../62)
 * 2023-05-26 13:18:13Z [Cassandra, Postgres and Kafka with Clojure](../61)
