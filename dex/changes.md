@@ -1,4 +1,4 @@
-* 2023-06-05 09:41:03Z [Interesting Websites and People](../58)
+* 2023-06-06 16:17:34Z [Interesting Websites and People](../58)
 * 2023-06-05 09:11:38Z [Same old, same old](../64)
 * 2023-05-29 10:10:13Z [Ascension of Bahá’u’lláh - what Emacs can tech you](../63)
 * 2023-05-26 13:20:55Z [Use and translate tutorials with Clojure](../62)
