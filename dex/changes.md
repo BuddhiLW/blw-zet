@@ -1,3 +1,4 @@
+* 2023-06-13 10:23:11Z [Creation of a bootstraping/ricing system](../67)
 * 2023-06-12 14:39:17Z [OCR - Optical Character Recognition](../66)
 * 2023-06-06 16:17:34Z [Interesting Websites and People](../58)
 * 2023-06-05 09:11:38Z [Same old, same old](../64)
@@ -30,7 +31,6 @@
 * 2023-03-26 09:59:53Z [The capitalist markets](../34)
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
-* 2023-03-05 20:20:32Z [Chinese Class 1](../22)
 * 2023-03-05 20:20:32Z [The underling forces behind Industry](../8)
 * 2023-03-05 20:20:32Z [Vim formatting text](../7)
 * 2023-03-05 20:20:32Z [Automate testing your website rendering](../29)
@@ -52,10 +52,11 @@
 * 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
 * 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
-* 2023-03-05 20:20:32Z [Chinese and programming](../19)
+* 2023-03-05 20:20:32Z [Chinese Class 1](../22)
 * 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [Language and culture](../21)
 * 2023-03-05 20:20:32Z [Sorry, planned but not yet available](../0)
 * 2023-03-05 20:20:32Z [`tmux` really is awesome](../10)
 * 2023-03-05 20:20:32Z [Trying out KEG](../1)
+* 2023-03-05 20:20:32Z [Chinese and programming](../19)
