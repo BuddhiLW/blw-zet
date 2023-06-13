@@ -1,3 +1,4 @@
+* 2023-06-13 15:24:41Z [Semantics with Applications (Hanne Riis Nielson, Flemming Nielso)](../69)
 * 2023-06-13 13:47:07Z [Undergraduate Textbooks (Springer)](../68)
 * 2023-06-13 10:23:11Z [Creation of a bootstraping/ricing system](../67)
 * 2023-06-12 14:39:17Z [OCR - Optical Character Recognition](../66)
@@ -33,7 +34,6 @@
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
 * 2023-03-05 20:20:32Z [Configuração do Github Actions](../27)
-* 2023-03-05 20:20:32Z [Automate testing your website rendering](../29)
 * 2023-03-05 20:20:32Z [Facebook gathered-content](../6)
 * 2023-03-05 20:20:32Z [Experimenting with KEG](../5)
 * 2023-03-05 20:20:32Z [Makes Sense](../2)
@@ -53,7 +53,7 @@
 * 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
 * 2023-03-05 20:20:32Z [Chinese Class 1](../22)
-* 2023-03-05 20:20:32Z [Vim formatting text](../7)
+* 2023-03-05 20:20:32Z [Automate testing your website rendering](../29)
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [Language and culture](../21)
 * 2023-03-05 20:20:32Z [Sorry, planned but not yet available](../0)
@@ -61,3 +61,4 @@
 * 2023-03-05 20:20:32Z [Trying out KEG](../1)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
 * 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
+* 2023-03-05 20:20:32Z [Vim formatting text](../7)
