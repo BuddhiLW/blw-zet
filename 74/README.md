@@ -4,3 +4,9 @@
 The infliction of cruelty with a good conscience is a delight to moralists. That is why they invented Hell.
                 -- Bertrand Russell
 ```
+
+```quote
+Apophenia is the term neurologists use to define the reality
+that humans are universally looking for patterns in random information
+                -- Colin Jones, p. 36, in "The Pro's approach to winning today's BlackJack"
+```
