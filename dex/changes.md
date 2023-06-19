@@ -1,4 +1,5 @@
 * 2023-06-19 09:50:50Z [19 Jun 2023](../74)
+* 2023-06-16 19:31:05Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
 * 2023-06-15 15:40:47Z [Logseq - A note-taking app](../72)
 * 2023-06-13 16:34:56Z ["Data Compression - The Complete Reference", by David Salomon](../70)
 * 2023-06-13 15:24:41Z [Semantics with Applications (Hanne Riis Nielson, Flemming Nielso)](../69)
