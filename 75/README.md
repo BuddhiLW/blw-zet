@@ -6,8 +6,6 @@ The basic-strategy and bet variations come from true-count.
 
 In mathematical jargon, strategy(true-count) and bet(true-count, current-bank).
 
-
-
 Open source software for practice and simulation:
 - Simulations [^1][^2][^3].
 - Drilling [^1][^3][^4].
@@ -18,6 +16,12 @@ Per programming language:
 - C++ [^6]
 - Python [^7]
 
+Computer vision:
+- Just WOW [^8]
+
+Computer Intelligence:
+- Garret Vargas [^9] 
+
 # References
 [^1]: https://github.com/mhluska/blackjack-simulator
 [^2]: https://github.com/memarc/xblackjack
@@ -26,3 +30,5 @@ Per programming language:
 [^5]: https://github.com/sritchie/blackjack
 [^6]: https://github.com/jyt0532/blackjack
 [^7]: https://github.com/1andDone/blackjack
+[^8]: https://github.com/roboflow/blackjack-basic-strategy
+[^9]: http://www.garrettvargas.com/
