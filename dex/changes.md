@@ -1,5 +1,5 @@
+* 2023-06-20 09:51:48Z [Interesting Websites and People](../58)
 * 2023-06-19 16:25:11Z [Blackjack Practice](../75)
-* 2023-06-19 16:17:07Z [Interesting Websites and People](../58)
 * 2023-06-19 11:09:33Z [19 Jun 2023](../74)
 * 2023-06-16 19:31:05Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
 * 2023-06-15 15:40:47Z [Logseq - A note-taking app](../72)
@@ -38,7 +38,7 @@
 * 2023-03-26 09:59:53Z [The capitalist markets](../34)
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
-* 2023-03-05 20:20:32Z [Makes Sense](../2)
+* 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [Lutris debug - glibc](../18)
 * 2023-03-05 20:20:32Z [A Command-line Interface (`CLI`) for translation](../16)
 * 2023-03-05 20:20:32Z [Active procedure of paranoiac thought ](../15)
@@ -50,7 +50,7 @@
 * 2023-03-05 20:20:32Z [Software Idea](../26)
 * 2023-03-05 20:20:32Z [Chinese Class 2](../25)
 * 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
-* 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
+* 2023-03-05 20:20:32Z [Makes Sense](../2)
 * 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
 * 2023-03-05 20:20:32Z [Chinese Class 1](../22)
