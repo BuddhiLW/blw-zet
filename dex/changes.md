@@ -1,3 +1,4 @@
+* 2023-06-20 11:04:05Z [Kelly Criterion for Blackjack - Betting Variation](../76)
 * 2023-06-20 09:51:48Z [Interesting Websites and People](../58)
 * 2023-06-19 16:25:11Z [Blackjack Practice](../75)
 * 2023-06-19 11:09:33Z [19 Jun 2023](../74)
