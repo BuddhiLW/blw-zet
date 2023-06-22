@@ -1,3 +1,4 @@
+* 2023-06-22 15:38:26Z [On hypocrisies](../79)
 * 2023-06-20 16:14:18Z [Statistical references](../78)
 * 2023-06-20 14:53:39Z [Documentaries](../77)
 * 2023-06-20 11:04:05Z [Kelly Criterion for Blackjack - Betting Variation](../76)
