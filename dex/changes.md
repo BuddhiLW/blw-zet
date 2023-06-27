@@ -1,4 +1,4 @@
-* 2023-06-26 21:13:25Z [Psytrance ](../74)
+* 2023-06-26 21:26:12Z [Psytrance ](../74)
 * 2023-06-22 15:38:26Z [On hypocrisies](../79)
 * 2023-06-20 16:14:18Z [Statistical references](../78)
 * 2023-06-20 14:53:39Z [Documentaries](../77)
@@ -6,7 +6,6 @@
 * 2023-06-20 09:51:48Z [Interesting Websites and People](../58)
 * 2023-06-19 16:25:11Z [Blackjack Practice](../75)
 * 2023-06-19 11:09:33Z [19 Jun 2023](../74)
->>>>>>> refs/remotes/origin/main
 * 2023-06-16 19:31:05Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
 * 2023-06-15 15:40:47Z [Logseq - A note-taking app](../72)
 * 2023-06-13 16:34:56Z ["Data Compression - The Complete Reference", by David Salomon](../70)
@@ -44,11 +43,8 @@
 * 2023-03-26 09:59:53Z [The capitalist markets](../34)
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
-<<<<<<< HEAD
-* 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
-=======
+* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
->>>>>>> refs/remotes/origin/main
 * 2023-03-05 20:20:32Z [Lutris debug - glibc](../18)
 * 2023-03-05 20:20:32Z [A Command-line Interface (`CLI`) for translation](../16)
 * 2023-03-05 20:20:32Z [Active procedure of paranoiac thought ](../15)
@@ -59,7 +55,7 @@
 * 2023-03-05 20:20:32Z [The underling forces behind Industry](../8)
 * 2023-03-05 20:20:32Z [Software Idea](../26)
 * 2023-03-05 20:20:32Z [Chinese Class 2](../25)
-* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
+* 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [Makes Sense](../2)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
@@ -68,11 +64,8 @@
 * 2023-03-05 20:20:32Z [Configuração do Github Actions](../27)
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [VirtualBox and Mongodb - AVX and AVX2](../31)
-<<<<<<< HEAD
 * 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
-=======
 * 2023-03-05 20:20:32Z [Facebook gathered-content](../6)
->>>>>>> refs/remotes/origin/main
 * 2023-03-05 20:20:32Z [Trying out KEG](../1)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
 * 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
