@@ -1,6 +1,10 @@
 # Psytrance 
 - Psiralife - Anicca.
 - Sneaky Voodo - Psychedelic Airlines (deep psytrance/transitions with tech house).
+- Module Virus - Epiphany.
+- Persona x Porat - For Whom the Bells (psytrance low bpm/ techno/house)
+
+
 
 ## 19 Jun 2023
 
