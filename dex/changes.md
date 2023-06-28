@@ -1,4 +1,4 @@
-* 2023-06-28 12:29:55Z [Psytrance ](../74)
+* 2023-06-28 15:24:30Z [Psytrance ](../74)
 * 2023-06-28 11:07:02Z [Exercising](../82)
 * 2023-06-27 14:06:48Z [Bankers and Tellers](../81)
 * 2023-06-22 15:38:26Z [On hypocrisies](../79)
@@ -45,7 +45,7 @@
 * 2023-03-26 09:59:53Z [The capitalist markets](../34)
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
-* 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
+* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [Lutris debug - glibc](../18)
 * 2023-03-05 20:20:32Z [A Command-line Interface (`CLI`) for translation](../16)
@@ -57,7 +57,7 @@
 * 2023-03-05 20:20:32Z [The underling forces behind Industry](../8)
 * 2023-03-05 20:20:32Z [Software Idea](../26)
 * 2023-03-05 20:20:32Z [Chinese Class 2](../25)
-* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
+* 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [Makes Sense](../2)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
