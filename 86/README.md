@@ -9,3 +9,17 @@ This runs in nearly every critical service, ~3000 ASGs and easily > 100k servers
 ```
 
 - https://thenewstack.io/the-new-stack-makers-adrian-cockcroft-on-sun-netflix-clojure-go-docker-and-more/
+
+Você sabia que essas empresas utilizam Datomic (banco de dados escrito, e nativo de Clojure)?
+
+
+
+Aliás, a lista não para por aí. Essas gigantes, Adobe, Apple, Facebook, Amazon, Oracle, Zalando and SoundCloud, Spotify e Nubank todas possuem aplicações na língua.
+
+
+
+É, e a maneira mais simples de fazer o deploy é pela AWS - a qual tem suporte extensivo, para esse caso de uso.
+
+
+
+

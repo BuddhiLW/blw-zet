@@ -1,4 +1,5 @@
-* 2023-07-07 13:28:50Z [Why Clojure?](../86)
+* 2023-07-10 15:21:23Z [Consolidação de mercado death care.](../87)
+* 2023-07-07 13:58:13Z [Why Clojure?](../86)
 * 2023-07-07 13:26:23Z [Psytrance ](../74)
 * 2023-07-06 15:33:46Z [Too bright for the dark](../85)
 * 2023-07-04 19:11:54Z [Nassim Nicholas Taleb](../84)
@@ -58,8 +59,8 @@
 * 2023-03-05 20:20:32Z [Dostoievsky's The Idiot (20221125132220)](../3)
 * 2023-03-05 20:20:32Z [Automate testing your website rendering](../29)
 * 2023-03-05 20:20:32Z [Facebook gathered-content](../6)
-* 2023-03-05 20:20:32Z [Configuração do Github Actions](../27)
 * 2023-03-05 20:20:32Z [Vim formatting text](../7)
+* 2023-03-05 20:20:32Z [Configuração do Github Actions](../27)
 * 2023-03-05 20:20:32Z [Software Idea](../26)
 * 2023-03-05 20:20:32Z [Chinese Class 2](../25)
 * 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
@@ -69,8 +70,8 @@
 * 2023-03-05 20:20:32Z [Makes Sense](../2)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
 * 2023-03-05 20:20:32Z [Lutris debug - glibc](../18)
-* 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [Language and culture](../21)
+* 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [A Command-line Interface (`CLI`) for translation](../16)
 * 2023-03-05 20:20:32Z [Active procedure of paranoiac thought ](../15)
 * 2023-03-05 20:20:32Z [Vim plugin for snippets](../13)
