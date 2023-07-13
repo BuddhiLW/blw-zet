@@ -7,6 +7,7 @@
 - Persona x Porat - For Whom the Bells (psytrance low bpm/ techno/house)
 - Loom - Freedom Subjection 2023
 - Fantasia - Doom's, LabRat
+- Psipiralife - Darkness Feels Good (Gumnut Rmx), 2018
 
 ## Playing in Mix!
 
