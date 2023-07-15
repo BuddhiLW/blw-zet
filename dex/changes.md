@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * 2023-07-12 21:31:25Z [Psytrance ](../74)
 * 2023-06-28 11:07:02Z [Exercising](../82)
 * 2023-06-27 14:06:48Z [Bankers and Tellers](../81)
@@ -23,7 +22,6 @@
 * 2023-05-26 12:24:52Z [Exchanges with ChatGPT about databases](../60)
 * 2023-05-24 20:41:48Z [Exchanges with Chat GPT](../59)
 * 2023-05-18 07:28:02Z [20230518102750](../57)
-=======
 * 2023-07-11 08:27:24Z [Unusually good quotes](../88)
 * 2023-07-10 15:21:23Z [Consolidação de mercado death care.](../87)
 * 2023-07-07 13:58:13Z [Why Clojure?](../86)
@@ -56,7 +54,6 @@
 * 2023-05-24 23:41:48Z [Exchanges with Chat GPT](../59)
 * 2023-05-18 10:28:02Z [20230518102750](../57)
 * 2023-05-17 16:14:10Z [](../56)
->>>>>>> refs/remotes/origin/main
 * 2023-05-17 16:02:47Z [Differences on Jetty and Aleph (Clojure web applications libraries)](../55)
 * 2023-05-15 01:13:09Z [Nice Voltaire quote (in Portuguese)](../54)
 * 2023-05-11 13:04:38Z [Multiple requests `day8.re-frame/http-fx`](../53)
@@ -99,7 +96,6 @@
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [Makes Sense](../2)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
->>>>>>> refs/remotes/origin/main
 * 2023-03-05 20:20:32Z [Lutris debug - glibc](../18)
 * 2023-03-05 20:20:32Z [Language and culture](../21)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
@@ -108,7 +104,6 @@
 * 2023-03-05 20:20:32Z [Vim plugin for snippets](../13)
 * 2023-03-05 20:20:32Z [Useful extra-functionalies in Vim](../12)
 * 2023-03-05 20:20:32Z [The Specter of Communism](../11)
-<<<<<<< HEAD
 * 2023-03-05 20:20:32Z [Experimenting with KEG](../5)
 * 2023-03-05 20:20:32Z [The underling forces behind Industry](../8)
 * 2023-03-05 20:20:32Z [Software Idea](../26)
