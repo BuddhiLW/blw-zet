@@ -8,6 +8,7 @@
 - Loom - Freedom Subjection 2023
 - Fantasia - Doom's, LabRat
 - Psipiralife - Darkness Feels Good (Gumnut Rmx), 2018
+- Stereo Plug - Killer Operation (Remix)
 
 ## Playing in Mix!
 
