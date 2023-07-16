@@ -10,6 +10,7 @@
 - Psipiralife - Darkness Feels Good (Gumnut Rmx), 2018
 - Stereo Plug - Killer Operation (Remix)
 - Fantazma - Dead Romeo
+- Lante - Poisoned Sounds
 
 ## Playing in Mix!
 
