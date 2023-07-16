@@ -9,6 +9,7 @@
 - Fantasia - Doom's, LabRat
 - Psipiralife - Darkness Feels Good (Gumnut Rmx), 2018
 - Stereo Plug - Killer Operation (Remix)
+- Fantazma - Dead Romeo
 
 ## Playing in Mix!
 
