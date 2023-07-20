@@ -1,4 +1,4 @@
-* 2023-07-18 10:50:57Z [Freqtrade](../91)
+* 2023-07-19 22:22:39Z [Freqtrade](../91)
 * 2023-07-15 22:48:34Z [Psytrance ](../74)
 * 2023-07-11 08:27:24Z [Unusually good quotes](../88)
 * 2023-07-10 15:21:23Z [Consolidação de mercado death care.](../87)
@@ -77,7 +77,7 @@
 * 2023-03-26 12:59:53Z [The capitalist markets](../34)
 * 2023-03-23 22:11:17Z [Discurso de formatura](../33)
 * 2023-03-05 20:22:24Z [Learn Reitit Course Notes](../32)
-* 2023-03-05 20:20:32Z [Language and culture](../21)
+* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
 * 2023-03-05 20:20:32Z [Dotfiles: the struggle is real](../28)
 * 2023-03-05 20:20:32Z [The divergent series (20221128185105)](../9)
 * 2023-03-05 20:20:32Z [The enginners and the price system](../4)
@@ -96,7 +96,7 @@
 * 2023-03-05 20:20:32Z [Chinese Practices](../20)
 * 2023-03-05 20:20:32Z [Makes Sense](../2)
 * 2023-03-05 20:20:32Z [Chinese and programming](../19)
-* 2023-03-05 20:20:32Z ["Solving" `tmux` using the `/bin/sh`](../24)
+* 2023-03-05 20:20:32Z [Language and culture](../21)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [Input-method in the terminal - tmux](../17)
 * 2023-03-05 20:20:32Z [A Command-line Interface (`CLI`) for translation](../16)
