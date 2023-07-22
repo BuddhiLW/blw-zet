@@ -1,5 +1,12 @@
 # Freqtrade
 
+```quote
+*Ultimate Criteria for the Optimal Trading Program*
+• Proven and tested results.
+• Easy to identify reversal indicators.
+• Elimination of emotional decision-making aspects.
+```
+
 ## Hyperopt
 
 |------------|----------------|--------|
