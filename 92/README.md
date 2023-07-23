@@ -201,3 +201,15 @@ class BLW14(IStrategy):
 
         return dataframe
 ```
+
+
+## Bots
+
+Current running:
+```bash
+freqtrade trade -c 18.json --strategy BLW18
+freqtrade trade -c 16.json --strategy BLW16
+freqtrade trade -c 19.json --strategy BLW19
+freqtrade trade -c 1-UST.json --strategy BLW20_USDT
+```
+
