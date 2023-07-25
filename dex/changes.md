@@ -1,3 +1,4 @@
+* 2023-07-25 13:25:58Z [Interesting Websites and People](../58)
 * 2023-07-11 08:27:24Z [Unusually good quotes](../88)
 * 2023-07-10 15:21:23Z [Consolidação de mercado death care.](../87)
 * 2023-07-07 13:58:13Z [Why Clojure?](../86)
@@ -12,7 +13,6 @@
 * 2023-06-20 19:14:18Z [Statistical references](../78)
 * 2023-06-20 17:53:39Z [Documentaries](../77)
 * 2023-06-20 14:04:05Z [Kelly Criterion for Blackjack - Betting Variation](../76)
-* 2023-06-20 12:51:48Z [Interesting Websites and People](../58)
 * 2023-06-19 19:25:11Z [Blackjack Practice](../75)
 * 2023-06-19 12:51:27Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
 * 2023-06-15 18:40:47Z [Logseq - A note-taking app](../72)
