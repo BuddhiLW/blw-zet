@@ -1,6 +1,6 @@
+* 2023-07-25 13:37:19Z [Freqtrade](../91)
 * 2023-07-25 13:25:58Z [Interesting Websites and People](../58)
 * 2023-07-23 17:20:32Z [Freqtrade operations](../92)
-* 2023-07-22 15:24:04Z [Freqtrade](../91)
 * 2023-07-15 22:48:34Z [Psytrance ](../74)
 * 2023-07-11 08:27:24Z [Unusually good quotes](../88)
 * 2023-07-10 15:21:23Z [Consolidação de mercado death care.](../87)
@@ -21,12 +21,9 @@
 * 2023-06-20 16:14:18Z [Statistical references](../78)
 * 2023-06-20 14:53:39Z [Documentaries](../77)
 * 2023-06-20 14:04:05Z [Kelly Criterion for Blackjack - Betting Variation](../76)
-<<<<<<< HEAD
-=======
 * 2023-06-20 12:51:48Z [Interesting Websites and People](../58)
 * 2023-06-20 11:04:05Z [Kelly Criterion for Blackjack - Betting Variation](../76)
 * 2023-06-20 09:51:48Z [Interesting Websites and People](../58)
->>>>>>> refs/remotes/origin/main
 * 2023-06-19 19:25:11Z [Blackjack Practice](../75)
 * 2023-06-19 16:25:11Z [Blackjack Practice](../75)
 * 2023-06-19 12:51:27Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)

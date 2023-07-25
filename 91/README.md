@@ -159,4 +159,11 @@ class BLWOptLoss(IHyperOptLoss):
             v = -1 * (3 / (1 / max_coef + 1 / sortino_ratio + 1 / total_profit))
 
         return v
+
 ```
+
+## Intestesting markets
+
+### High volatility
+- AUCTION/USDT
+
