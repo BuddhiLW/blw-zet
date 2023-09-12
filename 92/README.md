@@ -213,3 +213,9 @@ freqtrade trade -c 19.json --strategy BLW19
 freqtrade trade -c 1-UST.json --strategy BLW20_USDT
 ```
 
+20230911144237
+```
+freqtrade trade -c 2_USDT.json --strategy BLW22_USDT
+```
+
+

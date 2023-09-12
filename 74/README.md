@@ -11,6 +11,8 @@
 - Stereo Plug - Killer Operation (Remix)
 - Fantazma - Dead Romeo
 - Lante - Poisoned Sounds
+- Breguer - Against The Security (Psy-techno)
+-  Sneaky Voodoo - Selections 2018 - 2. Psychedelic Airlines   2018
 
 ## Playing in Mix!
 

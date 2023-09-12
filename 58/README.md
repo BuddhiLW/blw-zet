@@ -11,6 +11,7 @@
 - Emacs native compilation with fast JSON (un)marshalling. [^12]
 - Wesley Tansey, various projects in data analysis. (Ph.D.) [^13]
 - Kelly Criterion, in Clojure; by David Wright. [^14]
+- SVG to (x,y) equaly-spaced sample points [^15]	
 
 [^1]: https://otavio.dev/
 [^2]: https://twobithistory.org/2018/10/14/lisp.html
@@ -26,3 +27,4 @@
 [^12]: https://www.masteringemacs.org/article/speed-up-emacs-libjansson-native-elisp-compilation
 [^13]: http://wesleytansey.com/
 [^14]: https://github.com/dawguy
+[^15]: https://shinao.github.io/PathToPoints/
