@@ -12,6 +12,7 @@
 - Wesley Tansey, various projects in data analysis. (Ph.D.) [^13]
 - Kelly Criterion, in Clojure; by David Wright. [^14]
 - SVG to (x,y) equaly-spaced sample points [^15]	
+- GMX cryptocurrency [^16] 
 
 [^1]: https://otavio.dev/
 [^2]: https://twobithistory.org/2018/10/14/lisp.html
@@ -28,3 +29,4 @@
 [^13]: http://wesleytansey.com/
 [^14]: https://github.com/dawguy
 [^15]: https://shinao.github.io/PathToPoints/
+[^16]: https://gmx.io/#/

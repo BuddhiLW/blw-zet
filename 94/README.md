@@ -38,4 +38,8 @@ Vemos um fundamental exemplo de como sistemas de decisões democráticos ou auto
 ---------------------
 
 Será isso o significado de ser pós-capitalista?
+=======
+# Feelings
+
+# Segunda-feira, 20230807162935
 
