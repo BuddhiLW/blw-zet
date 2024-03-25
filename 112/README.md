@@ -2,6 +2,7 @@
 
 - Netanyahu stated lies
 - Blinken repeated those lies, as facts - without de facto investigations
+- Biden stated that saw pictures (about events that didn't happen) - most probably said it in heat of speech.
 
 # Pentad of Motives
 
