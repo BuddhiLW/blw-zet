@@ -1,4 +1,4 @@
-# Crime and Punishment, Dostoievski
+# Crime and Punishment, Dostoievski (20240406015319)
 
 ## Characters
 - Dunia (Avdótia Romanovna, Dunetchka)
@@ -15,7 +15,7 @@
 ### Referências culturais
 - Virgem de Kazã (referência religiosa)
 
-## Chapter 5
+## Chapter 5 (V)
 
 Ródion hesita em visitar Razumíkhin, e pedir ajuda para voltar a dar aulas, roupas e coisas do gênero. Basicamente, há mensão das ideias e intenções da visita de Ródion à visita de seu colega de faculdade, Razumíkhin.
 
@@ -34,5 +34,12 @@ A verdade que a indignidade ganha força numa visão de leitor e de Ródion, em 
 ### Referências culturais
 Puchkine, Turguenef (artistas)
 
+## Chapter 6 (VI)
 
+Chegado o dia, Ródion dá cabo ao seu plano. Testemunhamos alguns acasos, como leitores, preliminares e precursores ao que se deu.
 
+Coincidências, como a conversa de terceiros sobre assassinarem Alena, em tom leviado, em uma taverna. A qual, Ródion, compartilhando do intento internamente, ouve a conversa.
+
+Ou, no dia, o caso do machado a que planejara usar ser encontrado por acaso, na residência aberta de um dos moradores da moradia em que vivia. Pois, o machado ideado, inicialmente, não se encontrava nos aposentos das funcionárias, como esperava. Esse, assim, é outro acaso "fortuito", a que tudo propele Ródion a continuar seu plano. Como se o destino o propelasse paulatinamente, o provendo todos os meios.
+
+Finalmente, nos damos na porta de Alena.
