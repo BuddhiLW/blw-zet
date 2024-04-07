@@ -1,9 +1,9 @@
+* 2024-04-07 14:41:55Z [Arranjos de Flores, Funerária(s) - Work](../119)
 * 2024-04-07 14:36:54Z [Enhanced API Idea for Festival Organization and Big Events](../118)
 * 2024-04-06 21:42:50Z [Crime and Punishment, Dostoievski (20240406015319)](../114)
 * 2024-04-06 01:23:44Z [Movies](../115)
 * 2024-04-05 22:23:44Z [Three Musketeers, Alex Dumas](../116)
-* 2024-04-04 21:01:12Z [Consolidação de mercado death care.](../87)
-* 2024-04-04 21:01:12Z [](../95)
+* 2024-04-04 21:01:12Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
 * 2024-04-04 21:01:12Z [](../94)
 * 2024-04-04 21:01:12Z [Design System GovBR (Brazilian Government)](../93)
 * 2024-04-04 21:01:12Z [Freqtrade operations](../92)
@@ -12,7 +12,7 @@
 * 2024-04-04 21:01:12Z [The divergent series (20221128185105)](../9)
 * 2024-04-04 21:01:12Z [Freqtrade](../89)
 * 2024-04-04 21:01:12Z [Unusually good quotes](../88)
-* 2024-04-04 21:01:12Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
+* 2024-04-04 21:01:12Z [](../95)
 * 2024-04-04 21:01:12Z [Why Clojure?](../86)
 * 2024-04-04 21:01:12Z ["Data Compression - The Complete Reference", by David Salomon](../70)
 * 2024-04-04 21:01:12Z [](../71)
@@ -96,7 +96,7 @@
 * 2024-04-04 21:01:12Z [Aljazeera Investigations Doc 07, Out](../112)
 * 2024-04-04 21:01:12Z [Job Search](../111)
 * 2024-04-04 21:01:12Z [Too bright for the dark](../85)
-* 2024-04-04 21:01:12Z [The Specter of Communism](../11)
+* 2024-04-04 21:01:12Z [Consolidação de mercado death care.](../87)
 * 2024-04-04 21:01:12Z [Cloud Walk ](../109)
 * 2024-04-04 21:01:12Z [Awesome practical projects](../108)
 * 2024-04-04 21:01:12Z [GPT for Carrer advice](../107)
@@ -110,3 +110,4 @@
 * 2024-04-04 21:01:12Z [`tmux` really is awesome](../10)
 * 2024-04-04 21:01:12Z [Trying out KEG](../1)
 * 2024-04-04 21:01:12Z [Linkedin Convo](../110)
+* 2024-04-04 21:01:12Z [The Specter of Communism](../11)
