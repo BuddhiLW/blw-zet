@@ -14,4 +14,4 @@
 ## Routers - Web kits
 
 - Gorilla 
-- Chi
+- Chi       (Used in the course)
