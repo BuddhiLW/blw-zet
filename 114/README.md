@@ -8,8 +8,9 @@
 
 - Dmitri Prokofych Razumikhin (Razumíkhin) - Coaprendiz/colega de Ródion
 
-- Semyon Zakharovich Marmeladov (encontro com Ródion, no bar)
+- Semyon (Sêmen) Zakharovich Marmeladov (encontro com Ródion, no bar)
 - Sonetchka Marmêladov (Filha prostituta de Semyon)
+- Catarina Ivanovna
 
 - Sr. Svidrigailov - ex-patrão apaixonado de Dunia  (Arkady Ivanovich Svidrigailov)
 - Marfa Petrovna - mulher de Svidrigailov
@@ -36,6 +37,12 @@ Aparece na polítia, a reportar um acontecido escandaloso:
 
 - Nikolay (Milkolka) and Dmitri (Mitka) - pintores a que serviram de bóde espiatório do **crime**
 
+
+## Chapters I through IV
+
+Somos apresentados ao psicológico de Ródia, bem como seu claro desbalanço físico-psicológico. Bem como somos informados de um dado **plano** a que encasquetava em pensar e monologar-se sobre. Algo que o comia por dentro.
+
+Premetitava tomar uma ação drástica, e possuia certa misantropia como sua atitude geral. 
 
 ## Chapter 4
 
@@ -120,3 +127,41 @@ Ao se apresentar, vê que Ródia está extremamente debilitado, ao mesmo tempo q
 A situação escala, quando discutem sobre política, economia, e filosofia e os pensamentos do status-quo. Enfim, discordam sobre as interpretações do Zeitgeist da sociedade. E, Ródia se incendeia contra sua pessoa, o atacando diretamente, verbalmente, exponso suas posições diante de como pensa relativo a posição de marido e esposa. Isto é, que o marido deve ser uma espécie de beneficiário da mulher, a que deve se sentir em favores a sua pessoa. E, Petrovich, diante dessa escalação e desentendimento, sai amargurado do local.
 
 Razumíkhin e Zozimov acabam o diálogo do capítulo, notando como Ródia foi de mudo, a extremamente irritado, quando o tópico do assassinato veio a luz, junto com a irritação com a carta relativa às atualizações da vida de sua irmã, mãe e Petrovich, escrita pela sua mãe.
+
+## Chapter VI, Part II
+
+Raskólnikov se trocou, e saiu de casa, à noite, logo que deixaram seu cômodo.
+
+Ainda estava fraco, mas isso não o impediu de sair de casa.
+
+Passou por onde Isabel Ivanovna fazia negócio com os comerciantes, e ouvira que não estaria presente, em uma janela de horários, com Alena. Conversou com um comerciante que estava lá disposto.
+
+Viu pessoas em algazarra e foi à uma taverna, onde encontrou Zamitov.
+
+Estava com uma ideia de vir afrente com a verdade, e se entregar à polícia. Mas, não o fez. O que, de fato, se deu foi uma espécie de provocação. Crescendo a suspeira sobre si. E, finalmente, insinuando que era ele o autor do crime. Porém, num tom que poderia facilmente soar como um sarcasmo, pelo fato de estar até então febril e demente.
+
+A conversa involveu entorno de crimes, o que Raskólnikov faria de diferente para encontrar o suspeitos, dado o que ele mesmo faria, em cada caso. Inclusive, descreveu o que fizera, escondendo as joias, sem dizer onde - entretiu essa ideia a Zamitov, o qual ficou extremamente impressionado e chocado com a situação.
+
+Encontra Razumíkhin no caminho, e nega ir a sua casa, na comemoração de seu novo móvel. Razumíkhin fica sabendo que conversara com Zamitov, sem saber o conteúdo da conversa. E, também passa a Ródia seu endereço, e partem seu próprio caminho.
+
+## Chapter VII, Part II
+
+Raskólnikov se dá com um acidente. Um bêbado atropelado por uma carruagem. Acaba que era Semyon Marmeladov.
+
+Ródia diz que o conhece, em voz alta, e ajudou a polícia a levâ-lo a sua casa. E, prometia pagar por todos os gastos com médicos etc.
+
+Chegando lá, Catarina Ivanovna reclamava do marido e das disgraças de sua vida, por suas escolhas terem levado àquela cena de pobreza.
+
+Acodem e chamam um Padre e um Médico, para verem o Sêmion Marmeladov. O medico o dá dez minutos para viver. Se arrepende ao Padre, a Catarina e a Sônia, a qual foi chamada e veio correndo.
+
+Logo que chegou, seu pai só conseguiu proferir suas desculpas e falesceu.
+
+Raskólnikov dá o dinheiro a Catarina, para lidar com as dispezas, 20 rublos, dos 25 que tinha.
+
+Saindo dali, faz trocas breves com a filha mais nova, que promete rezar por ele, a seu pedido. 
+
+Se sentiu revigorado, e prometeu-se viver ao máximo, dali em diante. Uma mudaça ocorria em seu ânimo geral.
+
+Acaba por decidir ir à comemoração de Razumikhin e discorrem sobre poucas coisas, porém, dentre elas, sobre a conversa entre Raskólnikov e Zamitov. Porém, leva no tom de descrença e como Ródia foi habilidoso em pregar-lhe peças, com palavras.
+
+Ródia se direciona para sua casa - acompanhado por Razumíkhin - onde dá de cara com sua irmã e mãe o esperando, junto de Nastácia, a qual colocaram elas a par de todos mais recentes ocorridos, por meio de interrogações que faziam a ela.
