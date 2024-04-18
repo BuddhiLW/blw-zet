@@ -30,3 +30,9 @@ Entre no negócio sabendo o quanto quer ganhar; quando chegar lá, caia fora
 
 --Max Gunther
 ```
+
+```
+Preocupamo-nos demais com as máquinas - computadores, robôs - e não com as possibilidades que a informática abre para a educação dos homens
+
+--Jean-Jacques Servan-Schreiber
+```
