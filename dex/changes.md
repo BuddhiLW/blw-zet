@@ -1,3 +1,4 @@
+* 2024-04-20 00:03:46Z [Books to be a good self seller (whore)](../129)
 * 2024-04-20 00:01:27Z [TODO CSS pen awesome ideas](../128)
 * 2024-04-18 10:33:10Z [Unusually good quotes](../88)
 * 2024-04-17 14:19:10Z [When to Use Webhooks, WebSocket, Pub/Sub, and Polling?](../127)
