@@ -36,3 +36,9 @@ Preocupamo-nos demais com as máquinas - computadores, robôs - e não com as po
 
 --Jean-Jacques Servan-Schreiber
 ```
+
+```
+Otimista e o homem que espera no carro com o motor ligado
+enquanto a mulher faz compras.
+        -- Roussin Andre
+```
