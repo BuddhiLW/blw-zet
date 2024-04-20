@@ -1,4 +1,4 @@
-# Crime and Punishment, Dostoievski (20240406015319)
+# Crime and Punishment, Dostoievski (20240406015319) - Parts I-III
 
 ## Characters
 
@@ -154,7 +154,7 @@ Chegando lá, Catarina Ivanovna reclamava do marido e das disgraças de sua vida
 
 Acodem e chamam um Padre e um Médico, para verem o Sêmion Marmeladov. O medico o dá dez minutos para viver. Se arrepende ao Padre, a Catarina e a Sônia, a qual foi chamada e veio correndo.
 
-Logo que chegou, seu pai só conseguiu proferir suas desculpas e falesceu.
+Logo que chegou, seu pai só conseguiu proferir suas desculpas e faleceu.
 
 Raskólnikov dá o dinheiro a Catarina, para lidar com as dispezas, 20 rublos, dos 25 que tinha.
 
@@ -165,3 +165,62 @@ Se sentiu revigorado, e prometeu-se viver ao máximo, dali em diante. Uma mudaç
 Acaba por decidir ir à comemoração de Razumikhin e discorrem sobre poucas coisas, porém, dentre elas, sobre a conversa entre Raskólnikov e Zamitov. Porém, leva no tom de descrença e como Ródia foi habilidoso em pregar-lhe peças, com palavras.
 
 Ródia se direciona para sua casa - acompanhado por Razumíkhin - onde dá de cara com sua irmã e mãe o esperando, junto de Nastácia, a qual colocaram elas a par de todos mais recentes ocorridos, por meio de interrogações que faziam a ela.
+
+## Chapter I, Part III
+
+Razumikhin conhece Pulquéria Alexandrovna e Avdótia Romanovna (Dúnia). Ele está bêbado, e fala eloquentemente, além do que falaria normalmente.
+
+No entanto, elas gostam de o conhecer. 
+
+Ao mesmo tempo, ele expressamente tem uma queda por Dúnia, e à adressa quanto aos seus sentimentos.
+
+## Chapter III, Part II
+
+Razumíkhin acorda com uma ressaca moral; lembrando-se de tudo que havia feito na noite passada, bêbado. Porém, não se deixa embarassar, nem sente que foi inverdadeiro. Com isso, não estava orgulhoso pelo modo que se portara, no entanto, não se arrependia-se do que havia expressado.
+
+Acaba por solidificar suas relações amistosas com as parentes de Ródia.
+
+Elas acabam o consideram próximo, como um familiar.
+
+E, confiam a ele a leitura e avaliação de uma carta de Petrovich, que concernia a elas e Ródion. A qual, convidava-as a jantar com ele, e travarem relações em Petersburgo. Porém, proibindo a vinda de Ródia, como condição do encontro, devido ao fato de terem se desentendimento previamente.
+
+Decidem seguir como Dúnia propora: ignorando o pedido de Petro Petrovich, e levando Ródia ao jantar, para que tudo se desenrolasse como tivesse que ser.
+
+## Chapter IV, Part II
+
+Todos se juntam com Ródia, e entram em diversos assuntos, mas objetivando discutir o jantar. E, tomarem uma decisão sobre o assunto.
+
+Ródia está melhor, como atesta Zózimov, positivamente.
+
+E, então, após falarem sobre o presente de Marfa Petrovna - a que falecera - à Dúnia, um relógio. E, sobre a ex-pretendente de Ródia, que também viera a falecer, e como era sofrida. Para Dúnia, todo o sofrimento que aturara em vida, a faziam ainda mais atraente. Por isso, apaixonarasse por ela, afinal.
+
+Por fim, entram no assunto de Pedro Petrovich e ficam decidido de todos irem, inclusive Razumíkhin.
+
+## Chapter IV, Part III
+
+Sônia Semenovna Marmêladov encontra a casa de Ródion, a que viera agradecer pelo favor de ter pago o funeral de seu pai. Ademais, o convida a fazer uma refeição em sua casa, com sua família em forma de agradecimento, bem como travarem relações.
+
+Raskólnikov ficou interessado em Sônia, e conseguimos imaginas - como leitores - que talvez possam se relacionar. Pois, Sônia possui diversas características similares à sua última pretendente. Uma vida sofrida, e uma capacidade de suportar uma condição de vida insalubre. Uma pessoa resistente e simples, ao mesmo tempo, merecedora de tudo que a vida tem de bom para prover.
+
+Razúmikhin leva Raskólnikov para conhecer Porfírio Petróvich, o qual era seu parente. Raskólnikov perguntou por ele, pois queria reaver seus bens penhorados à falecina Alena Ivanovna.
+
+Porfírio era responsável da investigação do assassinato.
+
+Raskólnikov diz que lembrara dos itens, ao discutirem o relógio presenteado por Marfa Petrovina. E, que o seu relógio era o último item que tinham de seu pai.
+
+
+## Chapter V, Part III
+
+Chegaram Razumíkhin e Raskólnikov gargalhando à casa de Porfírio - situação propositalmente criada por Ródia.
+
+Zametov também estava em sua casa, e provavelmente conversavam sobre hipóteses, relativas ao assassínio. Possivelmente, sobre Raskólnikov, em si.
+
+Várias coisas apontavam à Raskólnikov. O horário do crime batia com o horário dias atrás penhorar seus bens. Os bens eram sentimentalmente valiosos. A impulsividade com que se comportou, gastando todo seu dinheiro em um funeral de um conhecido de bar - enquanto estava ainda levemente "doente". O último a retirar os itens penhorados.
+
+E, finalmente, Porfírio e Zametov se mostravam tremendamente **interessados** no artigo que Raskólnikov havia escrito sobre a moralidade de crimes. Artigo em que defendia que certas pessoas extraordinárias, em retrospectiva histórica, teriam direito de cometer crimes, se fossem em detrimento das contribuições que fizeram à humanidade.
+
+Porfírio joga diversos verdes, tentando tirar uma confissão que comprometesse Raskólnikov, além das condições circuntanciais. Porém, Ródia foi esperto e logo entendeu o que se passava; uma espécie de interrogação informal.
+
+Ródia e Razumíkhin partem, em grave tom, da casa de Porfírio, levando seus bens recuperados.
+
+## Chapter VI, Part III
