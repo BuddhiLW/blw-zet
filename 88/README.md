@@ -42,3 +42,16 @@ Otimista e o homem que espera no carro com o motor ligado
 enquanto a mulher faz compras.
         -- Roussin Andre
 ```
+
+```
+Ha quedas que provocam ascensoes maiores.
+        --  William Shakespeare
+```
+
+```
+Disobedience is the true foundation of liberty. The obedient must be slaves.
+                -- Henry David Thoreau
+```
+
+
+
