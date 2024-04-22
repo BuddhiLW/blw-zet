@@ -1,4 +1,4 @@
-* 2024-04-21 13:52:50Z [Unusually good quotes](../88)
+* 2024-04-22 12:03:16Z [Unusually good quotes](../88)
 * 2024-04-20 19:11:31Z [Crime and Punishment, Dostoievski (20240406015319) - Parts I-III](../114)
 * 2024-04-20 00:03:46Z [Books to be a good self seller (whore)](../129)
 * 2024-04-20 00:01:27Z [TODO CSS pen awesome ideas](../128)
