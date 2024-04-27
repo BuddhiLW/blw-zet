@@ -59,3 +59,7 @@ mulheres com quem ele não se casou.
         -- Oscar Wilde
 ```
 
+```
+If the Nuremberg laws were applied, then every post-war American president would have been hanged.
+                -- Noam Chomsky
+```
