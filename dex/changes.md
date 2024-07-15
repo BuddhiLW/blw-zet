@@ -1,3 +1,4 @@
+* 2024-07-15 19:45:44Z [Install emacs with native compilation](../45)
 * 2024-07-07 17:40:03Z [Lazy Wall Cli](../134)
 * 2024-06-21 11:09:34Z [Github submodules](../133)
 * 2024-06-21 10:55:26Z [Cadence](../132)
@@ -19,8 +20,7 @@
 * 2024-04-07 14:41:55Z [Arranjos de Flores, Funerária(s) - Work](../119)
 * 2024-04-07 14:36:54Z [Enhanced API Idea for Festival Organization and Big Events](../118)
 * 2024-04-05 22:23:44Z [Three Musketeers, Alex Dumas](../116)
-* 2024-04-04 21:01:12Z [Freqtrade operations](../92)
-* 2024-04-04 21:01:12Z [Freqtrade](../89)
+* 2024-04-04 21:01:12Z [The divergent series (20221128185105)](../9)
 * 2024-04-04 21:01:12Z [](../94)
 * 2024-04-04 21:01:12Z [](../95)
 * 2024-04-04 21:01:12Z [Why Clojure?](../86)
@@ -59,10 +59,10 @@
 * 2024-04-04 21:01:12Z [Time alone](../40)
 * 2024-04-04 21:01:12Z [Re-frame](../41)
 * 2024-04-04 21:01:12Z [Quote 1](../43)
-* 2024-04-04 21:01:12Z [Install emacs with native compilation](../45)
+* 2024-04-04 21:01:12Z [Freqtrade](../89)
 * 2024-04-04 21:01:12Z [Stack Overflow Deleted question](../46)
 * 2024-04-04 21:01:12Z [Re-frame](../47)
-* 2024-04-04 21:01:12Z [The divergent series (20221128185105)](../9)
+* 2024-04-04 21:01:12Z [Freqtrade operations](../92)
 * 2024-04-04 21:01:12Z [Re-frame documentation notes (Cofx)](../49)
 * 2024-04-04 21:01:12Z [Experimenting with KEG](../5)
 * 2024-04-04 21:01:12Z [Horizontal Rules with CSS](../50)
@@ -93,7 +93,7 @@
 * 2024-04-04 21:01:12Z [Language and culture](../21)
 * 2024-04-04 21:01:12Z [Chinese Practices](../20)
 * 2024-04-04 21:01:12Z [Makes Sense](../2)
-* 2024-04-04 21:01:12Z [Sorry, planned but not yet available](../0)
+* 2024-04-04 21:01:12Z [ChatGPT summarization chronics](../104)
 * 2024-04-04 21:01:12Z [Lutris debug - glibc](../18)
 * 2024-04-04 21:01:12Z [Input-method in the terminal - tmux](../17)
 * 2024-04-04 21:01:12Z [A Command-line Interface (`CLI`) for translation](../16)
@@ -123,6 +123,6 @@
 * 2024-04-04 21:01:12Z [Awesome practical projects](../108)
 * 2024-04-04 21:01:12Z [Useful Linux Info (Keystroke Singnals and it's meanings)](../106)
 * 2024-04-04 21:01:12Z [Practical Physics](../105)
-* 2024-04-04 21:01:12Z [ChatGPT summarization chronics](../104)
-* 2024-04-04 18:01:12Z [Use and translate tutorials with Clojure](../62)
+* 2024-04-04 21:01:12Z [Sorry, planned but not yet available](../0)
 * 2024-04-04 18:01:12Z [Components and examples in ClojureScript](../42)
+* 2024-04-04 18:01:12Z [Use and translate tutorials with Clojure](../62)
