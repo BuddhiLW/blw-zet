@@ -1,3 +1,4 @@
+* 2024-07-26 15:26:20Z [Interesting commands Unix](../140)
 * 2024-07-25 12:27:00Z [Rice up](../139)
 * 2024-07-24 21:16:27Z [Set theory, Charles Pinter](../138)
 * 2024-07-23 16:10:47Z [A lógica matemática e a filosofia da vida.](../137)
@@ -25,8 +26,7 @@
 * 2024-04-07 14:41:55Z [Arranjos de Flores, Funerária(s) - Work](../119)
 * 2024-04-07 14:36:54Z [Enhanced API Idea for Festival Organization and Big Events](../118)
 * 2024-04-05 22:23:44Z [Three Musketeers, Alex Dumas](../116)
-* 2024-04-04 21:01:12Z ["Data Compression - The Complete Reference", by David Salomon](../70)
-* 2024-04-04 21:01:12Z [Contatos](../96)
+* 2024-04-04 21:01:12Z [Horizontal Rules with CSS](../50)
 * 2024-04-04 21:01:12Z [Freqtrade](../91)
 * 2024-04-04 21:01:12Z [Market strategies and signals](../99)
 * 2024-04-04 21:01:12Z [Colorir](../83)
@@ -65,7 +65,7 @@
 * 2024-04-04 21:01:12Z [](../94)
 * 2024-04-04 21:01:12Z [Why Clojure?](../86)
 * 2024-04-04 21:01:12Z [](../71)
-* 2024-04-04 21:01:12Z [Horizontal Rules with CSS](../50)
+* 2024-04-04 21:01:12Z [Contatos](../96)
 * 2024-04-04 21:01:12Z [How to setup `transmission` in Ubuntu](../51)
 * 2024-04-04 21:01:12Z [How much it costs to full-fled website?](../52)
 * 2024-04-04 21:01:12Z [Multiple requests `day8.re-frame/http-fx`](../53)
@@ -115,7 +115,7 @@
 * 2024-04-04 21:01:12Z [Re-frame documentation notes (Cofx)](../49)
 * 2024-04-04 21:01:12Z [](../95)
 * 2024-04-04 21:01:12Z [Experimenting with KEG](../5)
-* 2024-04-04 21:01:12Z [`tmux` really is awesome](../10)
+* 2024-04-04 21:01:12Z ["Data Compression - The Complete Reference", by David Salomon](../70)
 * 2024-04-04 21:01:12Z [Trying out KEG](../1)
 * 2024-04-04 21:01:12Z [Linkedin Convo](../110)
 * 2024-04-04 21:01:12Z [The Specter of Communism](../11)
@@ -129,5 +129,6 @@
 * 2024-04-04 21:01:12Z [Binding developer-oriented commands to keystrokes in Emacs](../102)
 * 2024-04-04 21:01:12Z [Dump - Trading and settings](../101)
 * 2024-04-04 21:01:12Z [Trading Stategy #1 - Hyperoptable strategy](../100)
+* 2024-04-04 21:01:12Z [`tmux` really is awesome](../10)
 * 2024-04-04 18:01:12Z [Components and examples in ClojureScript](../42)
 * 2024-04-04 18:01:12Z [Use and translate tutorials with Clojure](../62)
