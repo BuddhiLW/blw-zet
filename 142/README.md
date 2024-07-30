@@ -75,5 +75,11 @@ It's a heavy choice, between that, and... well, it's ugly con:
 - Spend time learning about other programs.
 - Be curious about "how this person did that?"
 
+Not everyone can go unharmed through this cons. It gives scars of wisdom and insight about software. Awareness.
+
+"The world, and mainly the professional world, doesn't require that from us, right? It's not practical. It's just the fantasy world of a nerd."
+
+At least, I'm the father of my own creation. I will leave at that. 
+
 ## Footnote
 [^1]: terminal, browser, music player, bars, digital clock animations, etc 
