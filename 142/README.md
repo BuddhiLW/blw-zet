@@ -1,3 +1,19 @@
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
+**Table of Contents**
+
+- [The "Desktop" Debate](#the-desktop-debate)
+    - [Assumpion](#assumpion)
+    - [OSes and WM/DEs](#oses-and-wmdes)
+    - [Degrees of Freedom](#degrees-of-freedom)
+    - [How Linux freedom looks like](#how-linux-freedom-looks-like)
+    - [WMs/DEs](#wmsdes)
+    - [DW/DE and OSes](#dwde-and-oses)
+    - [Customizability ](#customizability)
+    - [Final thoughts](#final-thoughts)
+    - [Footnote](#footnote)
+- [Footnotes](#footnotes)
+
+<!-- markdown-toc end -->
 # The "Desktop" Debate
 
 ## Assumpion
@@ -96,5 +112,4 @@ Not everyone can go unharmed through this cons. It gives scars of wisdom and ins
 
 At least, I'm the father of my own creation. I will leave at that. 
 
-## Footnote
 [^1]: terminal, browser, music player, bars, digital clock animations, etc 
