@@ -1,5 +1,5 @@
-* 2024-08-30 12:48:23Z [Poem -- The Lady's Suffering](../145)
-* 2024-08-30 12:39:18Z [(Orasis) Azure Useful commands](../144)
+* 2024-08-30 13:58:35Z [(Orasis) Azure Useful commands](../144)
+* 2024-08-30 13:53:39Z [Poem -- The Lady's Suffering](../145)
 * 2024-08-14 12:47:16Z [TODO: Great Ideas Tasks](../136)
 * 2024-08-14 12:46:02Z [Switch Headset Profile Programmatically ](../143)
 * 2024-07-30 18:20:44Z [The "Desktop" Debate](../142)

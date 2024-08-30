@@ -18,4 +18,5 @@ x->y: `x` cluster's port to `y` local port.
 
 ``` bash
 kubectl port-forward svc/redpanda-console -n redpanda 8yyy:8xxx
+kubectl port-forward svc/cadence-web -n cadence 8yyy:80
 ```
