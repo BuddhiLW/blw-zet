@@ -1,4 +1,4 @@
-* 2024-08-30 12:33:23Z [(Orasis) Azure Useful commands](../144)
+* 2024-08-30 12:39:18Z [(Orasis) Azure Useful commands](../144)
 * 2024-08-14 12:47:16Z [TODO: Great Ideas Tasks](../136)
 * 2024-08-14 12:46:02Z [Switch Headset Profile Programmatically ](../143)
 * 2024-07-30 18:20:44Z [The "Desktop" Debate](../142)
@@ -31,7 +31,7 @@
 * 2024-04-07 14:41:55Z [Arranjos de Flores, Funerária(s) - Work](../119)
 * 2024-04-07 14:36:54Z [Enhanced API Idea for Festival Organization and Big Events](../118)
 * 2024-04-05 22:23:44Z [Three Musketeers, Alex Dumas](../116)
-* 2024-04-04 21:01:12Z [How much it costs to full-fled website?](../52)
+* 2024-04-04 21:01:12Z [Bankers and Tellers](../81)
 * 2024-04-04 21:01:12Z [On Kelly Criterion](../80)
 * 2024-04-04 21:01:12Z [The underling forces behind Industry](../8)
 * 2024-04-04 21:01:12Z [On hypocrisies](../79)
@@ -67,7 +67,7 @@
 * 2024-04-04 21:01:12Z [](../71)
 * 2024-04-04 21:01:12Z [Horizontal Rules with CSS](../50)
 * 2024-04-04 21:01:12Z [Colorir](../83)
-* 2024-04-04 21:01:12Z [Bankers and Tellers](../81)
+* 2024-04-04 21:01:12Z [How much it costs to full-fled website?](../52)
 * 2024-04-04 21:01:12Z [Multiple requests `day8.re-frame/http-fx`](../53)
 * 2024-04-04 21:01:12Z [Nice Voltaire quote (in Portuguese)](../54)
 * 2024-04-04 21:01:12Z [Differences on Jetty and Aleph (Clojure web applications libraries)](../55)
@@ -101,7 +101,7 @@
 * 2024-04-04 21:01:12Z [Vim plugin for snippets](../13)
 * 2024-04-04 21:01:12Z [`tmux` really is awesome](../10)
 * 2024-04-04 21:01:12Z [Trying out KEG](../1)
-* 2024-04-04 21:01:12Z [Aljazeera Investigations Doc 07, Out](../112)
+* 2024-04-04 21:01:12Z [The Specter of Communism](../11)
 * 2024-04-04 21:01:12Z [Job Search](../111)
 * 2024-04-04 21:01:12Z [Too bright for the dark](../85)
 * 2024-04-04 21:01:12Z [Consolidação de mercado death care.](../87)
@@ -133,6 +133,6 @@
 * 2024-04-04 21:01:12Z [Movies - Devil's Advocate](../113)
 * 2024-04-04 21:01:12Z [Contatos](../96)
 * 2024-04-04 21:01:12Z [Linkedin Convo](../110)
-* 2024-04-04 21:01:12Z [The Specter of Communism](../11)
-* 2024-04-04 18:01:12Z [Components and examples in ClojureScript](../42)
+* 2024-04-04 21:01:12Z [Aljazeera Investigations Doc 07, Out](../112)
 * 2024-04-04 18:01:12Z [Use and translate tutorials with Clojure](../62)
+* 2024-04-04 18:01:12Z [Components and examples in ClojureScript](../42)
