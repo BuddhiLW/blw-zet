@@ -22,7 +22,9 @@ kubectl port-forward svc/cadence-web -n cadence 8yyy:80
 ```
 
 
+```bash
  kubectl logs deployments/cadence-frontend -n cadence
  kubectl logs -l app=pricing-backend-api-dag-manager -n pricing-apps --tail=100
  kubectl port-forward svc/cadence-frontend -n cadence 7933:7933
  kubectl port-forward svc/cadence-frontend-tunnel -n cadence 7933:7933
+```

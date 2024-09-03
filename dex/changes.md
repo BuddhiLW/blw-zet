@@ -1,5 +1,5 @@
+* 2024-09-03 15:36:27Z [(Orasis) Azure Useful commands](../144)
 * 2024-09-02 10:16:47Z [Military Industrial Complex](../146)
-* 2024-08-30 18:52:35Z [(Orasis) Azure Useful commands](../144)
 * 2024-08-30 13:53:39Z [Poem -- The Lady's Suffering](../145)
 * 2024-08-14 12:47:16Z [TODO: Great Ideas Tasks](../136)
 * 2024-08-14 12:46:02Z [Switch Headset Profile Programmatically ](../143)
