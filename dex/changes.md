@@ -1,3 +1,6 @@
+* 2024-10-11 13:39:17Z [Unusually good quotes](../88)
+* 2024-10-11 13:38:17Z [Job Search](../111)
+* 2024-10-11 11:35:33Z [The capitalist markets](../34)
 * 2024-10-07 11:34:35Z [Isosec related APIs](../149)
 * 2024-09-25 11:30:08Z [Poem -- Nem um dia](../148)
 * 2024-09-25 11:21:35Z [Clojure Deploy (Resources)](../147)
@@ -16,11 +19,9 @@
 * 2024-07-15 19:45:44Z [Install emacs with native compilation](../45)
 * 2024-07-15 19:20:09Z [Awesome practical projects](../108)
 * 2024-07-15 19:20:09Z [Bankers and Tellers](../81)
-* 2024-07-15 19:20:09Z [The capitalist markets](../34)
 * 2024-07-15 19:20:09Z [On Kelly Criterion](../80)
 * 2024-07-15 19:20:09Z [Binding developer-oriented commands to keystrokes in Emacs](../102)
 * 2024-07-15 19:20:09Z [Trading Stategy #1 - Hyperoptable strategy](../100)
-* 2024-07-15 19:20:09Z [Job Search](../111)
 * 2024-07-15 19:20:09Z [Facebook gathered-content](../6)
 * 2024-07-15 19:20:09Z [Movies - Devil's Advocate](../113)
 * 2024-07-15 19:20:09Z [Dostoievsky's The Idiot (20221125132220)](../3)
@@ -33,7 +34,6 @@
 * 2024-06-21 10:55:26Z [Cadence](../132)
 * 2024-06-20 13:12:23Z [Kafka built with C++](../131)
 * 2024-06-17 12:30:17Z [Developing Fullstack Mobile App](../130)
-* 2024-04-27 17:29:22Z [Unusually good quotes](../88)
 * 2024-04-20 00:03:46Z [Books to be a good self seller (whore)](../129)
 * 2024-04-20 00:01:27Z [TODO CSS pen awesome ideas](../128)
 * 2024-04-17 14:19:10Z [When to Use Webhooks, WebSocket, Pub/Sub, and Polling?](../127)
@@ -48,8 +48,8 @@
 * 2024-04-07 14:41:55Z [Arranjos de Flores, Funerária(s) - Work](../119)
 * 2024-04-07 14:36:54Z [Enhanced API Idea for Festival Organization and Big Events](../118)
 * 2024-04-05 22:23:44Z [Three Musketeers, Alex Dumas](../116)
-* 2024-04-04 21:01:12Z [Differences on Jetty and Aleph (Clojure web applications libraries)](../55)
-* 2024-04-04 21:01:12Z [Exercising](../82)
+* 2024-04-04 21:01:12Z [VirtualBox and Mongodb - AVX and AVX2](../31)
+* 2024-04-04 21:01:12Z [A Command-line Interface (`CLI`) for translation](../16)
 * 2024-04-04 21:01:12Z [Notes on DEFCon doc](../35)
 * 2024-04-04 21:01:12Z [Cool websites](../37)
 * 2024-04-04 21:01:12Z [p1 (20230330173106)](../38)
@@ -68,7 +68,7 @@
 * 2024-04-04 21:01:12Z [Colorir](../83)
 * 2024-04-04 21:01:12Z [The underling forces behind Industry](../8)
 * 2024-04-04 21:01:12Z [Ascension of Bahá’u’lláh - what Emacs can tech you](../63)
-* 2024-04-04 21:01:12Z [VirtualBox and Mongodb - AVX and AVX2](../31)
+* 2024-04-04 21:01:12Z [Differences on Jetty and Aleph (Clojure web applications libraries)](../55)
 * 2024-04-04 21:01:12Z [Discurso de formatura](../33)
 * 2024-04-04 21:01:12Z [](../56)
 * 2024-04-04 21:01:12Z [20230518102750](../57)
@@ -95,7 +95,7 @@
 * 2024-04-04 21:01:12Z [ChatGPT summarization chronics](../104)
 * 2024-04-04 21:01:12Z [Lutris debug - glibc](../18)
 * 2024-04-04 21:01:12Z [Input-method in the terminal - tmux](../17)
-* 2024-04-04 21:01:12Z [A Command-line Interface (`CLI`) for translation](../16)
+* 2024-04-04 21:01:12Z [Exercising](../82)
 * 2024-04-04 21:01:12Z [Active procedure of paranoiac thought ](../15)
 * 2024-04-04 21:01:12Z [Vim plugin for snippets](../13)
 * 2024-04-04 21:01:12Z [`tmux` really is awesome](../10)

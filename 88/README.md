@@ -63,3 +63,9 @@ mulheres com quem ele não se casou.
 If the Nuremberg laws were applied, then every post-war American president would have been hanged.
                 -- Noam Chomsky
 ```
+
+```
+É fácil ser gentil com as pessoas a quem não damos a mínima
+importância.
+                -- Oscar Wilde
+```
