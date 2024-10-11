@@ -1,6 +1,6 @@
+* 2024-10-11 17:11:31Z [Unusually good quotes](../88)
+* 2024-10-11 17:11:04Z [Job Search](../111)
 * 2024-10-11 14:40:17Z [Os Três Mosqueteiros ](../150)
-* 2024-10-11 13:39:17Z [Unusually good quotes](../88)
-* 2024-10-11 13:38:17Z [Job Search](../111)
 * 2024-10-11 11:35:33Z [The capitalist markets](../34)
 * 2024-10-07 11:34:35Z [Isosec related APIs](../149)
 * 2024-09-25 11:30:08Z [Poem -- Nem um dia](../148)

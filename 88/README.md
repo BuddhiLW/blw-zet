@@ -69,3 +69,8 @@ If the Nuremberg laws were applied, then every post-war American president would
 importância.
                 -- Oscar Wilde
 ```
+
+```
+        É melhor acender a vela do que amaldiçoar a escuridão.
+                --  Confucio
+```
