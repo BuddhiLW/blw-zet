@@ -74,3 +74,8 @@ importância.
         É melhor acender a vela do que amaldiçoar a escuridão.
                 --  Confucio
 ```
+
+```
+I say, if death is the penalty for proclaiming truth, then I will proudly and defiantly pay the costly price! Truth crucified in Socrates, in Christ, in Giordano Bruno, in Huss, Galileo still lives -- they and others whose number is legion have preceded us on this path. We are ready to follow!
+                -- August Spies
+```
