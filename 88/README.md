@@ -85,3 +85,8 @@ I say, if death is the penalty for proclaiming truth, then I will proudly and de
         deixando completamente ignorantes.
                 -- Voltaire
 ```
+
+``` quote
+Love sought is good, but given unsought, is better.
+-- William Shakespeare
+```
