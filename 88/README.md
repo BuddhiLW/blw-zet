@@ -90,3 +90,13 @@ I say, if death is the penalty for proclaiming truth, then I will proudly and de
 Love sought is good, but given unsought, is better.
 -- William Shakespeare
 ```
+
+``` quote
+People who should be shot: Fascist thugs, religious fundamentalists, people who write lists telling you who should be shot.
+                -- Banksy
+```
+
+``` quote
+        A longo prazo, estaremos todos mortos.
+                -- John Maynard Keynes
+```
