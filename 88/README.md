@@ -100,3 +100,13 @@ People who should be shot: Fascist thugs, religious fundamentalists, people who 
         A longo prazo, estaremos todos mortos.
                 -- John Maynard Keynes
 ```
+
+``` quote
+Capitalism is a system in which the central institutions of society are in principle under autocratic control.
+                -- Noam Chomsky
+```
+
+``` quote
+To live is the rarest thing in the world. Most people exist, that is all.
+                -- Oscar Wilde
+```
