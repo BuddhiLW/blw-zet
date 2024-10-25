@@ -123,3 +123,8 @@ ns conspire all the time. Politicians conspire all the time, pot-dealers conspir
                 -- Robert Anton Wilson
 ```
 
+``` quote
+Há uma espécie de pretensão espiritual que faz com que algumas pessoas acreditem que podem ser felizes sem dinheiro
+
+--Albert Camus
+```
