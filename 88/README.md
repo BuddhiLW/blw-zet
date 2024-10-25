@@ -110,3 +110,16 @@ Capitalism is a system in which the central institutions of society are in princ
 To live is the rarest thing in the world. Most people exist, that is all.
                 -- Oscar Wilde
 ```
+
+``` quote
+        Os covardes morrem muitas vezes antes da morte; os valentes
+        so sentem o gosto da morte uma vez.
+                --  William Shakespeare
+```
+
+``` quote
+Everybody who has ever worked for a corporation knows that corporatio
+ns conspire all the time. Politicians conspire all the time, pot-dealers conspire not to get caught by the narcs, the world is full of conspiracies. Conspiracy is natural primate behavior.
+                -- Robert Anton Wilson
+```
+
