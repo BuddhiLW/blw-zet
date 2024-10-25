@@ -128,3 +128,10 @@ Há uma espécie de pretensão espiritual que faz com que algumas pessoas acredi
 
 --Albert Camus
 ```
+
+``` quote
+'Quando a ordem significa escravidão e opressão, a desordem é o começo da
+justiça e da liberdade.'
+
+--Thomas Carlyle
+```
