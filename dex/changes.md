@@ -1,3 +1,4 @@
+* 2024-10-31 15:08:15Z [(Orasis) Azure Useful commands](../144)
 * 2024-10-30 13:58:59Z [Project Idea](../153)
 * 2024-10-25 15:05:05Z [Unusually good quotes](../88)
 * 2024-10-25 12:17:28Z [Self-affirmation Theory](../152)
@@ -8,7 +9,6 @@
 * 2024-10-07 11:34:35Z [Isosec related APIs](../149)
 * 2024-09-25 11:30:08Z [Poem -- Nem um dia](../148)
 * 2024-09-25 11:21:35Z [Clojure Deploy (Resources)](../147)
-* 2024-09-03 15:36:27Z [(Orasis) Azure Useful commands](../144)
 * 2024-09-02 10:16:47Z [Military Industrial Complex](../146)
 * 2024-08-30 13:53:39Z [Poem -- The Lady's Suffering](../145)
 * 2024-08-14 12:47:16Z [TODO: Great Ideas Tasks](../136)
