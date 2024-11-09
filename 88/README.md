@@ -135,3 +135,9 @@ justiça e da liberdade.'
 
 --Thomas Carlyle
 ```
+
+``` quote
+        A força não provem da capacidade fisica e sim de uma vontade
+        indomável.
+                -- Mahatma Gandhi
+```
