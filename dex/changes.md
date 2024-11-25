@@ -1,3 +1,4 @@
+* 2024-11-25 14:54:16Z [Reunião](../156)
 * 2024-11-15 21:29:47Z [Freqtrade Hyperopt hacks](../155)
 * 2024-11-11 22:18:11Z [Telegram API](../154)
 * 2024-11-09 14:28:42Z [Unusually good quotes](../88)
