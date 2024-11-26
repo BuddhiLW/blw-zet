@@ -7,5 +7,7 @@
 - O *simulation* poderá ser refeito, baseado em modificações do default (preço base geral, "degrau zero")
 - Promoções agressivas não entram no *simulation*.
 
+## Resultados em xml/csv
 
-
+- Preços de concorrentes (prioritário)
+- Relatório
