@@ -141,3 +141,10 @@ justiça e da liberdade.'
         indomável.
                 -- Mahatma Gandhi
 ```
+
+``` quote
+
+Como os sonhos, estatíticas são uma forma de satisfação
+
+--Jean Baudrillard
+```
