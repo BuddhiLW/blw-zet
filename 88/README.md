@@ -148,3 +148,9 @@ Como os sonhos, estatíticas são uma forma de satisfação
 
 --Jean Baudrillard
 ```
+
+``` quote
+        Amar é encontrar na felicidade de outrem a própria
+        felicidade.
+                -- Gottfried Leibnitz
+```
