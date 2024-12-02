@@ -1,3 +1,4 @@
+* 2024-12-01 22:15:38Z [Freqtrade shorting ideas](../158)
 * 2024-11-30 21:33:03Z [Freqtrade commands](../157)
 * 2024-11-30 03:11:49Z [Unusually good quotes](../88)
 * 2024-11-28 16:54:36Z [(Orasis) Azure Useful commands](../144)
