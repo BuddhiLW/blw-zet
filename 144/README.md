@@ -28,3 +28,8 @@ kubectl port-forward svc/cadence-web -n cadence 8yyy:80
  kubectl port-forward svc/cadence-frontend -n cadence 7933:7933
  kubectl port-forward svc/cadence-frontend-tunnel -n cadence 7933:7933
 ```
+
+```bash
+kubectl port-forward service/pricing-backend-api-mkt-business-rules 7100:8080 -n pricing-apps
+kubectl port-forward service/pricing-backend-api-mkt-structure-stores  7200:8080 -n pricing-apps
+```
