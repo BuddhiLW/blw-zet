@@ -154,3 +154,14 @@ Como os sonhos, estatíticas são uma forma de satisfação
         felicidade.
                 -- Gottfried Leibnitz
 ```
+
+``` quote
+        Se você pensa que a educação e dispensavel, experimente
+        ignora-la
+                -- Derek Bok.
+```
+
+``` quote
+    Order results spontaneously when things are let alone. 
+    -- Zhuangzi
+```
