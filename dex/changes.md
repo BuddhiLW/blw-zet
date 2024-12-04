@@ -1,6 +1,6 @@
+* 2024-12-03 23:09:20Z [Freqtrade commands](../157)
 * 2024-12-03 11:47:25Z [(Orasis) Azure Useful commands](../144)
 * 2024-12-01 22:15:38Z [Freqtrade shorting ideas](../158)
-* 2024-11-30 21:33:03Z [Freqtrade commands](../157)
 * 2024-11-30 03:11:49Z [Unusually good quotes](../88)
 * 2024-11-26 16:43:34Z [Reunião](../156)
 * 2024-11-15 21:29:47Z [Freqtrade Hyperopt hacks](../155)
