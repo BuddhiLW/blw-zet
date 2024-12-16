@@ -1,3 +1,4 @@
+* 2024-12-16 19:55:54Z [Freqtrade Moving Averages strats](../159)
 * 2024-12-06 13:46:26Z [(Orasis) Azure Useful commands](../144)
 * 2024-12-04 06:15:27Z [Unusually good quotes](../88)
 * 2024-12-03 23:38:45Z [Freqtrade commands](../157)
