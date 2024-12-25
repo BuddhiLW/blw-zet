@@ -165,3 +165,9 @@ Como os sonhos, estatíticas são uma forma de satisfação
     Order results spontaneously when things are let alone. 
     -- Zhuangzi
 ```
+
+``` quote
+        Um momento de paciência pode evitar um desastre. Um momento
+        de impaciência pode arruinar toda uma vida.
+                -- Proverbio Chinês
+```

@@ -1,6 +1,6 @@
+* 2024-12-25 18:20:11Z [Unusually good quotes](../88)
 * 2024-12-16 19:55:54Z [Freqtrade Moving Averages strats](../159)
 * 2024-12-06 13:46:26Z [(Orasis) Azure Useful commands](../144)
-* 2024-12-04 06:15:27Z [Unusually good quotes](../88)
 * 2024-12-03 23:38:45Z [Freqtrade commands](../157)
 * 2024-12-01 22:15:38Z [Freqtrade shorting ideas](../158)
 * 2024-11-26 16:43:34Z [Reunião](../156)

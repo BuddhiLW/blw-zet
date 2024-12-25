@@ -13,7 +13,7 @@
 ## Long
 
 ### Entry
-Trigger: 
+Trigger:
 - (slowk crossed above slowd)
 
 Context:
@@ -24,4 +24,3 @@ Context:
 
 ### Sell
 - (slowk crossed below slowd)
-
