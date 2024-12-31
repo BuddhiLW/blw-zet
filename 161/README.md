@@ -71,7 +71,10 @@ officials.
 ```
 [^1]
 
+Also, there is evidence that millions of dollars goes to these european illegal settlers[^2].
+
 
 ## References
 
 [^1]: https://www.nytimes.com/2024/05/16/magazine/israel-west-bank-settler-violence-impunity.html
+[^2]: https://www.pbs.org/newshour/world/israeli-government-quietly-sends-more-than-20-million-to-unauthorized-west-bank-settler-outposts
