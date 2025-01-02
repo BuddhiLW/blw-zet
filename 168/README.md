@@ -56,6 +56,10 @@ Gives out the evidence of the **Quid pro Quo**.
 
 Mileikowsky turns to the right-wing extremism as allies, in order to avoid prison for his corruption case.
 
+One of the ways the far-right represents itself, in Occupied Palestine - as in many other places - is as patriots. Anyone else, are leftists communists psychopats, baby eaters that want to destroy the country. Basically, that is the gist of the bi-polar retoric.
+
+Extreme division. Divide and conquer style politics.
+
 
 
 
