@@ -31,3 +31,22 @@ Bragged about being a "James Bond", in real life (working for Israel's interest,
 ### Sheldon and Mirian Adelson
 
 ### The hot tape
+
+### Shaul Elovitch - Tycoon
+
+Enriched itself with doing almost nothing (importing and selling nokia cellphones among other irrelevant things).
+
+He also is owner of Walla. Online zionist news outlet. Very popular among youngsters (similar to Jovem Pan, in Brazil). 
+
+Shaul Elovitch exchanged favours with Mileikowsky, so he would be covered always in a good lighting, in the Walla journal.
+
+### Nir Hefetz (Manager for the Mileikowsky family)
+
+Nir Hefetz became of the main informants of all this investigation.
+
+He mediated most of the interactions between Shaul Elovitch and Mileikowsky.
+
+**Quid pro quo**:  In the end it was a 250$ million dollar signature from Mileikowsky, in exchange for control of Walla.
+
+
+
