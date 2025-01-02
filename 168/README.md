@@ -60,6 +60,38 @@ One of the ways the far-right represents itself, in Occupied Palestine - as in m
 
 Extreme division. Divide and conquer style politics.
 
+``` quote
+My fellow members of Knesset, I want to stand here and say unequivocally: there is no such thing as the Palestinian people, period.
+
+There is none. There was none. Period.
+
+-- Bezalel Smotrich
+```
+
+### Ami Ayalon (Shin Bet)
+
+``` quote
+You just have to listen to Smotrich and Ben-Gvir. Smotrich is a Jewish terrorist.
+```
+
+``` quote
+He (Smotrich) has all the instruments, in order to use it for a terror action. But, he kept silent. And, because we do not interrogate Jewish terrorists, the way we interrogate Palestinian terrorists, he did not confess.
+And, this is why he was not in jail.
+
+When it comes to Ben-Gvir, he supported the assassination of Prime Minister Rabin, when he was a youngster.
+```
+
+Rabin helped negociate a peace resolution with Palestine (that didn't last).
+
+``` quote
+I think one is justified to committing horrible acts against him (Prime Minister Rabin).
+```
+-- Ben-Gvir
+
+Three weeks later, Rabin was assassinated.
+
+
+
 
 
 
