@@ -90,6 +90,33 @@ I think one is justified to committing horrible acts against him (Prime Minister
 
 Three weeks later, Rabin was assassinated.
 
+### Paying up Hamas
+
+Transfered money, through Qatar, to Hamas. Signed a document that he was requesting Qatar to do so. This was *before* the Hamas' advance in October.[^1][^2][^3][^4]
+
+``` quote 
+In the late 1970s and early 1980s, Israel provided indirect support to Islamic organizations in Gaza, including Mujama al-Islamiya, the precursor to Hamas. This support aimed to counterbalance the secular nationalist influence of the Palestine Liberation Organization (PLO). Israeli authorities allowed and, in some cases, facilitated the activities of these Islamic groups, permitting the construction of mosques, schools, and social institutions. Brigadier General Yitzhak Segev, the Israeli military governor of Gaza during that period, acknowledged providing financial assistance to these organizations under Israeli directives.  
+```
+[^5][^6]
+
+```
+This strategy was intended to weaken the PLO's dominance but inadvertently contributed to the rise of Hamas as a significant political and militant force in the region. Over time, Hamas evolved into a militant organization committed to armed resistance against Israel, leading to increased tensions and conflict.
+```
+[^7]
+
+
+## References
+
+[^1]: https://www.timesofisrael.com/for-years-netanyahu-propped-up-hamas-now-its-blown-up-in-our-faces/
+[^2]: https://www.nytimes.com/2023/12/10/world/middleeast/israel-qatar-money-prop-up-hamas.html
+[^3]: https://edition.cnn.com/2023/12/11/middleeast/qatar-hamas-funds-israel-backing-intl/index.html
+[^4]: https://www.jpost.com/Arab-Israeli-Conflict/Netanyahu-Money-to-Hamas-part-of-strategy-to-keep-Palestinians-divided-583082
+[^5]: https://en.wikipedia.org/wiki/Israeli_support_for_Hamas?utm_source=chatgpt.com
+[^6]: https://www.lemonde.fr/en/international/article/2024/09/30/the-terrible-cost-to-israel-of-marginalizing-the-plo_6727728_4.html?utm_source=chatgpt.com
+[^7]: https://edition.cnn.com/2023/12/11/middleeast/qatar-hamas-funds-israel-backing-intl/index.html
+
+
+
 
 
 
