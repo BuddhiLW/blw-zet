@@ -11,3 +11,9 @@ Bejamin Mileikowsky
 ## Arnon Milchan - Tycoon (very wealthy and powerful business person)
 
 Hollywood producer, billionaire etc.
+
+Bragged about being a "James Bond", in real life (working for Israel's interest, in USA).
+
+## Sheldon and Mirian Adelson
+
+## The hot tape
