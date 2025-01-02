@@ -48,5 +48,14 @@ He mediated most of the interactions between Shaul Elovitch and Mileikowsky.
 
 **Quid pro quo**:  In the end it was a 250$ million dollar signature from Mileikowsky, in exchange for control of Walla.
 
+### Ilan Yeshua (subtituted, more right-wing General Manager of Walla)
+
+Gives out the evidence of the **Quid pro Quo**.
+
+### Itamar Ben-Gvir; Bezalel Smotrich
+
+Mileikowsky turns to the right-wing extremism as allies, in order to avoid prison for his corruption case.
+
+
 
 
