@@ -1,6 +1,20 @@
 # The Bibi Files (2024) [DOC]
 
-Bejamin Mileikowsky
+Benjamin Mileikowsky
+
+``` 
+Listen to me. The Prime Minister is the most principled and honest person in the world. My husband is the strongest Prime Minister we've ever had. He protects our country, saves our country. This country has never had it better. He is an admired leader around the world.
+
+In three days, we will be at the White House, where he'll be welcomed like a king.
+
+All over the world leaders and the general public admire him.
+
+When he walks the streets of New York or Australia, people stand around and applaud.
+
+He's simply an admired leader around the world, who does great things for the State of Israel.
+```
+-- Sara Mileikowsky, while being interrogated on fraudulent activities.
+
 
 ## Corruption cases
 
