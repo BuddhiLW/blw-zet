@@ -1,3 +1,4 @@
+* 2025-01-03 01:43:27Z [The Trials of Norman Finkelstein [DOC]](../169)
 * 2025-01-02 01:15:29Z [The Bibi Files (2024) [DOC]](../168)
 * 2025-01-01 17:30:58Z [Unusually good quotes](../88)
 * 2025-01-01 02:36:16Z [Gaza Fights for Freedom (2019)](../162)
