@@ -12,6 +12,11 @@ Of course, for not being a Zionist and speaking against it, he would face Jewish
 
 This was just one of his many tribulations, while fighting for the Palestinian cause to self-determination and end of apartheid.
 
+``` quote
+The Jewish Defense Organization has recently lanched a "Drive Out Traitor to the Jews" campaign against Norman, plastering flyers in his building in Coney Island and calling on the landlord to evict him. (~2008)
+```
+
+
 ## "Terrorist enablers"
 
 About Finkelstein:
