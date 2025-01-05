@@ -1,6 +1,6 @@
+* 2025-01-05 14:04:43Z [Unusually good quotes](../88)
 * 2025-01-04 00:37:39Z [The Trials of Norman Finkelstein [DOC]](../169)
 * 2025-01-02 01:15:29Z [The Bibi Files (2024) [DOC]](../168)
-* 2025-01-01 17:30:58Z [Unusually good quotes](../88)
 * 2025-01-01 02:36:16Z [Gaza Fights for Freedom (2019)](../162)
 * 2024-12-31 13:52:08Z [The ultra zionists (2011), Louis Theroux (Documentary)](../161)
 * 2024-12-31 00:22:14Z [Tantura](../160)

@@ -176,3 +176,8 @@ Como os sonhos, estatíticas são uma forma de satisfação
 The soldier is applauded who refuses to serve in an unjust war by those who do not refuse to sustain the unjust government which makes the war.
                 -- Henry David Thoreau
 ```
+
+``` quote
+Non-violent resistance activities cannot succeed against an enemy that is able freely to use violence.
+                -- Noam Chomsky
+```
