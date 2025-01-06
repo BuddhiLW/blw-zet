@@ -1,4 +1,4 @@
-# Tantura
+# Tantura [DOC]
 
 ## Al Nakba; War of Independence (1948)
 
