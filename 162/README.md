@@ -1,4 +1,4 @@
-# Gaza Fights for Freedom (2019)
+# Gaza Fights for Freedom (2019) [DOC]
 
 ## Resolution 194
 
