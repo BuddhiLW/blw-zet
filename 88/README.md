@@ -181,3 +181,9 @@ The soldier is applauded who refuses to serve in an unjust war by those who do n
 Non-violent resistance activities cannot succeed against an enemy that is able freely to use violence.
                 -- Noam Chomsky
 ```
+
+``` quote
+O telefone é uma boa maneira de conversar com alguém sem ter de lhe oferecer qualquer drinque
+
+--Franz Lebowitz
+```
