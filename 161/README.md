@@ -1,4 +1,4 @@
-# The ultra zionists (2011), Louis Theroux (Documentary)
+# The ultra zionists (2011), Louis Theroux [DOC]
 
 ## Jerusalem
 
