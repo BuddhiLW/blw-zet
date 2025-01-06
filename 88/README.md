@@ -187,3 +187,8 @@ O telefone é uma boa maneira de conversar com alguém sem ter de lhe oferecer q
 
 --Franz Lebowitz
 ```
+
+``` quote
+It is characteristic of theistic "tolerance" that no one really cares what the people believe in, just so they believe or pretend to believe.
+                -- Emma Goldman
+```
