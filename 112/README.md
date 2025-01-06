@@ -1,4 +1,4 @@
-# Aljazeera Investigations Doc 07, Out
+# Aljazeera Investigations Doc 07, Out [DOC]
 
 - Netanyahu stated lies
 - Blinken repeated those lies, as facts - without de facto investigations
