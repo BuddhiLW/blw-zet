@@ -192,3 +192,8 @@ O telefone é uma boa maneira de conversar com alguém sem ter de lhe oferecer q
 It is characteristic of theistic "tolerance" that no one really cares what the people believe in, just so they believe or pretend to believe.
                 -- Emma Goldman
 ```
+
+```
+"I'm okay not using better tools and better methods because I put the cost of it on my users. They pay in stress and discomfort so I don't have to pay in training and changing my workflow."
+  -- Pierre Thierry
+```
