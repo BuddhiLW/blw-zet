@@ -193,7 +193,12 @@ It is characteristic of theistic "tolerance" that no one really cares what the p
                 -- Emma Goldman
 ```
 
+``` quote
+Please own your choice: "I'm okay not using better tools and better methods because I put the cost of it on my users. They pay in stress and discomfort so I don't have to pay in training and changing my workflow."
 ```
-"I'm okay not using better tools and better methods because I put the cost of it on my users. They pay in stress and discomfort so I don't have to pay in training and changing my workflow."
-  -- Pierre Thierry
+
+```
+Agir na cólera é o mesmo que içar vela com tempestade
+
+--Eurípedes
 ```
