@@ -197,8 +197,12 @@ It is characteristic of theistic "tolerance" that no one really cares what the p
 Please own your choice: "I'm okay not using better tools and better methods because I put the cost of it on my users. They pay in stress and discomfort so I don't have to pay in training and changing my workflow."
 ```
 
-```
+``` quote
 Agir na cólera é o mesmo que içar vela com tempestade
 
 --Eurípedes
+```
+
+``` quote
+People who should be shot: Fascist thugs, religious fundamentalists, people who write lists telling you who should be shot.
 ```
