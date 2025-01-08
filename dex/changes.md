@@ -1,3 +1,4 @@
+* 2025-01-08 15:10:25Z [(Orasis) Azure Useful commands](../144)
 * 2025-01-08 11:54:39Z [Unusually good quotes](../88)
 * 2025-01-07 17:32:56Z [Cubo de Vendas](../171)
 * 2025-01-06 17:16:24Z [Contatos](../96)
@@ -11,7 +12,6 @@
 * 2025-01-01 20:59:43Z [](../164)
 * 2025-01-01 20:58:16Z [The Bibi Files (2024) [DOC]](../163)
 * 2024-12-16 22:57:04Z [Freqtrade Moving Averages strats](../159)
-* 2024-12-06 13:46:26Z [(Orasis) Azure Useful commands](../144)
 * 2024-12-04 02:38:45Z [Freqtrade commands](../157)
 * 2024-12-02 01:15:38Z [Freqtrade shorting ideas](../158)
 * 2024-11-26 19:43:34Z [Reunião](../156)
