@@ -205,4 +205,12 @@ Agir na cólera é o mesmo que içar vela com tempestade
 
 ``` quote
 People who should be shot: Fascist thugs, religious fundamentalists, people who write lists telling you who should be shot.
+
+  -- Bansky
+```
+
+```
+A Melhor definição do Amor não vale um beijo.
+
+-- Machado de Assis
 ```
