@@ -1,3 +1,5 @@
+# A matemática, a computação e o método científico
+
 # A matemática, a computação e o método científico como guia de decisões de desenvolvimento de software, de alta performance.
 
 ---------------------------------------------------------------------

@@ -1,4 +1,4 @@
-# TODO CSS pen awesome ideas
+# CSS pen awesome ideas
 - timeline: https://codepen.io/jkantner/pen/NWoVGXx
 - drag and drop: list: https://codepen.io/joshuaward/pen/BaMBKpX
 - snap website: https://codepen.io/giana/pen/BabdgjB

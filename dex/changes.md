@@ -1,3 +1,4 @@
+* 2025-01-12 19:48:31Z [CSS pen awesome ideas](../128)
 * 2025-01-11 15:27:17Z [Abby Martin](../173)
 * 2025-01-10 18:16:57Z [Feedback Nubank](../172)
 * 2025-01-10 13:59:47Z [Unusually good quotes](../88)
@@ -131,7 +132,6 @@
 * 2024-10-11 14:34:54Z [Developing Fullstack Mobile App](../130)
 * 2024-10-11 14:34:54Z [Vim plugin for snippets](../13)
 * 2024-10-11 14:34:54Z [Books to be a good self seller (whore)](../129)
-* 2024-10-11 14:34:54Z [TODO CSS pen awesome ideas](../128)
 * 2024-10-11 14:34:54Z [When to Use Webhooks, WebSocket, Pub/Sub, and Polling?](../127)
 * 2024-10-11 14:34:54Z [System Design: Google Drive (Full Cycle)](../126)
 * 2024-10-11 14:34:54Z [Movies and Books Content Management System - Project, Idea](../125)

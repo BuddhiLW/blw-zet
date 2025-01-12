@@ -1,4 +1,4 @@
-Deployment steps, with `Clojure(Script)`
+# Deployment steps, with `Clojure(Script)`
 
 To generate de `Postgres` table, we can access cloud services, like `render` - which let you dig on their services for free (for really small projects, so you can test new technologies and solutions).
 

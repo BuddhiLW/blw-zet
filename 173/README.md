@@ -1,3 +1,10 @@
+---
+title: Abby Martin
+description: biography
+published: "2025-01-12"
+draft: false
+---
+
 # Abby Martin
 
 
