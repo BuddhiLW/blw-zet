@@ -1,3 +1,4 @@
+* 2025-01-12 19:48:43Z [Great Ideas Tasks](../136)
 * 2025-01-12 19:48:31Z [CSS pen awesome ideas](../128)
 * 2025-01-11 15:27:17Z [Abby Martin](../173)
 * 2025-01-10 18:16:57Z [Feedback Nubank](../172)
@@ -123,7 +124,6 @@
 * 2024-10-11 14:34:54Z [Rice up](../139)
 * 2024-10-11 14:34:54Z [Set theory, Charles Pinter](../138)
 * 2024-10-11 14:34:54Z [A lógica matemática e a filosofia da vida.](../137)
-* 2024-10-11 14:34:54Z [TODO: Great Ideas Tasks](../136)
 * 2024-10-11 14:34:54Z [Pywal with Kitty terminal](../135)
 * 2024-10-11 14:34:54Z [Lazy Wall Cli](../134)
 * 2024-10-11 14:34:54Z [Github submodules](../133)
