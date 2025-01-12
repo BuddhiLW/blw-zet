@@ -31,7 +31,7 @@ Also, you can get the `jdbc-url`, using a snippet like this, and the infos given
 
 Now, you gotta have a server to run the front and back-end, preferably with-in a `docker-container`. 
 
-## TODO(s):
+## Todo(s):
 - Explain how to setup the `docker-container`.
 - Give examples on launching it in a server.
 
