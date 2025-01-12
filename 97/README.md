@@ -8,4 +8,3 @@ setxkbmap -layout us -variant intl
 
 If you would prefer this layout (e.g., `-layout us -variant intl`) you definetly want to do the following:
 
-## TODO
