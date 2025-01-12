@@ -1,6 +1,6 @@
 # Discipline (Ed talk)
 
-- TODO listing in Emacs. Make it perfect.
+- Todo listing in Emacs. Make it perfect.
 - Use the Pomodoro application for real.
 - Terminate the Coffee Selling platform.
 - Dominate all Clojure Content from Jack Schae.
