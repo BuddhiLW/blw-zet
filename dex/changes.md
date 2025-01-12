@@ -1,3 +1,4 @@
+* 2025-01-12 19:51:12Z [Nassim Nicholas Taleb](../84)
 * 2025-01-12 19:50:52Z [Psytrance ](../74)
 * 2025-01-12 19:50:27Z [Logseq - A note-taking app](../72)
 * 2025-01-12 19:50:07Z [Deployment steps, with `Clojure(Script)`](../56)
@@ -53,7 +54,6 @@
 * 2024-10-11 14:34:54Z [](../71)
 * 2024-10-11 14:34:54Z ["Data Compression - The Complete Reference", by David Salomon](../70)
 * 2024-10-11 14:34:54Z [Vim formatting text](../7)
-* 2024-10-11 14:34:54Z [Nassim Nicholas Taleb](../84)
 * 2024-10-11 14:34:54Z [Colorir](../83)
 * 2024-10-11 14:34:54Z [Exercising](../82)
 * 2024-10-11 14:34:54Z [Creation of a bootstraping/ricing system](../67)

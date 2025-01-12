@@ -13,7 +13,7 @@ uncertainty.
 ```
 [2]
 
-## TODO: readings
+## todo: readings
 - Statistical Consequences of Fat Tails: Real World Preasymptotics, Epistemology, and Applications
 - Incerto.
 
