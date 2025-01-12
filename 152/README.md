@@ -1,3 +1,2 @@
 # Self-affirmation Theory
 
-TODO

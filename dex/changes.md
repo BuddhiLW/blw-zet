@@ -1,3 +1,4 @@
+* 2025-01-12 19:49:43Z [Self-affirmation Theory](../152)
 * 2025-01-12 19:49:33Z [Movies](../115)
 * 2025-01-12 19:48:43Z [Great Ideas Tasks](../136)
 * 2025-01-12 19:48:31Z [CSS pen awesome ideas](../128)
@@ -23,7 +24,6 @@
 * 2024-11-16 00:29:47Z [Freqtrade Hyperopt hacks](../155)
 * 2024-11-12 01:18:11Z [Telegram API](../154)
 * 2024-10-30 16:58:59Z [Project Idea](../153)
-* 2024-10-25 15:17:28Z [Self-affirmation Theory](../152)
 * 2024-10-25 12:34:56Z [Valkey - A OSS alternative to Redis](../151)
 * 2024-10-22 14:41:32Z [Os Três Mosqueteiros ](../150)
 * 2024-10-11 20:11:04Z [Job Search](../111)
