@@ -36,7 +36,7 @@ that humans are universally looking for patterns in random information
                 -- Colin Jones, p. 36, in "The Pro's approach to winning today's BlackJack"
 ```
 
-## TODO:
+## Todo:
 ```bash
 bandcamper -f flac sangomarecs
 bandcamper -f flac zenonrecords
