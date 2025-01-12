@@ -1,3 +1,4 @@
+* 2025-01-12 19:50:27Z [Logseq - A note-taking app](../72)
 * 2025-01-12 19:50:07Z [Deployment steps, with `Clojure(Script)`](../56)
 * 2025-01-12 19:49:43Z [Self-affirmation Theory](../152)
 * 2025-01-12 19:49:33Z [Movies](../115)
@@ -49,7 +50,6 @@
 * 2024-10-11 14:34:54Z [Blackjack Practice](../75)
 * 2024-10-11 14:34:54Z [Psytrance ](../74)
 * 2024-10-11 14:34:54Z ["Introduction to the History of Computing", by Gerard O'Regan](../73)
-* 2024-10-11 14:34:54Z [Logseq - A note-taking app](../72)
 * 2024-10-11 14:34:54Z [](../71)
 * 2024-10-11 14:34:54Z ["Data Compression - The Complete Reference", by David Salomon](../70)
 * 2024-10-11 14:34:54Z [Vim formatting text](../7)

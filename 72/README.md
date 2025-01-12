@@ -5,7 +5,7 @@
 - Great ideias.
 - Similar in purpose to `KEG`.
 
-TODO list:
+Todo list:
 - Set up dev environment.[^1]
 - Take one of the bugs to solve.[^2][^3]
 
