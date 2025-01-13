@@ -1,3 +1,10 @@
+---
+title: Active procedure of paranoiac thought
+description: description 
+published: "2025-01-12"
+image: ""
+---
+
 # Active procedure of paranoiac thought 
 
 > I believe that the moment is near when by a procedure of active paranoiac

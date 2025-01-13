@@ -1,77 +1,77 @@
 # Unusually good quotes
 
-```
+``` quote
 O fracasso é a oportunidade de começar de novo inteligentemente
 
 --Henry Ford
 ```
 
-```
+``` quote
 É impossível ser ridículo dentro de um Mercedes
 
 --Nelson Rodrigues
 ```
 
 
-```
+``` quote
 O pior cego é o surdo
 
 --Nelson Rodrigues
 ```
 
-```
+``` quote
 É fácil livrar-se das responsabilidades. Difícil é escapar
 das conseqüências por se ter livrado delas
         -- Graciliano Ramos
 ```
 
-```
+``` quote
 Entre no negócio sabendo o quanto quer ganhar; quando chegar lá, caia fora
 
 --Max Gunther
 ```
 
-```
+``` quote
 Preocupamo-nos demais com as máquinas - computadores, robôs - e não com as possibilidades que a informática abre para a educação dos homens
 
 --Jean-Jacques Servan-Schreiber
 ```
 
-```
+``` quote
 Otimista e o homem que espera no carro com o motor ligado
 enquanto a mulher faz compras.
         -- Roussin Andre
 ```
 
-```
+``` quote
 Ha quedas que provocam ascensoes maiores.
         --  William Shakespeare
 ```
 
-```
+``` quote
 Disobedience is the true foundation of liberty. The obedient must be slaves.
                 -- Henry David Thoreau
 ```
 
-```
+``` quote
 A felicidade do homem casado depende da felicidade das
 mulheres com quem ele não se casou.
         -- Oscar Wilde
 ```
 
-```
+``` quote
 If the Nuremberg laws were applied, then every post-war American president would have been hanged.
                 -- Noam Chomsky
 ```
 
-```
+``` quote
 É fácil ser gentil com as pessoas a quem não damos a mínima
 importância.
                 -- Oscar Wilde
 ```
 
-```
-        É melhor acender a vela do que amaldiçoar a escuridão.
+``` quote
+É melhor acender a vela do que amaldiçoar a escuridão.
                 --  Confucio
 ```
 
@@ -197,8 +197,6 @@ It is characteristic of theistic "tolerance" that no one really cares what the p
 Please own your choice: "I'm okay not using better tools and better methods because I put the cost of it on my users. They pay in stress and discomfort so I don't have to pay in training and changing my workflow."
 ```
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ``` quote
 Agir na cólera é o mesmo que içar vela com tempestade
 
@@ -217,9 +215,8 @@ A Melhor definição do Amor não vale um beijo.
 -- Machado de Assis
 
 ```
-=======
+
 ``` quote
->>>>>>> 2df9aba ( This is a combination of 3 commits.)
 Agir na cólera é o mesmo que içar vela com tempestade
 
 --Eurípedes
@@ -235,4 +232,10 @@ People who should be shot: Fascist thugs, religious fundamentalists, people who 
 A Melhor definição do Amor não vale um beijo.
 
 -- Machado de Assis
+```
+
+``` quote
+        Amar não e aceitar tudo. Aliás: onde tudo e aceito,
+        desconfio que há falta de amor.
+                -- Vladimir Maiakovski
 ```

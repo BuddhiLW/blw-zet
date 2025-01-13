@@ -1,3 +1,4 @@
+* 2025-01-13 13:32:35Z [Unusually good quotes](../88)
 * 2025-01-12 19:51:24Z [Discipline (Ed talk)](../90)
 * 2025-01-12 19:51:12Z [Nassim Nicholas Taleb](../84)
 * 2025-01-12 19:50:52Z [Psytrance ](../74)
@@ -10,7 +11,6 @@
 * 2025-01-11 15:27:17Z [Abby Martin](../173)
 * 2025-01-10 23:21:31Z [Stack Overflow Deleted question](../46)
 * 2025-01-10 18:16:57Z [Feedback Nubank](../172)
-* 2025-01-10 13:59:47Z [Unusually good quotes](../88)
 * 2025-01-08 15:10:25Z [(Orasis) Azure Useful commands](../144)
 * 2025-01-07 17:32:56Z [Cubo de Vendas](../171)
 * 2025-01-06 17:16:24Z [Contatos](../96)
