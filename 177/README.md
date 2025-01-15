@@ -1,3 +1,11 @@
+---
+title: "O fracasso"
+description: "KEG: Knowledge Exchange Graph... Um projeto tão interessante(...)"
+published: "2025-01-15"
+image: "./images/image-post-177.png"
+draft: false
+---
+
 # O fracasso
 
 

@@ -1,3 +1,11 @@
+---
+title: "A necessidade por uma internet diferente"
+description: "Vocês deram sorte** de ter habilidades que são supervalorizadas nesse momento histórico '[!!!]'"
+published: "2025-01-15"
+image: "./images/image-post-176.png"
+draft: false
+---
+
 # A necessidade por uma internet diferente
 
 ```
