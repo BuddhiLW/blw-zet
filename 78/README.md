@@ -1,3 +1,11 @@
+---
+title: "Statistical references"
+description: "Gambler's ruin is a problem in probability theory. The problem has been dubbed the Gambler's Problem."
+published: "2025-01-01"
+image: "./images/image-post-78.png"
+draft: false
+---
+
 # Statistical references
 
 - Gambler's ruin[^1][^2][^3].

@@ -1,3 +1,11 @@
+---
+title: "Exercising"
+description: "Coming back to a routine of exercise is tough. The feeling can be of inferiority; I can't do this, any longer. Comparisons with your-self in a different point in time."
+published: "2025-01-01"
+image: "./images/image-post-82.png"
+draft: false
+---
+
 # Exercising
 
 ```quote

@@ -1,3 +1,11 @@
+---
+title: "Kelly Criterion for Blackjack - Betting Variation"
+description: 'Optimal betting variation for a bank-roll can be found using the Kelly Criterion.'
+published: "2025-01-01"
+image: "./images/image-post-./76.png"
+draft: false
+---
+
 # Kelly Criterion for Blackjack - Betting Variation
 
 Optimal betting variation for a given bank-roll can be found using the Kelly Criterion.

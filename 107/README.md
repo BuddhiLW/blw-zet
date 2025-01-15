@@ -1,3 +1,11 @@
+---
+title: "GPT for Carrer advice"
+description: "Step-by-step plan to increase your chances of getting hired remotely. Highlight your engineering physics degree, programming skills, and diverse work experience."
+published: "2024-01-22"
+image: "images/image-post-107.png"
+draft: false
+---
+
 # GPT for Carrer advice
 ```bash
 sgpt "I'm a Brazilian, with a degree in Engineering Physics. I have been learning programming for the past 7 years. And, I have worked in multiple companies, for a span of more or less 6 months to a year. From startups to mid-size companies. Also, I have freelancing experience. I mostly know Clojure, ClojureScript, Golang, and Vanilla JavaScript and started with C and Common Lisp; some R, Julia, Python in numerical computing. What would be an ideal plan, step-by-step, to get hired remotely and for which countries would be more likely to achieve it, based on my history?"

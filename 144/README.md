@@ -1,3 +1,11 @@
+---
+title: "(Orasis) Azure Useful commands"
+description: "The port-forwardx->y: `x' is the cluster's port to `y' local port. The redpanda console is used to log in to the cluster."
+published: "2024-12-02"
+image: "images/image-post-144.png"
+draft: false
+---
+
 # (Orasis) Azure Useful commands
 
 ## Login

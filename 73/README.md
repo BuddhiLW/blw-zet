@@ -1,3 +1,11 @@
+---
+title: "'Introduction to the History of Computing', by Gerard O'Regan"
+description: "A computer is a programmable electronic device that can process, store and retrieve data. All computers consist of two basic parts, namely, hardware and software. Software is a set of instructions that tells the computer what to do."
+published: "2025-01-01"
+image: "./images/image-post-73.png"
+draft: false
+---
+
 # "Introduction to the History of Computing", by Gerard O'Regan
 
 ```quote

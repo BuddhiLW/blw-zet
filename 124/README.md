@@ -1,3 +1,11 @@
+---
+title: "Reasons not to give up"
+description: "The context of this quote is sketchy, but can make sense, with other contexts as well - aside from thievery. Not everybody steals, because of 'the exploitation of man by man'."
+published: "2024-04-16"
+image: "images/image-post-124.png"
+draft: false
+---
+
 # Reasons not to give up
 
 The context of this quote is sketchy, but can make sense, with other contexts as well - aside from thievery.

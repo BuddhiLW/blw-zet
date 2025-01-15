@@ -1,3 +1,11 @@
+---
+title: "Linkedin Convo"
+description: "A tecnologia melhora exponencialmente. Não vai levar mais 5 anos para chegar num nível já incrivelmente alto. O avanço"
+published: "2024-03-14"
+image: "images/image-post-110.png"
+draft: false
+---
+
 # Linkedin Convo
 
 

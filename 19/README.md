@@ -1,3 +1,11 @@
+---
+title: "Chinese and programming"
+description: 'Learn Chinese using bash andcrow. Can be used to pronounce a given word or phrase in Chinese.'
+published: "2023-03-05"
+image: "./images/image-post-19.png"
+draft: false
+---
+
 # Chinese and programming
 
 Learning Chinese, or any other language, can be greatly facilitated using 

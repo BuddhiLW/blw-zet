@@ -1,3 +1,11 @@
+---
+title: "Vim plugin for snippets"
+description: "Using vanilla vim, in general. I won't use `package managers` to install my plugin dependencies. Instead I will clone them locally. So, in this case, following the tutorial[^1], this should be in your `"
+published: "2023-01-06"
+image: "images/image-post-13.png"
+draft: false
+---
+
 # Vim plugin for snippets
 
 As I use vanilla vim, in general. I won't use `package managers` to install my 

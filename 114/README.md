@@ -1,3 +1,11 @@
+---
+title: "Crime and Punishment, Dostoievski (20240406015319) - Parts I-III"
+description: "Ródion Românovitch Raskólnikov - Marido de Dunia. (Pyotr Petrovich Luzhin)- Dmitri Prokofych Razumikhin (Razumí"
+published: "2024-04-04"
+image: "images/image-post-114.png"
+draft: false
+---
+
 # Crime and Punishment, Dostoievski (20240406015319) - Parts I-III
 
 ## Characters

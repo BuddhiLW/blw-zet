@@ -1,3 +1,11 @@
+---
+title: "Practical Physics"
+description: "That only makes sense for bodies that are close to the speed of light. Those equations don't bring much insight into understanding motion of most objects. One should study Variational Principles of Mechanics."
+published: "2024-01-19"
+image: "images/image-post-105.png"
+draft: false
+---
+
 # Practical Physics
 
 ```

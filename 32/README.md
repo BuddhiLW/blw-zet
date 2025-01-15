@@ -1,3 +1,11 @@
+---
+title: "Learn Reitit Course Notes"
+description: 'Clojure- Heroku is required to run this project.'
+published: "2023-03-05"
+image: "./images/image-post-32.png"
+draft: false
+---
+
 # Learn Reitit Course Notes
 
 Requirements:

@@ -1,3 +1,11 @@
+---
+title: "Creation of a bootstraping/ricing system"
+description: 'I would like to support to **OS** versions for my system, `Ubuntu` and `Guix. Currently, my dotfiles supports Ubuntu[^1].Since the bootstrapping is done with `bash` scripts,'
+published: "2025-01-01"
+image: "./images/image-post-./67.png"
+draft: false
+---
+
 # Creation of a bootstraping/ricing system
 
 I would like to support to **OS** versions for my system, `Ubuntu` and `Guix`. Currently, my dotfiles supports Ubuntu[^1].

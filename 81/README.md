@@ -1,3 +1,11 @@
+---
+title: "Bankers and Tellers"
+description: "Bankers and Tellers (Banqueiros e Bancários)Tellers are bank's employees. Bankers are the bank's employers."
+published: "2025-01-01"
+image: "./images/image-post-81.png"
+draft: false
+---
+
 # Bankers and Tellers
 
 - protean: [adjective] of or resembling Proteus in having a varied nature or ability to assume different forms. 

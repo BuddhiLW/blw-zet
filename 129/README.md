@@ -1,3 +1,11 @@
+---
+title: "Books to be a good self seller (whore)"
+description: "https://www.amazon.com.br/Personal-Branding-Construindo-Marca-Pessoal/dp/8599362410?crid=14N2UBFW562IP&"
+published: "2024-04-20"
+image: "images/image-post-129.png"
+draft: false
+---
+
 # Books to be a good self seller (whore)
 
 https://www.amazon.com.br/Personal-Branding-Construindo-Marca-Pessoal/dp/8599362410?crid=14N2UBFW562IP&dib=eyJ2IjoiMSJ9.wAvjtQBQXM9JIEvD85e55LoP2WrvAw3p7WlohlFtLiVXbJIhTHy321L1lsNMXnHlnj5nqgOctmGqsi8IJvhVoF5_uIXwKNjpJEmtigCbh6gqi9vCxoQVN3iS08GPnmlZv65NNoT7A_4v6R5bV8oC2IAnSt5i7oHJ3p8qUvpGWE5lMYIMFfF3NiUB1bAuy270VyGYQTPLk7_atl3aupC5e9-Q76x2HpaKm6uu9_MSbkbNOXfrexaTqjWyeP3zefRXe7dnfXSW_icNO7sa1rPyj-GRNtx35vf-D4A3kOWlecI.QcbH3pFfazYbvaf_mLMZVseVLAs4sjI7oFQdLuAMitQ&dib_tag=se&keywords=personal+branding+arthur+bender&qid=1709664012&sprefix=personal+brandin,aps,227&sr=8-1&linkCode=sl1&tag=thaissacandel-20&linkId=91db7aa8a6f7d71a0944a183f6802e52&ref_=as_li_ss_tl

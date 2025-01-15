@@ -1,3 +1,11 @@
+---
+title: "Movies - Devil's Advocate"
+description: "In rhetoric and composition, the pentad is the set of five problem-solving probes that answer thefollowing questions: What was done (act), When and where was it done (scene), Who did it (agent), How"
+published: "2024-03-26"
+image: "images/image-post-113.png"
+draft: false
+---
+
 # Movies - Devil's Advocate
 
 We will use the pentad of motives [^1].

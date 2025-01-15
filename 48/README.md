@@ -1,3 +1,11 @@
+---
+title: "Payment in software companies"
+description: 'The project itself got more than 6.000 on cyclomatic complexity! (much because the company enforces you to either use **Vanilla JavaScript**, or **Jquery**. All because of if you use any other thing'
+published: "2023-05-08"
+image: "./images/image-post-48.png"
+draft: false
+---
+
 # Payment in software companies
 
 ```quote

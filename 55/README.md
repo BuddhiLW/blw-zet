@@ -1,3 +1,11 @@
+---
+title: "Differences on Jetty and Aleph (Clojure web applications libraries)"
+description: 'When integrating `go`, `reset` and `halt` commands of `Integrant` with `Aleph, I found it much more well behaved than `Jetty. The `Cider repl` was consumed (the process'
+published: "2023-05-17"
+image: "./images/image-post-55.png"
+draft: false
+---
+
 # Differences on Jetty and Aleph (Clojure web applications libraries)
 
 ## Reitit course (Jack Schae)

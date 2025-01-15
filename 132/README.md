@@ -1,3 +1,11 @@
+---
+title: "Cadence"
+description: "To successfully run this hello world sample, follow this checklist of setting up Cadence environment. Your Cadence server is running (check your background docker container process)- You have successfully registered a domain for this workflow."
+published: "2024-06-21"
+image: "images/image-post-132.png"
+draft: false
+---
+
 # Cadence
 
 ```quote

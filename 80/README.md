@@ -1,3 +1,11 @@
+---
+title: "On Kelly Criterion"
+description: 'This article was first published in the journal Arxiv.org. It is based on a series of articles published in 2004 and 2005.'
+published: "2025-01-01"
+image: "./images/image-post-./80.png"
+draft: false
+---
+
 # On Kelly Criterion
 - https://arxiv.org/abs/2303.10417
 - https://arxiv.org/abs/2107.08827

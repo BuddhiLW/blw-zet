@@ -1,3 +1,11 @@
+---
+title: "Training Periodization"
+description: "The phosphagen system is an anaerobic (without oxygen)pathway that supplies immediate energy to your working muscles. The amount of phosphocreatine stored in your body is limited, sothis system only provides you enough energy"
+published: "2024-01-17"
+image: "images/image-post-103.png"
+draft: false
+---
+
 # Training Periodization
 
 Types of energy systems in the body:

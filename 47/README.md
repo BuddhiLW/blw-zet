@@ -1,3 +1,11 @@
+---
+title: "Re-frame"
+description: "Dynamic behavior often entails events depending on subscriptions and vice-versa. Once the **state0** is changed through an **event** (e.g., scheduled, or a user's action) we will have a new **state"
+published: "2023-05-08"
+image: "./images/image-post-47.png"
+draft: false
+---
+
 # Re-frame
 
 Clear separation of business logic from creation of components.

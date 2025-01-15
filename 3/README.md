@@ -1,3 +1,11 @@
+---
+title: "Dostoievsky's The Idiot (20221125132220)"
+description: 'Nastássia Filipovna, as her past serves as a recurring **Scene** for her_Acts_, translates well her Motives. She feels betrayed by how Tótski manipulated her life, into becoming'
+published: "2023-03-05"
+image: "./images/image-post-3.png"
+draft: false
+---
+
 # Dostoievsky's The Idiot (20221125132220)
 
 A novel extremely intricate in it's _Motives_, which is the

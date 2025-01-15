@@ -1,3 +1,11 @@
+---
+title: "Freqtrade commands"
+description: "Bashcd ft_userdatanohup docker-compose run --rm freqtrade trade --config ./user_data/config_run20.json --strategy BLW_run23 --db-url sql"
+published: "2024-11-30"
+image: "images/image-post-157.png"
+draft: false
+---
+
 # Freqtrade commands
 
 20241201003220

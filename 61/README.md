@@ -1,3 +1,11 @@
+---
+title: "Cassandra, Postgres and Kafka with Clojure"
+description: 'Apache Kafka is a distributed messaging system that is used for real-time data streaming and processing. Kafka can be used inconjunction with databases such as RDBMS and NoSQL databases to provide areal-timeData pipeline between'
+published: "2025-01-01"
+image: "./images/image-post-./61.png"
+draft: false
+---
+
 # Cassandra, Postgres and Kafka with Clojure
 
 <user>: How databases and database types (OLTP, RDBMS etc.), NoSQL/SQL, relate

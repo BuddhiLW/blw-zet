@@ -1,3 +1,11 @@
+---
+title: "Nassim Nicholas Taleb"
+description: 'The conventional path of accumulating optionality gives you reassuring but fragileoptions. In contrast, the best options — which involve lots of experimenting andtinkering — may feel riskier in the short term but will help you thrive throughuncertain'
+published: "2025-01-01"
+image: "./images/image-post-./84.png"
+draft: false
+---
+
 # Nassim Nicholas Taleb
 
 ```quote

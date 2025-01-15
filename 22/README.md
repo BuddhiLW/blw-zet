@@ -1,3 +1,11 @@
+---
+title: "Chinese Class 1"
+description: 'Class Dialogue: Class Dialogue: Nao (You)  hao (good) Wo (I)  call: Jiao (call) Text: Bomber dia. Side notes: crow You arrived early -p -'
+published: "2023-03-05"
+image: "./images/image-post-22.png"
+draft: false
+---
+
 # Chinese Class 1
 
 ## Class Dialogue

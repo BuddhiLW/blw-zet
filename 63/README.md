@@ -1,3 +1,11 @@
+---
+title: "Ascension of Bahá’u’lláh - what Emacs can tech you"
+description: 'One of the most interesting things about Emacs agendas are the holiday dates. It seems the org-agenda is populated with a lot of religions and solar/lunar dates. One I never heard before, and therefore I read about'
+published: "2025-01-01"
+image: "./images/image-post-./63.png"
+draft: false
+---
+
 # Ascension of Bahá’u’lláh - what Emacs can tech you
 
 ```quote

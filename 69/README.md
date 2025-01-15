@@ -1,3 +1,11 @@
+---
+title: "Semantics with Applications (Hanne Riis Nielson, Flemming Nielso)"
+description: 'Operational Semantics: The meaning of a construct is specified by the computation it induces when it is executed on a machine Denotational semantics: Meanings are modelled by mathematical objects that represent the effect of executing'
+published: "2025-01-01"
+image: "./images/image-post-./69.png"
+draft: false
+---
+
 # Semantics with Applications (Hanne Riis Nielson, Flemming Nielso)
 
 - Operational Semantics;

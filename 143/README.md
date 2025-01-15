@@ -1,3 +1,11 @@
+---
+title: "Switch Headset Profile Programmatically "
+description: "My Bluetooth-headset has two profiles."
+published: "2024-08-14"
+image: "images/image-post-143.png"
+draft: false
+---
+
 # Switch Headset Profile Programmatically 
 
 My Bluetooth-headset (as most headsets currently, I suppose) has two profiles:

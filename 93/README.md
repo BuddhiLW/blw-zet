@@ -1,3 +1,11 @@
+---
+title: "Design System GovBR (Brazilian Government)"
+description: 'Os ícones são representações gráficas that podem simbolizar uma ação. No caso do Design System, foi escolhida a coleç'
+published: "2025-01-01"
+image: "./images/image-post-./93.png"
+draft: false
+---
+
 # Design System GovBR (Brazilian Government)
 
 ```quote

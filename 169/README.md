@@ -1,3 +1,11 @@
+---
+title: "The Trials of Norman Finkelstein [DOC]"
+description: "Norman Finkelstein was kicked out of DePaul, where he used to teach."
+published: "2025-01-11"
+image: "images/image-post-169.png"
+draft: false
+---
+
 # The Trials of Norman Finkelstein [DOC]
 
 ## Public speaker

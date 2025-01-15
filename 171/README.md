@@ -1,3 +1,11 @@
+---
+title: "Degrau de Vendas"
+published: "2025-01-11"
+image: "images/image-post-169.png"
+draft: false
+description: "Notes on Sell's Cube, Orasis."
+---
+
 # Cubo de Vendas
 
 - Feature de histórico;

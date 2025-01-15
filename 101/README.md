@@ -1,3 +1,11 @@
+---
+title: "Dump - Trading and settings"
+description: "dumping the dump"
+published: "2023-10-24"
+image: "images/image-post-101.png"
+draft: false
+---
+
 # Dump - Trading and settings
 ```python
 [

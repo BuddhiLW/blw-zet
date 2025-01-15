@@ -1,3 +1,11 @@
+---
+title: "The underling forces behind Industry"
+description: 'First Industrial, but behind it, and overwhelmingly, **pecuniary**. The initial fase-transition between Fedaudalism and Capitalism, as we known it has been full of inventions.'
+published: "2025-01-01"
+image: "./images/image-post-./8.png"
+draft: false
+---
+
 # The underling forces behind Industry
 
 The initial fase-transition between Fedaudalism and Capitalism, as we known it 

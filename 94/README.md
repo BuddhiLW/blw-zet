@@ -1,3 +1,11 @@
+---
+title: "A matemática, a computação e o método científico"
+description: "Um post sobre algorítmos, e como pensamos."
+published: "2024-03-01"
+image: "./images/image-post-95.png"
+draft: false
+---
+
 # A matemática, a computação e o método científico
 
 # A matemática, a computação e o método científico como guia de decisões de desenvolvimento de software, de alta performance.

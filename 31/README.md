@@ -1,3 +1,11 @@
+---
+title: "VirtualBox and Mongodb - AVX and AVX2"
+description: "To usemongodb in my `VirtualBox' running inside a Windows Machine, I had to enable the use of AVX, as well as setup a Bridged Adapter as my Networking configuration."
+published: "2023-03-05"
+image: "./images/image-post-31.png"
+draft: false
+---
+
 # VirtualBox and Mongodb - AVX and AVX2
 
 To use `mongodb` in my `VirtualBox` running inside a Windows Machine, I had to enable the use of AVX, as well as setup a Bridged Adapter as my Networking configuration.[^1]

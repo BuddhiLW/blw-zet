@@ -1,3 +1,11 @@
+---
+title: "Useful Linux Info (Keystroke Singnals and it's meanings)"
+description: "'Ctrl' only works at the beginning of a line, and has no effect if the program isn't reading input from the terminal. 'D' tells the shell that you weren't going to type any more commands, so it exited"
+published: "2024-01-22"
+image: "images/image-post-106.png"
+draft: false
+---
+
 # Useful Linux Info (Keystroke Singnals and it's meanings)
 
 "<kbd>Ctrl</kbd>+<kbd>D</kbd> (`^D`) means [end of file](http://en.wikipedia.org/wiki/Control-D#Meaning_in_Unix). It only works at the beginning of a line (I'm simplifying a little), and has no effect if the program isn't reading input from the terminal. In your experiment, `^D` told the shell that you weren't going to type any more commands, so it exited; then the terminal exited because its subprogram had terminated.

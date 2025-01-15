@@ -1,3 +1,11 @@
+---
+title: "Colorir"
+description: 'O verbo colorir é um verbo defectivo. No presente do indicativo não é conjugado na 1.ª pessoa do singular (eu) No imperativo   afirmat'
+published: "2025-01-01"
+image: "./images/image-post-./83.png"
+draft: false
+---
+
 # Colorir
 
 ```

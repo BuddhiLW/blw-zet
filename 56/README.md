@@ -1,3 +1,11 @@
+---
+title: "Deployment steps, with `Clojure(Script)`"
+description: 'To generate de `Postgres` table, we can access cloud services, like `render` - which let you dig on their services for free (for really small projects, so you can test new technologies and solutions).You will get'
+published: "2023-05-17"
+image: "./images/image-post-56.png"
+draft: false
+---
+
 # Deployment steps, with `Clojure(Script)`
 
 To generate de `Postgres` table, we can access cloud services, like `render` - which let you dig on their services for free (for really small projects, so you can test new technologies and solutions).

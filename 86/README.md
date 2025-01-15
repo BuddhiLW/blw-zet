@@ -1,3 +1,11 @@
+---
+title: "Why Clojure?"
+description: 'The Mantis Query Language (MQL) which ferries around approximately 2 trillion events every day for operational analysis (SPS alerting, quality of experience metrics, debugging production, etc) is written entirely in Clojure. This runs in'
+published: "2025-01-01"
+image: "./images/image-post-./86.png"
+draft: false
+---
+
 # Why Clojure?
 
 ```

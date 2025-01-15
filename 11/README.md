@@ -1,3 +1,11 @@
+---
+title: "The Specter of Communism"
+description: "Karl Marx famously used the term 'specter of Communism' in the preface of The Communist Manifesto. To this day, we can hear and read about the `shadow' of communism and socialism."
+published: "2023-03-05"
+image: "images/image-post-11.png"
+draft: false
+---
+
 # The Specter of Communism
 
 To this day, we can hear and read about the `shadow` of communism and 

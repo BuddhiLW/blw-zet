@@ -1,3 +1,11 @@
+---
+title: "Dotfiles: the struggle is real"
+description: "Buddhi Wong created a set of bash scripts for installing dependencies, symbolical links, moving files around and installing GitHub packages. It's supposed to run on top of a `apt-based` (Debian, Ubuntu"
+published: "2023-03-05"
+image: "./images/image-post-28.png"
+draft: false
+---
+
 # Dotfiles: the struggle is real
 
 Creating a personal amalgamation of bash scripts for installing dependencies, symbolical links, moving files around and installing GitHub packages et al., can be tiresome. I know, right? I feel that way too.

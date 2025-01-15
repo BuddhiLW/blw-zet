@@ -1,3 +1,11 @@
+---
+title: "A `M-x` (`execute-extended-command`) for `XMonad`"
+description: "Xmonad is great, but we do love some **rofi-like** applications. We like to type and find a command, which we either don't have or don't remember the bindings for that program in our WM."
+published: "2024-07-30"
+image: "images/image-post-141.png"
+draft: false
+---
+
 # A `M-x` (`execute-extended-command`) for `XMonad`
 
 **Xmonad** is great. But, we do love some **rofi-like** applications. We like to type and find a command, which we either don't have or don't remember the bindings for that program in our WM.

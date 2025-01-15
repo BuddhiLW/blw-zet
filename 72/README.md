@@ -1,3 +1,11 @@
+---
+title: "Logseq - A note-taking app"
+description: 'Todo list:- Set up dev environment.- Take one of the bugs to solve. - Open source- Clojure and et el.- Great ideias.- Similar in purpose to `KEG`.'
+published: "2025-01-01"
+image: "./images/image-post-./72.png"
+draft: false
+---
+
 # Logseq - A note-taking app
 
 - Open source

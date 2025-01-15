@@ -1,3 +1,11 @@
+---
+title: "Discurso de formatura"
+description: 'E para mim, como para muitos outros, essa jornada é uma com muitas pedras. Mas, que caminho existe sem elas? Algo que aprendemos'
+published: "2023-03-23"
+image: "./images/image-post-33.png"
+draft: false
+---
+
 # Discurso de formatura
 
 Não era meu plano discursar. Não era meu plano chegar onde cheguei. Bem como não era meu plano passar por onde passei. 

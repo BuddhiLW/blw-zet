@@ -1,3 +1,11 @@
+---
+title: "The ultra zionists (2011), Louis Theroux [DOC]"
+description: "In many takes, there are stolen houses where Daniel, the Zionist, is in discussing of his role in bringing new jew extremists to live in those houses. People clearly were kicked out. One house appears to be STOLEN."
+published: "2025-01-11"
+image: "images/image-post-161.png"
+draft: false
+---
+
 # The ultra zionists (2011), Louis Theroux [DOC]
 
 ## Jerusalem

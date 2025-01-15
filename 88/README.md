@@ -1,3 +1,11 @@
+---
+title: "Unusually good quotes"
+description: 'O fracasso é a oportunidade de começar de novo inteligentemente--Henry Ford. É impossível ser ridículo dentro of um Mercedes--Nelson Rodrigues'
+published: "2025-01-01"
+image: "./images/image-post-./88.png"
+draft: false
+---
+
 # Unusually good quotes
 
 ``` quote

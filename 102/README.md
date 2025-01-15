@@ -1,3 +1,11 @@
+---
+title: "Binding developer-oriented commands to keystrokes in Emacs"
+description: "some cider stuff"
+published: "2023-11-24"
+image: "images/image-post-102.png"
+draft: false
+---
+
 # Binding developer-oriented commands to keystrokes in Emacs
 
 Simply, you can have

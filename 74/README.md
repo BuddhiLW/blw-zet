@@ -1,3 +1,11 @@
+---
+title: "Psytrance "
+description: 'Sneaky Voodo - Psychedelic Airlines (deep psytrance/transitions with tech house). Module Virus - Epiphany. Persona x Porat - For Whom the Bells (psytrance low bpm'
+published: "2025-01-01"
+image: "./images/image-post-./74.png"
+draft: false
+---
+
 # Psytrance 
 
 ## Potentials

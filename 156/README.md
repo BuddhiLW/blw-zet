@@ -1,3 +1,11 @@
+---
+title: "Reunião"
+description: "'Degrau de preços' is a set of precificações baseado em condiçâes (`fidelidade`, `atacado` etc). 'Deg"
+published: "2024-11-26"
+image: "images/image-post-156.png"
+draft: false
+---
+
 # Reunião
 
 `Degrau de preços`:  Diversos precificações, baseado em condições (`fidelidade`, `atacado` etc).

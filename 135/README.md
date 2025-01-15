@@ -1,3 +1,11 @@
+---
+title: "Pywal with Kitty terminal"
+description: "This cached scheme can be automatically generated if you add a template in wal, like so:`vim ~/.config/wal/templates/colors-kitty.config`Insert: `active_tab_foreground  "
+published: "2024-07-16"
+image: "images/image-post-135.png"
+draft: false
+---
+
 # Pywal with Kitty terminal
 
 At `~/.config/kitty/kitty.conf`, you can add `include ~/.cache/wal/colors-kitty.conf` this line.

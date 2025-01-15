@@ -1,3 +1,11 @@
+---
+title: "Input-method in the terminal - tmux"
+description: 'vimim.vim(2) “点石成金”）“ 牳”  安装：(1)'
+published: "2023-03-05"
+image: "./images/image-post-17.png"
+draft: false
+---
+
 # Input-method in the terminal - tmux
 
 https://github.com/ki-chi/tmux-inputmethod

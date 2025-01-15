@@ -1,3 +1,11 @@
+---
+title: "Movies"
+description: "DONE- Devil's Advocate (1998)- Wings of Desire (1987) DISCART- Rosemarys Baby (1968) Todo- Let me In (2011)- Faraway, So Close! (*Wings of Desire sequel"
+published: "2025-01-01"
+image: "images/image-post-115.png"
+draft: false
+---
+
 # Movies
 
 ## DONE

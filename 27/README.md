@@ -1,3 +1,11 @@
+---
+title: "Configuração do Github Actions"
+description: 'O Github Actions é configurado por meio of `workflows. O local onde residem é `.github/workflows`. Todo `workflow` utiliza de especificações de'
+published: "2023-03-05"
+image: "./images/image-post-27.png"
+draft: false
+---
+
 # Configuração do Github Actions
 
 O Github Actions é configurado por meio de `workflows`. O local onde residem é `.github/workflows`.

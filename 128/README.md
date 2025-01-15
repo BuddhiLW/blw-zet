@@ -1,3 +1,11 @@
+---
+title: "CSS pen awesome ideas"
+description: "codepen.io is an open-source, free-to-use software platform. It lets users create, edit, and share content on the go."
+published: "2024-04-20"
+image: "images/image-post-128.png"
+draft: false
+---
+
 # CSS pen awesome ideas
 - timeline: https://codepen.io/jkantner/pen/NWoVGXx
 - drag and drop: list: https://codepen.io/joshuaward/pen/BaMBKpX

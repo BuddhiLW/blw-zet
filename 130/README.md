@@ -1,3 +1,11 @@
+---
+title: "Developing Fullstack Mobile App"
+description: "The other approach is to secure you HTTP with TLS (Transport Layer Security) After you created a signed or self-signed permission and key, configured your local server to use them. Now, you have to expose that port to your"
+published: "2024-06-17"
+image: "images/image-post-130.png"
+draft: false
+---
+
 # Developing Fullstack Mobile App
 
 ## Some hurdles in development mode

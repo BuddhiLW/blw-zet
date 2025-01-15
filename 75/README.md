@@ -1,3 +1,11 @@
+---
+title: "Blackjack Practice"
+description: 'The basic-strategy and bet variations come from true-count. Practice counting, perfect basic strategy, true counting, bet-spread variations and playing variations. Open source software for practice and simulation.'
+published: "2025-01-01"
+image: "./images/image-post-./75.png"
+draft: false
+---
+
 # Blackjack Practice
 
 Practice counting, perfect basic strategy, true counting, bet-spread variations and playing variations.

@@ -1,3 +1,11 @@
+---
+title: "Software Idea"
+description: 'The software has therefore some components. The main one that inserts chapters, sections, subsection, the type of the document, the packages, fonts etc. One can enter also a template to be used as headers and footer styles, as'
+published: "2023-03-05"
+image: "./images/image-post-26.png"
+draft: false
+---
+
 # Software Idea
 
 Create a program that generate a LaTeX document. One can specify tables that 

@@ -1,3 +1,11 @@
+---
+title: "Automate testing your website rendering"
+description: "Applitools will test the user's perceived layout for your website. It uses A.I. to do so. There are other ways, though."
+published: "2023-03-05"
+image: "./images/image-post-29.png"
+draft: false
+---
+
 # Automate testing your website rendering
 
 `Applitools` swears that it will test the user's perceived layout for your website. It uses A.I. to do so.[^1]

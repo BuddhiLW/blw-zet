@@ -1,3 +1,11 @@
+---
+title: "'Solving' `tmux` using the `/bin/sh`"
+description: "First off, you want tmux to be set to `/bin/bash. Then, if you're using bash, probably you want your `.bashrc` to be used as default. So, just put the following"
+published: "2023-03-05"
+image: "./images/image-post-24.png"
+draft: false
+---
+
 # "Solving" `tmux` using the `/bin/sh`
 
 First off, you want `tmux` to be set to 

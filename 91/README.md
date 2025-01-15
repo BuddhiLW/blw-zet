@@ -1,3 +1,11 @@
+---
+title: "Freqtrade"
+description: 'Best result:  6150/10000:    60 trades. 43/15/2 Wins/Draws/Losses. Median profit   2.70%. Total profit  0.00118444 BTC ('
+published: "2025-01-01"
+image: "./images/image-post-./91.png"
+draft: false
+---
+
 # Freqtrade
 
 ```quote

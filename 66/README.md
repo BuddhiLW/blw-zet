@@ -1,3 +1,11 @@
+---
+title: "OCR - Optical Character Recognition"
+description: 'Currently (20230612173404), there are not many ways to convert full-blown images to TeX. Ideally, that would solve the problem of converting books, notes etc (digitalized to actual software-produced-books'
+published: "2025-01-01"
+image: "./images/image-post-./66.png"
+draft: false
+---
+
 # OCR - Optical Character Recognition
 
 Currently (20230612173404), there are not many ways to convert full-blown images to TeX. Ideally, that would solve the problem of converting books, notes etc (digitalized to actual software-produced-books; or pure digital data, with characters etc.)

@@ -1,3 +1,20 @@
+---
+title: "blw-Zettelkasten"
+description: 'GitHub has a built-in search engine for notes. Use the 'KEG' technology to take notes.'
+published: "2023-01-06
+2023-01-06
+2023-03-05
+2023-03-05
+2023-03-05
+2023-01-06
+2023-03-05
+2023-03-05
+2023-03-05
+2023-03-05"
+image: "./images/image-post-..png"
+draft: false
+---
+
 # blw-Zettelkasten
 
 - isosec: 20221004152318

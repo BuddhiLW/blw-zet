@@ -1,3 +1,11 @@
+---
+title: "System Design: Google Drive (Full Cycle)"
+description: "Main feature: Gravação e Consistência. Grav ação vs leitura.ConsistêNCia vs Disponibilidade."
+published: "2024-04-17"
+image: "images/image-post-126.png"
+draft: false
+---
+
 # System Design: Google Drive (Full Cycle)
 
 Gravação vs leitura.

@@ -1,3 +1,11 @@
+---
+title: "Poem -- Nem um dia"
+description: "The poem was written by Pedro Gomes Branquinho, for Yasmin Ferreira. It is called um dia amarelo"
+published: "2024-09-25"
+image: "images/image-post-148.png"
+draft: false
+---
+
 # Poem -- Nem um dia
 
 ``` poem

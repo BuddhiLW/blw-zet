@@ -1,3 +1,11 @@
+---
+title: "Horizontal Rules with CSS"
+description: 'Tailwind can help modifying this behavior, as well as the color etc. Also, you can specify the size by using w-1/4, w-2/4'
+published: "2023-05-09"
+image: "./images/image-post-50.png"
+draft: false
+---
+
 # Horizontal Rules with CSS
 
 Generally, you can create a `horizontal rule` with `hr`. Tailwind can help modifying this behavior, as well as the color etc.

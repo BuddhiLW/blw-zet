@@ -1,3 +1,11 @@
+---
+title: "# External redirecting with ClojureScript"
+description: "I don't know how to write a function to redirect to external urls. The default is to use the inside router of the SPA. How would `:http/redirect look like?"
+published: "2025-01-01"
+image: "./images/image-post-95.png"
+draft: false
+---
+
 ## External redirecting with ClojureScript
 
 Hey!

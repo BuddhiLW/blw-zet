@@ -1,3 +1,11 @@
+---
+title: "Rice up"
+description: "Rational. Create an abstract `dotfile-setter-up` **terminal-cli** facilitator."
+published: "2024-07-25"
+image: "images/image-post-139.png"
+draft: false
+---
+
 # Rice up
 
 Create an abstract `dotfile-setter-up` **terminal-cli** facilitator.

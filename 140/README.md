@@ -1,3 +1,11 @@
+---
+title: "Interesting commands Unix"
+description: "rootlessk   26989    45423 - 0t0  TCP *:5432 (LISTEN) bashsudo lsof -i -P -n -n  | grep '5432'"
+published: "2024-07-26"
+image: "images/image-post-140.png"
+draft: false
+---
+
 # Interesting commands Unix
 
 ``` bash

@@ -1,3 +1,11 @@
+---
+title: "Re-frame documentation notes (Cofx)"
+description: 'We get to write a nice pure component, like:```cljs(defn say-hi) and Reagent/React mutates the DOM for us. The framework is looking after the necessary side-effects'
+published: "2023-05-08"
+image: "./images/image-post-49.png"
+draft: false
+---
+
 # Re-frame documentation notes (Cofx)
 
 ## Et tu, React?

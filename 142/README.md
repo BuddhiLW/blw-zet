@@ -1,3 +1,11 @@
+---
+title: "The 'Desktop' Debate"
+description: "The desktop debate arises from what OS (Operational System) has better usability. Kernels are protocols to control the hardware. It has nothing, in particular, to do with UIs (User Interfaces). That's the job of"
+published: "2024-07-30"
+image: "images/image-post-142.png"
+draft: false
+---
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 

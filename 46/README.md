@@ -1,3 +1,11 @@
+---
+title: "Stack Overflow Deleted question"
+description: "I would like to specify that the typography h2 element should only occupy the space of it's text. Currently I have the following structure, represented in pseudo-code:```Grid  > Typography  > Grid/Card"
+published: "2023-05-07"
+image: "./images/image-post-46.png"
+draft: false
+---
+
 # Stack Overflow Deleted question
 
 Currently I have the following structure, represented in pseudo-code:

@@ -1,3 +1,11 @@
+---
+title: "Kafka built with C++"
+description: "To get the most out of the fastest queue in the west, enable production mode byrunning the following:    sudo rpk redpanda mode production."
+published: "2024-06-20"
+image: "images/image-post-131.png"
+draft: false
+---
+
 # Kafka built with C++
 
 ```quote

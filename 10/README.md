@@ -1,3 +1,12 @@
+---
+title: "`tmux` really is awesome"
+description: "Most of the utilities  present in `tmux` can be found in WMs, at least the tilling ones. The anwser is simple: select text from `lynx` like a hacker and just paste it."
+published: "2023-01-05"
+image: "images/image-post-10.png"
+draft: false
+---
+
+
 # `tmux` really is awesome
 
 Sorry to have doubted your powers... Actually, I didn't. The fact is, I wasn't 
@@ -13,6 +22,7 @@ present in `tmux` can be found in WMs, at least the tilling ones.
 
 The anwser is simple: select text from `lynx` like a hacker and just paste it 
 from the clipboard, **without the mouse**.
+
 
 ## References
 [^1]: https://ianthehenry.com/posts/how-to-configure-tmux/

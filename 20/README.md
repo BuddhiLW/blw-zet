@@ -1,3 +1,11 @@
+---
+title: "Chinese Practices"
+description: 'My family is beautiful. I took part at the class.'
+published: "2023-01-06"
+image: "https://example.com/placeholder.jpg"
+draft: false
+---
+
 # Chinese Practices
 ```sh
 zp 我家庭是漂亮

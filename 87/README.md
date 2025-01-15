@@ -1,3 +1,11 @@
+---
+title: "Consolidação de mercado death care."
+description: 'O mercado funerário ainda não é *consolidado*. O que isso significa? Com aproximadamente 4% de market share, a empresa (Grupo Zelo'
+published: "2025-01-01"
+image: "./images/image-post-./87.png"
+draft: false
+---
+
 # Consolidação de mercado death care.
 
 ## O que é consolidação?

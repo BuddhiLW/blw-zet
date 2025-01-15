@@ -1,3 +1,11 @@
+---
+title: "A lógica matemática e a filosofia da vida."
+description: "Predicado F(0): existe vida (na Terra), e esse é o caso zero; empiríco e tautológico. Vx(F(x) => F(x+"
+published: "2024-07-23"
+image: "images/image-post-137.png"
+draft: false
+---
+
 # A lógica matemática e a filosofia da vida.
 
 Ou, como provar que existem outras vidas no universo, sem  - ou antes de - acharmos outras formas de vida.

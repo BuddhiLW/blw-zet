@@ -1,3 +1,11 @@
+---
+title: "Exchanges with Chat GPT"
+description: 'Awnser: Everything follow a path of least action, as in physics. This principle applies to higher orders ofabstraction, like life itself.'
+published: "2023-05-24"
+image: "./images/image-post-59.png"
+draft: false
+---
+
 # Exchanges with Chat GPT
 
 ## 20230524183657

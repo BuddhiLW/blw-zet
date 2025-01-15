@@ -1,3 +1,11 @@
+---
+title: "Discipline (Ed talk)"
+description: 'Jack Schae is a software developer and author of Clojuric.com. He is best known for his work on the Pomodoro Coffee Selling platform and WebRTC.'
+published: "2025-01-01"
+image: "./images/image-post-./90.png"
+draft: false
+---
+
 # Discipline (Ed talk)
 
 - Todo listing in Emacs. Make it perfect.

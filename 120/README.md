@@ -1,3 +1,11 @@
+---
+title: "QR-Code Supply Management System"
+description: "Aplicatico têm tipos of usuários: Administração, Vendedor, e potencialmente Usuário (Cliente)"
+published: "2024-04-08"
+image: "images/image-post-120.png"
+draft: false
+---
+
 # QR-Code Supply Management System
 
 Sistema de Gerenciamento de Armazem, mediado por QR-Code.

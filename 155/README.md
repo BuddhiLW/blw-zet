@@ -1,3 +1,11 @@
+---
+title: "Freqtrade Hyperopt hacks"
+description: "Use `SortinoHyperOptLoss` to optimize `buy' and 'sell' calls. This will be a little bit aggressive, if your strategy can handle good buys, but will come with a fare share of drop-down"
+published: "2024-11-15"
+image: "images/image-post-155.png"
+draft: false
+---
+
 # Freqtrade Hyperopt hacks
 
 Use `SortinoHyperOptLoss` to optimize `buy` and `sell` calls. This will be a little bit aggressive, if your strategy can handle good buys, but will come with a fare share of drop-down. This will be mostly caped by your sell, but even more so, by the next optimization using `CalmarHyperOptLoss`, of `roi` and `stoploss` parameters.

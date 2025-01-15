@@ -1,3 +1,11 @@
+---
+title: "Market strategies and signals"
+description: "---"
+published: "2023-11-24"
+image: "images/image-post-99.png"
+draft: false
+---
+
 # Market strategies and signals
 
 When modeling signals of entry, in up-trending markets, it's common that we get either too early trend moments or end of trending moments, as well as the tip of the local high as a signal.

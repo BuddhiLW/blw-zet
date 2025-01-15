@@ -1,3 +1,11 @@
+---
+title: "Career Summit"
+description: "Work in Lithuania is an initiative dedicated to encouraging highly-skilled professionals living abroad to build their careers in Lithuania. We act as a link between people looking to land their dream job and international companies keen to hire specialists from abroad."
+published: "2025-01-01"
+image: "images/image-post-117.png"
+draft: false
+---
+
 # Career Summit
 
 Canada:

@@ -1,3 +1,11 @@
+---
+title: "The enginners and the price system"
+description: 'A profitable market is the first andunremitting condition of prosperity in any community whose industry is owned andmanaged by business men. The ways and means of this necessary control of the output of industry are always and necessarily something in the nature'
+published: "2023-03-05"
+image: "./images/image-post-4.png"
+draft: false
+---
+
 # The enginners and the price system
 
 

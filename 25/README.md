@@ -1,3 +1,11 @@
+---
+title: "Chinese Class 2"
+description: 'Grammar: period + jiàn = untill next period. Approximation: goodbyeliterally: until next time.'
+published: "2023-03-05"
+image: "./images/image-post-25.png"
+draft: false
+---
+
 # Chinese Class 2
 
 ## Common Phrases

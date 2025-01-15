@@ -1,3 +1,11 @@
+---
+title: "Time alone"
+description: "Last week I just shipped an application to production. Many companies, projects and alike will use it. Hope they are happy as hell. But, I'm only reciving 1000$ to do it monthly. They reap so much profit out"
+published: "2023-04-29"
+image: "./images/image-post-40.png"
+draft: false
+---
+
 # Time alone
 
 Last week I just shipped an application to production. Many companies, projects and alike will use it. They can put all clearence data into it and get a nice PDF in the end, with legit data, and verification codes and access, to their expending, so to show everything is ok (to the gov.).

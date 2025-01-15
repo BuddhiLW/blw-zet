@@ -1,3 +1,11 @@
+---
+title: "Exchanges with ChatGPT about databases"
+description: 'Websocket is a protocol that enables real-time communication between the clientand server over a single connection. Websocket is ideal for latency-sensitive applications and game development.'
+published: "2025-01-01"
+image: "./images/image-post-./60.png"
+draft: false
+---
+
 # Exchanges with ChatGPT about databases
 
 <user>: websocket vs http, what are their main differences, pros and cons?

@@ -1,8 +1,9 @@
 ---
-title: Active procedure of paranoiac thought
-description: description 
-published: "2025-01-12"
-image: ""
+title: "Active procedure of paranoiac thought"
+description: "Salvador Dali: 'The moment is near when by a procedure of active paranoiac thought, it will be possible to systematize confusion and contribute to the total discrediting of the world of reality'"
+published: "2023-01-06"
+image: "images/image-post-15.png"
+draft: false
 ---
 
 # Active procedure of paranoiac thought 

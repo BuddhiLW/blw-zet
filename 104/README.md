@@ -1,3 +1,11 @@
+---
+title: "ChatGPT summarization chronics"
+description: "Sapolsky's research showed that Baboons are capable of shifting their social hierarchy and living a more healthy life for all of the members of the 'tribe'"
+published: "2024-01-19"
+image: "images/image-post-104.png"
+draft: false
+---
+
 # ChatGPT summarization chronics
 
 

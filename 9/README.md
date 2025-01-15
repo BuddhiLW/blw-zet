@@ -1,3 +1,11 @@
+---
+title: "The divergent series (20221128185105)"
+description: 'Hollywood is so north-american-centric. The love for lawful cities, mixed with military on steroids. The bullshit of Chicago being the only city that was left on the planet.'
+published: "2025-01-01"
+image: "./images/image-post-./9.png"
+draft: false
+---
+
 # The divergent series (20221128185105)
 
 The bullshit of "Chicago" being the only city that was left on the planet.

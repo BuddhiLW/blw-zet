@@ -1,3 +1,11 @@
+---
+title: "Interesting Websites and People"
+description: 'Two-Byte History, Ovi Stoica, Nikita, Toryan Anderson, Wesley Tansey, Dr. Dijkstra, Tienson Qin, Otávio Valadares. Lymchat - React Native with'
+published: "2023-06-20"
+image: "./images/image-post-58.png"
+draft: false
+---
+
 # Interesting Websites and People
 
 - Otávio Valadares [^1]

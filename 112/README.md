@@ -1,3 +1,11 @@
+---
+title: "Aljazeera Investigations Doc 07, Out [DOC]"
+description: " Netanyahu stated lies. Blinken repeated those lies, as facts - without de facto investigations. Biden stated that saw pictures (about events that didn't happen) - most probably said it in heat of speech."
+published: "2024-03-25"
+image: "images/image-post-112.png"
+draft: false
+---
+
 # Aljazeera Investigations Doc 07, Out [DOC]
 
 - Netanyahu stated lies

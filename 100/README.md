@@ -1,3 +1,11 @@
+---
+title: "Trading Stategy #1 - Hyperoptable strategy"
+description: "A mix of BB and Ichv strategies. Trying to enter in trading markets after pull-backs. Do not remove these libs."
+published: "2023-10-23"
+image: "images/image-post-100.png"
+draft: false
+---
+
 # Trading Stategy #1 - Hyperoptable strategy
 
 A mix of BB and Ichv strategies. Trying to enter in trading markets after pull-backs.

@@ -1,3 +1,11 @@
+---
+title: "Freqtrade operations"
+description: 'freqtrade trade  -c 14.json --strategy BLW14```for running these markets. Do not remove these libs ---import numpy as np  # noqaimport pandas as pd '
+published: "2025-01-01"
+image: "./images/image-post-./92.png"
+draft: false
+---
+
 # Freqtrade operations
 
 ```bash

@@ -1,3 +1,11 @@
+---
+title: "Tantura [DOC]"
+description: "David Ben-Gurion was the first Prime Minister of Israel and a key figure in the establishment of the state in 1948. He is often referred to as Israel's founding father due to his leadership in the Zionist movement and his role in"
+published: "2025-01-11"
+image: "images/image-post-160.png"
+draft: false
+---
+
 # Tantura [DOC]
 
 ## Al Nakba; War of Independence (1948)
