@@ -1,3 +1,11 @@
+---
+title: MkDocs and KEG
+description: biography
+published: "2025-01-15"
+draft: false
+image: "images/image-post-175.png"
+---
+
 # MkDocs and KEG
 
 MkDocs (Make Docs) can create some awesome documentation, based on   some markdown, like this: [crawlai docs](https://docs.crawl4ai.com/).
