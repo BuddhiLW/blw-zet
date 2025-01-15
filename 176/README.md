@@ -8,7 +8,7 @@ draft: false
 
 # A necessidade por uma internet diferente
 
-```
+``` quote
 Galera da tecnologia que mexe com os computers, papo sério com vocês.
 
 Por que, mesmo quando vocês não têm ideia nenhuma sobre o que estão falando, acham que a opinião de vocês é válida e irrefutável?*

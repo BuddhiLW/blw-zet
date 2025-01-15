@@ -8,9 +8,12 @@ draft: false
 
 # O fracasso
 
+## KEG não é um *Fracasso*!
 
+``` quote
 O fracasso é a oportunidade de começar de novo inteligentemente
 -- Henry Ford
+```
 
 KEG: Knowledge Exchange Graph... Um projeto tão interessante (https://github.com/standardgalactic/keg-spec?tab=readme-ov-file) porém, o qual o principal idealizador tecnológico largou de mão; 
 
