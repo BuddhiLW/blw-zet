@@ -15,20 +15,24 @@ O fracasso é a oportunidade de começar de novo inteligentemente
 -- Henry Ford
 ```
 
-KEG: Knowledge Exchange Graph... Um projeto tão interessante (https://github.com/standardgalactic/keg-spec?tab=readme-ov-file) porém, o qual o principal idealizador tecnológico largou de mão; 
+## *KEG: Knowledge Exchange Graph*, um projeto diferente
 
-("blog post" explicando as suas razões pra tal: https://rwxrob.github.io/blog/#_do_not_do_zettelkasten).
+Porém, um o qual seu principal idealizador tecnológico - **rwxrob** - largou de mão;  Você pode ler o racional do projeto, pelo seu [keg-spec](https://github.com/standardgalactic/keg-spec?tab=readme-ov-file).
 
-Enfim, não é porque alguém "fracassou", que vamos jogar tudo fora, certo? Recomecemos inteligentemente.
+E, esse é o **blog post** explicando o porque o rxwrob suas razões pra tal: [https://rwxrob.github.io/blog/#_do_not_do_zettelkasten](https://rwxrob.github.io/blog/#_do_not_do_zettelkasten).
 
-Uma das principais (auto)críticas do rwxrob sobre o KEG é que... ele simplesmente não é tão eficientemente indexado pelos LLMs, quanto um website comum. Um MkDocs da vida.
 
-Bem, eu tenho mais de 150 notas, escritas em 3 anos, sobre os mais diversos tópicos.
 
-E, eu planejo usar essa "velha" estrutura do KEG, e dar continuidade na ideia.
+Uma das principais (auto)críticas do **rwxrob** sobre o `KEG` é que... ele simplesmente não é tão eficientemente indexado pelos **LLM**s, quanto um website comum. Um criado, por examplo, com **MkDocs** da vida.
 
-Usando `elm-pages`, estou gerando uma integração com o KEG. E, eventualmente a cada nova nota que eu gerar; ou edição que fizer, vai gerar um CI/CD pipeline, e atualizar o "blog"; com search-bar etc.
+## Meu empasse
 
-Ou seja, um MkDocs envolta do KEG.
+Bem, eu tenho mais de **150 notas**, escritas em 3 anos, sobre os mais diversos tópicos.
 
-O fracasso é a oportunidade de começar de novo inteligentemente! :)
+E, eu planejo usar essa "velha" estrutura do `KEG`, e dar continuidade na ideia.
+
+Usando `elm-pages`, estou gerando uma integração com o `KEG`. E, eventualmente a cada nova nota que eu gerar, ou edição que fizer, rodará um**CI/CD pipeline**, atualizando o "blog".
+
+Ou seja, um `MkDocs` envolta do `KEG`.
+
+Enfim, não é porque alguém **"fracassou"**, que vamos jogar tudo fora, certo? *Recomecemos inteligentemente* 😀.

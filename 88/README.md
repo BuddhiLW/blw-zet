@@ -247,3 +247,8 @@ A Melhor definição do Amor não vale um beijo.
         desconfio que há falta de amor.
                 -- Vladimir Maiakovski
 ```
+
+``` quote
+Propaganda is to a democracy what the bludgeon is to a totalitarian state.
+                -- Noam Chomsky
+```

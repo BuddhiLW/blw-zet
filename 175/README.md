@@ -1,6 +1,6 @@
 ---
 title: MkDocs and KEG
-description: biography
+description: Is it the end of KEG?
 published: "2025-01-15"
 draft: false
 image: "images/image-post-175.png"
