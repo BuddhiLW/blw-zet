@@ -8,9 +8,9 @@ draft: false
 
 # The Bibi Files (2024) [DOC]
 
-Benjamin Mileikowsky
+Bibi, better known as Benjamin Mileikowsky...
 
-``` 
+``` quote
 Listen to me. The Prime Minister is the most principled and honest person in the world. My husband is the strongest Prime Minister we've ever had. He protects our country, saves our country. This country has never had it better. He is an admired leader around the world.
 
 In three days, we will be at the White House, where he'll be welcomed like a king.
@@ -107,7 +107,7 @@ In the late 1970s and early 1980s, Israel provided indirect support to Islamic o
 ```
 [^5][^6]
 
-```
+``` quote
 This strategy was intended to weaken the PLO's dominance but inadvertently contributed to the rise of Hamas as a significant political and militant force in the region. Over time, Hamas evolved into a militant organization committed to armed resistance against Israel, leading to increased tensions and conflict.
 ```
 [^7]
