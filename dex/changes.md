@@ -1,4 +1,4 @@
-* 2025-01-19 15:08:19Z [title: "Unusually good quotes"
+* 2025-01-19 15:34:09Z [title: "Unusually good quotes"
 description: 'O fracasso é a oportunidade de começar de novo inteligentemente-enry Ford. É impossível ser ridículo dentro of um Mercedes-elson Rodrigues'
 published: "2025-1-1"
 image: "./images/image-ost-/88.png"

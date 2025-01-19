@@ -5,6 +5,7 @@ published: "2025-01-01"
 image: "./images/image-post-./88.png"
 draft: false
 ---
+
 # Unusually good quotes
 
 ``` quote
@@ -262,4 +263,3 @@ Propaganda is to a democracy what the bludgeon is to a totalitarian state.
         o veneno no coração.
         -- Anônimo
 ```
-
