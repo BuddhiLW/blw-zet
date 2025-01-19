@@ -1,5 +1,5 @@
 ---
-title: test front-matter keg
+title: test new keg
 ---
 
 # test front-matter keg
