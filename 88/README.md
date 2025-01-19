@@ -263,3 +263,9 @@ Propaganda is to a democracy what the bludgeon is to a totalitarian state.
         o veneno no coração.
         -- Anônimo
 ```
+
+``` quote
+Quem quer ser rico num dia, morre enforcado num ano
+
+--Leonardo da Vinci
+```
