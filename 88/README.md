@@ -5,7 +5,6 @@ published: "2025-01-01"
 image: "./images/image-post-./88.png"
 draft: false
 ---
-
 # Unusually good quotes
 
 ``` quote
@@ -252,3 +251,15 @@ A Melhor definição do Amor não vale um beijo.
 Propaganda is to a democracy what the bludgeon is to a totalitarian state.
                 -- Noam Chomsky
 ```
+
+``` quote
+        O absurdo é a evidencia de um fato.
+                -- Lacordaire Henri
+```
+
+``` quote
+        O Mundo está cheio de pessoas que têm o sorriso nos lábios e
+        o veneno no coração.
+        -- Anônimo
+```
+
