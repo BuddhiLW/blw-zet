@@ -269,3 +269,9 @@ Quem quer ser rico num dia, morre enforcado num ano
 
 --Leonardo da Vinci
 ```
+
+``` quote
+I really wish I could split myself into five people with a shared brain; one for work, one for new projects, one for old projects, one for family, and one for sleeping and relaxation.
+
+-- mtekman at https://gitlab.com/mtekman/org-tanglesync.el/#from-external-file-push-to-tangled-block
+```
