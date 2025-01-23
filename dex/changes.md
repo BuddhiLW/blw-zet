@@ -1,6 +1,6 @@
+* 2025-01-23 12:49:28Z [Unusually good quotes](../88)
 * 2025-01-19 17:26:56Z [O fracasso](../177)
 * 2025-01-19 17:26:39Z [Free-style evolution to integrate with `elm-pages`](../178)
-* 2025-01-19 17:06:09Z [Unusually good quotes](../88)
 * 2025-01-16 17:57:40Z [A necessidade por uma internet diferente](../176)
 * 2025-01-15 12:27:37Z [MkDocs and KEG](../175)
 * 2025-01-13 02:51:04Z [](../15)
