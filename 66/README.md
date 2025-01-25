@@ -20,7 +20,7 @@ You can actually convert pure text (images), or pure math (images) to text and `
 
 `pix2tex`: you can screenshot an equation and convert it to tex. Very feasible. Maybe not to script it and automate - yet?.
 
-You can install it like this:
+You can install it like this [source](https://gist.github.com/BuddhiLW/9f1113fb3e2a6ae4e7cfe0d101956745):
 
 ``` bash
 #!/usr/bin/bash
