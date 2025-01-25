@@ -275,3 +275,9 @@ I really wish I could split myself into five people with a shared brain; one for
 
 -- mtekman at https://gitlab.com/mtekman/org-tanglesync.el/#from-external-file-push-to-tangled-block
 ```
+
+``` quote
+O desejo de segurança coloca-se contra toda e qualquer empresa grande e nobre
+
+--Tácito
+```
