@@ -9,9 +9,11 @@ draft: false
 # Consolidação de mercado death care.
 
 ## O que é consolidação?
+
 No artigo `Mercado bilionário e consolidação: o avanço do death care no Brasil`[^1], da Infomoney, o mercado funerário ainda não é *consolidado*.
 
 O que isso significa? Bem, pela citação do artigo mesmo artigo,
+
 ```quote
  Com aproximadamente 4% de market share, a empresa (Grupo Zelo) vê ainda muito espaço para crescer. “Se olharmos no mercado americano, a líder tem 16% do mercado, por exemplo”, explica Lucas Provenza, CEO do grupo.
 ```

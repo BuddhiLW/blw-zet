@@ -1,3 +1,4 @@
+* 2025-01-25 18:38:32Z [Consolidação de mercado death care.](../87)
 * 2025-01-25 18:37:50Z [Templating to PDF](../180)
 * 2025-01-25 18:37:43Z [Practical Physics](../105)
 * 2025-01-25 18:34:33Z [OCR - Optical Character Recognition](../66)
@@ -22,7 +23,6 @@
 * 2025-01-12 21:06:29Z [](../173)
 * 2025-01-11 02:21:31Z [Why Clojure?](../86)
 * 2025-01-11 02:21:31Z [Too bright for the dark](../85)
-* 2025-01-11 02:21:31Z [Consolidação de mercado death care.](../87)
 * 2025-01-11 02:21:31Z [Freqtrade](../89)
 * 2025-01-11 02:21:31Z [The divergent series (20221128185105)](../9)
 * 2025-01-11 02:21:31Z [Freqtrade](../91)
