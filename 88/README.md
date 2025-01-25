@@ -9,6 +9,12 @@ draft: false
 # Unusually good quotes
 
 ``` quote
+        As palavras verdadeiras não são agradáveis e as agradáveis
+        nao são verdadeiras.
+                -- Lao-Tse
+```
+
+``` quote
 Part of what makes Lisp distinctive is that it is designed to evolve. As new abstractions become popular (object-oriented programming, for example), it always turns out to be easy to implement them in Lisp. Like DNA, such a language does not go out of style.
 
 --Paul Graham, ANSI Common Lisp
