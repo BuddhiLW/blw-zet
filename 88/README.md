@@ -294,3 +294,9 @@ O desejo de segurança coloca-se contra toda e qualquer empresa grande e nobre
 
 --Tácito
 ```
+
+``` quote
+Elegância é a arte de não se fazer notar misturada ao cuidado sutil de se deixar distinguir
+
+--Pierre Balmain
+```
