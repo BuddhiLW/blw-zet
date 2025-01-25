@@ -1,3 +1,4 @@
+* 2025-01-25 18:37:43Z [Practical Physics](../105)
 * 2025-01-25 18:34:33Z [OCR - Optical Character Recognition](../66)
 * 2025-01-25 17:32:59Z [Unusually good quotes](../88)
 * 2025-01-25 15:12:19Z [Templating to PDF](../180)
@@ -159,7 +160,6 @@
 * 2025-01-11 02:21:31Z [Awesome practical projects](../108)
 * 2025-01-11 02:21:31Z [GPT for Carrer advice](../107)
 * 2025-01-11 02:21:31Z [Useful Linux Info (Keystroke Singnals and it's meanings)](../106)
-* 2025-01-11 02:21:31Z [Practical Physics](../105)
 * 2025-01-11 02:21:31Z [ChatGPT summarization chronics](../104)
 * 2025-01-11 02:21:31Z [Training Periodization](../103)
 * 2025-01-11 02:21:31Z [Binding developer-oriented commands to keystrokes in Emacs](../102)
