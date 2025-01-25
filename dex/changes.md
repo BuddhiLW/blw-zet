@@ -1,7 +1,7 @@
+* 2025-01-25 18:37:50Z [Templating to PDF](../180)
 * 2025-01-25 18:37:43Z [Practical Physics](../105)
 * 2025-01-25 18:34:33Z [OCR - Optical Character Recognition](../66)
 * 2025-01-25 17:32:59Z [Unusually good quotes](../88)
-* 2025-01-25 15:12:19Z [Templating to PDF](../180)
 * 2025-01-19 17:26:56Z [O fracasso](../177)
 * 2025-01-19 17:26:39Z [Free-style evolution to integrate with `elm-pages`](../178)
 * 2025-01-16 17:57:40Z [A necessidade por uma internet diferente](../176)
