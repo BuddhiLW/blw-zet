@@ -1,7 +1,7 @@
 ---
 title: Templating to PDF
 description: Ideas to make a system to automate technical PDF production.
-published: 2025-01-25
+published: "2025-01-25"
 image: "./images/image-post-188.png"
 draft: true
 ---
