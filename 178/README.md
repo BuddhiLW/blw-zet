@@ -1,7 +1,7 @@
 ---
 title: Maintaining KEG
 description: What changes to expect from KEG behaviour
-published: 2024-01-19
+published: "2025-01-19"
 image: "./images/image-post-178.png"
 draft: false
 ---
@@ -18,7 +18,7 @@ For example, this note's `front-matter` is:
 ---
 title: Maintaining KEG
 description: What changes to expect from KEG behaviour
-published: 2024-01-19
+published: 2025-01-19
 image: "./images/image-post-178.png"
 draft: false
 ---
