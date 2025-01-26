@@ -306,3 +306,8 @@ Well I sometimes call myself a libertarian but that's only because most people d
                 -- Robert Anton Wilson
 ```
 
+``` quote
+Há mais idéias no mundo do que imaginam os intelectuais
+
+--Michel Foucalt
+```
