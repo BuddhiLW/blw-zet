@@ -305,3 +305,4 @@ Elegância é a arte de não se fazer notar misturada ao cuidado sutil de se dei
 Well I sometimes call myself a libertarian but that's only because most people don't know what anarchist means. Most people hear you're an anarchist and they think you're getting ready to throw a bomb at a building.
                 -- Robert Anton Wilson
 ```
+
