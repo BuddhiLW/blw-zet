@@ -311,3 +311,9 @@ Há mais idéias no mundo do que imaginam os intelectuais
 
 --Michel Foucalt
 ```
+
+``` quote
+Duvidar de tudo ou crer em tudo. São duas soluções igualmente cômodas, que nos dispensam, ambas, de refletir.
+
+--Henri Poincare
+```
