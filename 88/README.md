@@ -317,3 +317,9 @@ Duvidar de tudo ou crer em tudo. São duas soluções igualmente cômodas, que n
 
 --Henri Poincare
 ```
+
+``` quote
+Antes de começar o trabalho de mudar o mundo, dê três voltas dentro de sua casa.
+
+--Provérbio Chinês
+```
