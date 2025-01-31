@@ -2,7 +2,7 @@
 title: "SQLite and the Three Musketeers"
 description: 'Quotes from The Three Musketeers used to explain how caprice of powerful people often leads to drastic changes in the destiny of the commoner.'
 published: "2025-01-30"
-remote-image: "./images/image-post-182.png"
+image: "./images/image-post-182.png"
 draft: false
 ---
 
