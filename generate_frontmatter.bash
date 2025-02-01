@@ -89,7 +89,7 @@ for id in $dirs; do
         echo "title: \"$title\""
         echo "description: '$description'"
         echo "published: \"$published\""
-        echo "remote-image: \"$remote_image\""
+        echo "image: \"$remote_image\""
         echo "draft: false"
         echo "---"
         echo
