@@ -1,4 +1,4 @@
-* 2025-02-01 15:20:02Z [Managing Open Source Contributions](../187)
+* 2025-02-01 15:22:26Z [Managing Open Source Contributions (20250201182222)](../187)
 * 2025-02-01 15:19:38Z [Useful resources](../188)
 * 2025-02-01 15:06:33Z [Captions automation project (20250201180611) ](../186)
 * 2025-02-01 14:58:35Z [O melhor que o dinheiro não pode comprar [BOOK]](../185)
@@ -12,6 +12,7 @@
 * 2025-01-25 18:34:33Z [OCR - Optical Character Recognition](../66)
 * 2025-01-19 17:26:56Z [O fracasso](../177)
 * 2025-01-19 17:26:39Z [Free-style evolution to integrate with `elm-pages`](../178)
+* 2025-01-16 17:57:40Z [Job Search](../111)
 * 2025-01-16 17:57:40Z [A necessidade por uma internet diferente](../176)
 * 2025-01-15 12:27:37Z [MkDocs and KEG](../175)
 * 2025-01-13 02:51:04Z [](../15)
@@ -160,7 +161,6 @@
 * 2025-01-11 02:21:31Z [Crime and Punishment, Dostoievski (20240406015319) - Parts I-III](../114)
 * 2025-01-11 02:21:31Z [Movies - Devil's Advocate](../113)
 * 2025-01-11 02:21:31Z [Aljazeera Investigations Doc 07, Out [DOC]](../112)
-* 2025-01-11 02:21:31Z [Job Search](../111)
 * 2025-01-11 02:21:31Z [Linkedin Convo](../110)
 * 2025-01-11 02:21:31Z [The Specter of Communism](../11)
 * 2025-01-11 02:21:31Z [Cloud Walk ](../109)
