@@ -1,3 +1,4 @@
+* 2025-02-01 15:19:38Z [Useful resources](../188)
 * 2025-02-01 15:08:34Z [Managing Open Source Contributions](../187)
 * 2025-02-01 15:06:33Z [Captions automation project (20250201180611) ](../186)
 * 2025-02-01 14:58:35Z [O melhor que o dinheiro não pode comprar [BOOK]](../185)
