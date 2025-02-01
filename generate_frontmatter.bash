@@ -56,7 +56,7 @@ for id in $dirs; do
     if [[ -z "$content_without_title" ]]; then
         description='default description'
     else
-        if ! description="$(timeout "$TIMEOUT_DURATION" python3 transformer.py <<<"$content_without_title")"; then
+        if ! description="$(timeout "$TIMEOUT_DURATION" python transformer.py <<<"$content_without_title")"; then
             echo "[ERROR] Summarization failed for $readme. Logging and continuing."
             echo "$readme" >>"$LOG_FILE"
             description='default description'
@@ -74,7 +74,7 @@ for id in $dirs; do
     # Generate image
     output_image="$IMAGES_DIR/image-post-${id}.png"
     echo "Generating image for description: $description"
-    if ! timeout "$TIMEOUT_DURATION" python3 diffusion.py "$description" "$output_image"; then
+    if ! timeout "$TIMEOUT_DURATION" python diffusion.py "$description" "$output_image"; then
         echo "[ERROR] Image generation failed for $readme. Logging and using placeholder."
         echo "$readme" >>"$LOG_FILE"
         remote_image="https://example.com/placeholder.jpg"

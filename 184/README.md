@@ -1,3 +1,11 @@
+---
+title: "Opiniões Petrificadas"
+description: 'Mark Twain: Lealdade a opiniões petrificadas nunca quebraram uma corrente ou libertaram uma alma humana neste mundo - and nunca o'
+published: "2025-02-01"
+image: "./images/image-post-184.png"
+draft: false
+---
+
 # Opiniões Petrificadas
 
 ``` quote

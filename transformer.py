@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 from transformers import pipeline
 
-
 def sanitize_text(text, max_length=1024):
     # Remove invalid characters
     sanitized = "".join([c for c in text if c.isprintable()])
