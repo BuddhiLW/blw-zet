@@ -15,7 +15,7 @@ TODO stage projects:
 - Video processing vid2vid pipeline real-time processing;
 - Continue working in *KEG*;
 - Captions video-automation;
-- Self-management with Org Mode - track myself; quantify myself; use pomodoro
+- Self-management with Org Mode - track myself; quantify myself; use pomodoro;
 
 
 
