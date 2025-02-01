@@ -17,6 +17,8 @@ TODO stage projects:
 - Captions video-automation;
 - Self-management with Org Mode - track myself; quantify myself; use pomodoro;
 
+The **self-management** of these contributions and projects can be accompanied in the following repository.
 
+Repository: [https://github.com/BuddhiLW/self-management](https://github.com/BuddhiLW/self-management)
 
 
