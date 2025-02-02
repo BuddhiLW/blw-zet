@@ -323,3 +323,9 @@ Antes de começar o trabalho de mudar o mundo, dê três voltas dentro de sua ca
 
 --Provérbio Chinês
 ```
+
+``` quote
+        Um homem e uma mulher se casam porque não sabem o que fazer
+        consigo mesmos.
+                -- Anton Tchecov
+```
