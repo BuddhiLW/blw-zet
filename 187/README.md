@@ -1,3 +1,11 @@
+---
+title: "Managing Open Source Contributions (20250201182222)"
+description: "Kanban style management of my FOSS contributions"
+published: "2025-02-01"
+image: "./images/image-post-187.png"
+draft: false
+---
+
 # Managing Open Source Contributions (20250201182222)
 
 Effectiveness in life is the name of the game.
