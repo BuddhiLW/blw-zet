@@ -329,3 +329,16 @@ Antes de começar o trabalho de mudar o mundo, dê três voltas dentro de sua ca
         consigo mesmos.
                 -- Anton Tchecov
 ```
+
+``` quote
+Só se guarda segredo daquilo que não se sabe
+
+--Tancredo Neves
+```
+
+``` quote
+
+Os milagres acontecem às vezes, mas é preciso trabalhar tremedamente para que aconteçam.
+
+--Peter Drucker
+```
