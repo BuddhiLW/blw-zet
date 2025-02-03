@@ -1,11 +1,15 @@
 # Cryptography -- Steganography
 
-Steganography uses cryptography following Kerchkhoffs principle to the maximum. 
+`(...) Key-dependent steganographic schemes` uses cryptography, following Kerchkhoffs principle, to the maximum. 
 
 ``` quote
 Só se guarda segredo daquilo que não se sabe
 
 --Tancredo Neves
+```
+
+``` quote
+The advantage of steganography over cryptography alone is that the intended secret message does not attract attention to itself as an object of scrutiny. Plainly visible encrypted messages, no matter how unbreakable they are, arouse interest and may in themselves be incriminating.
 ```
 
 ## A hyperbole
@@ -35,3 +39,14 @@ Steganography is the practice of representing information within another message
 -- Wikipedia, Steganography 20250203154640
 ```
 
+### Steganography in the age of computers
+
+- Steghide;
+- OpenStego;
+- SilentEye.
+
+All great tools to put information in seemly "inofensive" data, like a profile photo you use in your favorite social media; or that is in your table, facing in your office.
+
+Everyone can be illuminati-like these days. Actually that's kinda of the cartoonishy-logo of `SilentEye` project. So funny.
+
+Give it a try!
