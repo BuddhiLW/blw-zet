@@ -1,3 +1,11 @@
+---
+title: "Cryptography -- Steganography"
+description: 'The advantage of steganography over cryptography alone is that the intended secret message does not attract attention to itself as an object of scrutiny. Plainly visible encrypted messages, no matter how unbreakable they are, arouse interest and may'
+published: "2025-02-03"
+image: "./images/image-post-190.png"
+draft: false
+---
+
 # Cryptography -- Steganography
 
 `(...) Key-dependent steganographic schemes` uses cryptography, following Kerchkhoffs principle, to the maximum. 

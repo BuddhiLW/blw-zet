@@ -342,3 +342,9 @@ Os milagres acontecem às vezes, mas é preciso trabalhar tremedamente para que 
 
 --Peter Drucker
 ```
+
+``` quote
+Não há nada mais triste do que um jovem pessimista. Exceto um velho otimista
+
+--Mark Twain
+```
