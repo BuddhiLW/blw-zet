@@ -348,3 +348,9 @@ Não há nada mais triste do que um jovem pessimista. Exceto um velho otimista
 
 --Mark Twain
 ```
+
+``` quote
+Historia: um conjunto de mentiras sobre as quais se chegou a
+        um acordo.
+                -- Napoleao Bonaparte
+```
