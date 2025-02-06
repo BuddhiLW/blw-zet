@@ -354,3 +354,9 @@ Historia: um conjunto de mentiras sobre as quais se chegou a
         um acordo.
                 -- Napoleao Bonaparte
 ```
+
+``` quote
+A crise é tão grave que nem há conspiração
+
+--Antonio Carlos Magalhães
+```
