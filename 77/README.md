@@ -13,3 +13,9 @@ draft: false
 ```quote
 Seaspiracy is a 2021 documentary film about the environmental impact of fishing directed by and starring Ali Tabrizi, a British filmmaker. The film examines human impacts on marine life and advocates for ending fish consumption
 ```
+
+## TODO The Tulsa Lynching of 1921: A Hidden Story (2000)
+
+## TODO "Before They Die!" (2008)
+
+## TODO "Hate Crimes in the Heartland" (2014)

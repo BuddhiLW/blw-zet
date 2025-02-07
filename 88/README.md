@@ -360,3 +360,12 @@ A crise é tão grave que nem há conspiração
 
 --Antonio Carlos Magalhães
 ```
+
+``` quote
+To go towards freedom, it becomes necessary to develop our individuality.
+                -- Albert Libertad
+```
+
+``` quote
+Tudo na vida é passageiro, exceto o cobrador e o motorista.
+```
