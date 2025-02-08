@@ -369,3 +369,7 @@ To go towards freedom, it becomes necessary to develop our individuality.
 ``` quote
 Tudo na vida é passageiro, exceto o cobrador e o motorista.
 ```
+
+``` quote
+
+```
