@@ -371,5 +371,5 @@ Tudo na vida é passageiro, exceto o cobrador e o motorista.
 ```
 
 ``` quote
-
+Emacs, não só um estilo de vida mas um completo desperdício de espaço em disco (Alan Cox)
 ```
