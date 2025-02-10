@@ -1,3 +1,4 @@
+* 2025-02-09 21:47:36Z [Why the P0rn industry is Jewish?](../192)
 * 2025-02-07 23:23:07Z [Unusually good quotes](../88)
 * 2025-02-07 09:47:34Z [Python GLIBC annoyances](../191)
 * 2025-02-03 12:58:15Z [Cryptography -- Steganography](../190)
@@ -127,7 +128,6 @@
 * 2025-01-16 20:57:40Z [Freqtrade Hyperopt hacks](../155)
 * 2025-01-16 20:57:40Z [Telegram API](../154)
 * 2025-01-16 20:57:40Z [Project Idea](../153)
-* 2025-01-16 20:57:40Z [Rice up](../139)
 * 2025-01-16 20:57:40Z [Interesting commands Unix](../140)
 * 2025-01-16 20:57:40Z [A `M-x` (`execute-extended-command`) for `XMonad`](../141)
 * 2025-01-16 20:57:40Z [The 'Desktop' Debate](../142)
@@ -177,4 +177,5 @@
 * 2025-01-16 20:57:40Z [Trading Stategy #1 - Hyperoptable strategy](../100)
 * 2025-01-16 20:57:40Z [`tmux` really is awesome](../10)
 * 2025-01-16 20:57:40Z [---](../1)
+* 2025-01-16 17:57:40Z [Rice up](../139)
 * 2025-01-16 17:57:40Z [(Orasis) Azure Useful commands](../144)
