@@ -1,3 +1,4 @@
+* 2025-02-11 15:02:29Z [Why Programming Languages choices are important](../193)
 * 2025-02-09 21:47:36Z [Why the P0rn industry is Jewish?](../192)
 * 2025-02-07 23:23:07Z [Unusually good quotes](../88)
 * 2025-02-07 09:47:34Z [Python GLIBC annoyances](../191)
