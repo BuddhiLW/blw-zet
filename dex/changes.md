@@ -1,3 +1,4 @@
+* 2025-02-12 18:48:58Z [(Orasis) Azure Useful commands](../144)
 * 2025-02-11 15:02:29Z [Why Programming Languages choices are important](../193)
 * 2025-02-09 21:47:36Z [Why the P0rn industry is Jewish?](../192)
 * 2025-02-07 23:23:07Z [Unusually good quotes](../88)
@@ -179,4 +180,3 @@
 * 2025-01-16 20:57:40Z [`tmux` really is awesome](../10)
 * 2025-01-16 20:57:40Z [---](../1)
 * 2025-01-16 17:57:40Z [Rice up](../139)
-* 2025-01-16 17:57:40Z [(Orasis) Azure Useful commands](../144)

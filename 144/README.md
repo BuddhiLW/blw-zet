@@ -41,3 +41,7 @@ kubectl port-forward svc/cadence-web -n cadence 8yyy:80
 kubectl port-forward service/pricing-backend-api-mkt-business-rules 7100:8080 -n pricing-apps
 kubectl port-forward service/pricing-backend-api-mkt-structure-stores  7200:8080 -n pricing-apps
 ```
+Novo fluxo:
+Crawler -> tabela de dados -> EAN correspondentes -> tabela de preço
+
+
