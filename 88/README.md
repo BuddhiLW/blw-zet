@@ -373,3 +373,9 @@ Tudo na vida é passageiro, exceto o cobrador e o motorista.
 ``` quote
 Emacs, não só um estilo de vida mas um completo desperdício de espaço em disco (Alan Cox)
 ```
+
+``` quote
+A perfeita coragem é fazer sem testemunhas aquilo que outro só seria capaz de fazer com o mundo a observar
+
+--La Rochefoucauld
+```
