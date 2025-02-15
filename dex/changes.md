@@ -1,3 +1,4 @@
+* 2025-02-15 14:25:15Z [Automatic Differentiation (AD) ](../196)
 * 2025-02-15 11:45:50Z [Unusually good quotes](../88)
 * 2025-02-13 21:05:58Z [About Psychology](../195)
 * 2025-02-12 18:48:58Z [(Orasis) Azure Useful commands](../144)
