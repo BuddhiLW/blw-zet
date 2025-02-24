@@ -1,3 +1,11 @@
+---
+title: "Collaboration Efforts (20250203012420)"
+description: 'Not everyday can be a productive day. I try to cherish my personal life; my loved ones; and my health. These come before anything else. Just a day to remember, how good these times are, even though the'
+published: "2025-02-03"
+image: "./images/image-post-189.png"
+draft: false
+---
+
 # Collaboration Efforts (20250203012420)
 
 Not everyday can be a "productive" day. 

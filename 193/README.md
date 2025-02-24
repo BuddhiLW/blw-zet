@@ -1,3 +1,11 @@
+---
+title: "Why Programming Languages choices are important"
+description: ' JavaScript has a killer-feature for beginners, i.e., some differential advantage, over many languages. Almost anything you write is a valid sentence.'
+published: "2025-02-11"
+image: "./images/image-post-193.png"
+draft: false
+---
+
 # Why Programming Languages choices are important
 
 Why JavaScript sucks, yet it is so widely popular? 

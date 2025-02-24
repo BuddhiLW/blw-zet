@@ -1,3 +1,11 @@
+---
+title: "Automatic Differentiation (AD) "
+description: 'Conal Elliott- How to do `Symbolical Differentiation`?- Differentiation you would do in a paper, symbolically.'
+published: "2025-02-15"
+image: "./images/image-post-196.png"
+draft: false
+---
+
 # Automatic Differentiation (AD) 
 
 20250215172457

@@ -1,3 +1,11 @@
+---
+title: "Python GLIBC annoyances"
+description: '"importError: <path>/conda/envs/encryption/lib/python3.10.6: version GLIBCXX_3.4.32" not found. bashconda install -c cond'
+published: "2025-02-07"
+image: "./images/image-post-191.png"
+draft: false
+---
+
 # Python GLIBC annoyances
 
 Have you been faced with something like this?
