@@ -379,3 +379,9 @@ A perfeita coragem é fazer sem testemunhas aquilo que outro só seria capaz de 
 
 --La Rochefoucauld
 ```
+
+``` quote
+As realizações que a sociedade premia são conquistadas ao custo da diminuição da personalidade
+
+--Carl Jung
+```
