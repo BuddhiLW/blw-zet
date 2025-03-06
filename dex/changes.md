@@ -1,3 +1,4 @@
+* 2025-03-06 11:29:16Z [Synchronicity](../197)
 * 2025-03-06 11:05:46Z [Unusually good quotes](../88)
 * 2025-02-24 12:14:08Z [Why Programming Languages choices are important](../193)
 * 2025-02-15 14:25:15Z [Automatic Differentiation (AD) ](../196)
