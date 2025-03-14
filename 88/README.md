@@ -385,3 +385,6 @@ As realizações que a sociedade premia são conquistadas ao custo da diminuiç�
 
 --Carl Jung
 ```
+
+``` quote
+```
