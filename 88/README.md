@@ -387,4 +387,7 @@ As realizações que a sociedade premia são conquistadas ao custo da diminuiç�
 ```
 
 ``` quote
+        Um passeio casual por um hospicio mostra que a fé não prova
+        nada.
+                -- Friedrich Nietzsche
 ```
