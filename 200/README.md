@@ -10,7 +10,7 @@
 
 #### AI
 
-`n8n`
+For the workflow: `n8n`
 
 #### DB 
 - Supabase
