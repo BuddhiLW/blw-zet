@@ -1,5 +1,6 @@
-* 2025-03-17 15:25:38Z [Coursera - TDD/BDD, IBM](../198)
-* 2025-03-14 17:29:29Z [Unusually good quotes](../88)
+* 2025-03-19 16:29:53Z [Full Cycle notes](../199)
+* 2025-03-19 15:00:41Z [Unusually good quotes](../88)
+* 2025-03-17 16:17:37Z [Coursera - TDD/BDD, IBM](../198)
 * 2025-03-14 17:28:51Z [Useful resources](../188)
 * 2025-03-10 12:25:24Z [(Orasis) Azure Useful commands](../144)
 * 2025-03-06 11:29:16Z [Synchronicity](../197)

@@ -1,3 +1,11 @@
+---
+title: "Coursera - TDD/BDD, IBM"
+description: 'default description'
+published: "2025-03-17"
+image: "https://example.com/placeholder.jpg"
+draft: false
+---
+
 # Coursera - TDD/BDD, IBM
 
 20250317171524

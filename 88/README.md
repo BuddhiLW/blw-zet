@@ -391,3 +391,20 @@ As realizações que a sociedade premia são conquistadas ao custo da diminuiç�
         nada.
                 -- Friedrich Nietzsche
 ```
+
+``` quote
+"Qualquer um que pensa que um programinha de 9000 linhas que é
+distribuído de graça e pode ser clonado por qualquer um
+vai afetar qualquer coisa que façamos  na Microsoft tem sua
+cabeça aparafusada errado".
+
+-- Bill Gates to George Gilder , em resposta a Java
+(logo antes de licenciar Java e desistir do Blackbird)
+```
+
+``` quote
+Cuba has probably been the target of more international terrorism than the rest of the world combi
+ned and, therefore, in the American ideological system it is regarded as the source of internation
+al terrorism, exactly as Orwell would have predicted.                                             
+                -- Noam Chomsky
+```
