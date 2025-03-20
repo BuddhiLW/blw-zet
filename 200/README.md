@@ -52,5 +52,9 @@ To add new migrations (remotely!)
 npx prisma migrate dev
 ```
 
+#### Q: Migrations Remotely
+
 Q: how to do it with other migrations technology, such that it swiftly goes into a cloud. Just like you can do with this prisma command related to supabase?
+
+#### Q: how to automatically generate data for relationships?
 
