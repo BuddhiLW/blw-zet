@@ -44,3 +44,13 @@ Error: Cannot find module '/home/khawarizmi/PP/portifolio/backend/dist/main'
 }
 ```
 
+### Prisma and Migrations
+
+To add new migrations (remotely!)
+
+``` bash
+npx prisma migrate dev
+```
+
+Q: how to do it with other migrations technology, such that it swiftly goes into a cloud. Just like you can do with this prisma command related to supabase?
+
