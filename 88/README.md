@@ -408,3 +408,9 @@ ned and, therefore, in the American ideological system it is regarded as the sou
 al terrorism, exactly as Orwell would have predicted.                                             
                 -- Noam Chomsky
 ```
+
+``` quote
+One who pays some attention to history will not be surprised if those who cry most loudly that we must smash and destroy are later found among the administrators of some new system of repression.
+                -- Noam Chomsky
+```
+
