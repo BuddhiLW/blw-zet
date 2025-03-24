@@ -121,4 +121,21 @@ import { DbModule } from 'src/db/db.module';
 - Use `npx prisma migrate dev` for local development.
 - Use `prisma migrate deploy` for production environments.
 
+### Fly.io
 
+- Create `Dockerfile` to build and run the app.
+
+```
+fly launch --no-deploy
+```
+
+### `tsconfig.json`
+
+Where you can create alias or `@` references to `namespaces`.
+
+```
+"paths": {
+   "@/*": ["./src/*"],
+   "@core": ["../core/src"]
+}
+```
