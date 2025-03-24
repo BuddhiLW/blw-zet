@@ -183,7 +183,7 @@ Como os sonhos, estatíticas são uma forma de satisfação
 ```
 
 ``` quote
-    Order results spontaneously when things are let alone. 
+    Order results spontaneously when things are let alone.
     -- Zhuangzi
 ```
 
@@ -405,7 +405,7 @@ cabeça aparafusada errado".
 ``` quote
 Cuba has probably been the target of more international terrorism than the rest of the world combi
 ned and, therefore, in the American ideological system it is regarded as the source of internation
-al terrorism, exactly as Orwell would have predicted.                                             
+al terrorism, exactly as Orwell would have predicted.
                 -- Noam Chomsky
 ```
 
@@ -414,3 +414,7 @@ One who pays some attention to history will not be surprised if those who cry mo
                 -- Noam Chomsky
 ```
 
+``` quote
+We were founded on a very basic double standard: This country was founded by slave owners who wanted to be free.
+                -- George Carlin
+```
