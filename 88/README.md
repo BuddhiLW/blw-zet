@@ -418,3 +418,14 @@ One who pays some attention to history will not be surprised if those who cry mo
 We were founded on a very basic double standard: This country was founded by slave owners who wanted to be free.
                 -- George Carlin
 ```
+
+``` quote
+O problema das grandes idéias é ter que levá-las a cabo
+
+--Oscar Wilde
+```
+
+``` quote
+All authority is quite degrading. It degrades those who exercize it, and degrades those over whom it is exercized.
+                -- Oscar Wilde
+```
