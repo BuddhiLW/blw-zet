@@ -139,3 +139,7 @@ Where you can create alias or `@` references to `namespaces`.
    "@core": ["../core/src"]
 }
 ```
+
+### TODO/DOING: use `Storybook` for UI development and documentation
+
+Planing in using Claude to generate some documentation for me!
