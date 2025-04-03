@@ -429,3 +429,8 @@ O problema das grandes idéias é ter que levá-las a cabo
 All authority is quite degrading. It degrades those who exercize it, and degrades those over whom it is exercized.
                 -- Oscar Wilde
 ```
+
+``` quote
+It's called the American Dream, 'cause you have to be asleep to believe it.
+                -- George Carlin
+```
