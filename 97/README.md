@@ -1,5 +1,5 @@
 ---
-title: "TODO title"
+title: "xkb setting for the session"
 description: "TODO description"
 published: "2023-11-24"
 image: "images/image-post-98.png"
