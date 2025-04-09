@@ -440,3 +440,9 @@ Qualquer pessoa que negocia contra o relógio leva desvantagem
 
 --Giampaolo Baglioni
 ```
+
+``` quote
+Mais grave que a ruína, que a derrota na guerra, é a decadência moral, a falta de ética
+
+--Jorge Luis Borges
+```
