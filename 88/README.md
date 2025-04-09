@@ -434,3 +434,9 @@ All authority is quite degrading. It degrades those who exercize it, and degrade
 It's called the American Dream, 'cause you have to be asleep to believe it.
                 -- George Carlin
 ```
+
+``` quote
+Qualquer pessoa que negocia contra o relógio leva desvantagem
+
+--Giampaolo Baglioni
+```
