@@ -18,3 +18,5 @@ Do centro, para a periferia: regrades de negócio -> interfaces, APIs
 - Código
 
 "De longe, é mais difícil um código ser bem orquestrado, e ter um comportamento-final coerente. Do que uma classe e métodos bem organizados."
+
+"Minha ideia precisa estar sujeita a um anúncio de instagram"
