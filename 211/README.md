@@ -1,5 +1,7 @@
 # 📋 Daily / Weekly Operational Plan
 
+@cognosis @unlearning
+
 ## 🌿 Practices
 
 ### 🧠 Cognosis (Daily)
