@@ -446,3 +446,10 @@ Mais grave que a ruína, que a derrota na guerra, é a decadência moral, a falt
 
 --Jorge Luis Borges
 ```
+
+``` quote
+        Em materia de amor, importante que as primeiras impressoes
+        venham das belezas morais; as produzidas pela beleza fisica
+        dissipam-se muito depressa.
+                -- Madame du Defante
+```
