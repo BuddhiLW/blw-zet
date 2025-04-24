@@ -446,3 +446,9 @@ Mais grave que a ruína, que a derrota na guerra, é a decadência moral, a falt
 
 --Jorge Luis Borges
 ```
+
+``` quote
+        Nada e bastante para quem considera pouco o que e
+        suficiente.
+                --  Confucio
+```                 
