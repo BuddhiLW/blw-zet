@@ -1,3 +1,11 @@
+---
+title: "Synchronicity"
+description: 'I decided (20250306142131) to document my experiences with synchronicities. Back on my old town (~2018) there is a personal story about synchronicity'
+published: "2025-03-06"
+image: "./images/image-post-197.png"
+draft: false
+---
+
 # Synchronicity
 
 I decided (20250306142131) to document my experiences with synchronicities.
