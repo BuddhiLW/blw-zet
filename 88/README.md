@@ -459,3 +459,9 @@ Mais grave que a ruína, que a derrota na guerra, é a decadência moral, a falt
         dissipam-se muito depressa.
                 -- Madame du Defante
 ``` 
+
+``` quote
+Quem mata o tempo não é um assassino: é um suicida
+
+--Millôr Fernandes
+```
