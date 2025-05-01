@@ -1,4 +1,4 @@
-* 2025-05-01 15:25:17Z [Book quotes](../214)
+* 2025-05-01 16:11:33Z [Book quotes](../214)
 * 2025-05-01 15:17:21Z [Ethics to Nicomaco](../213)
 * 2025-04-30 08:49:36Z [Unusually good quotes](../88)
 * 2025-04-19 23:05:06Z [Architectures and Design Patterns](../212)
