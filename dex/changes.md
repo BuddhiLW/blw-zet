@@ -1,6 +1,6 @@
+* 2025-05-04 14:41:22Z [Clean Architecture ](../215)
 * 2025-05-01 23:54:29Z [Book quotes](../214)
 * 2025-05-01 18:51:23Z [The True Believer ](../216)
-* 2025-05-01 18:49:54Z [Clean Architecture ](../215)
 * 2025-05-01 15:17:21Z [Ethics to Nicomaco](../213)
 * 2025-04-30 08:49:36Z [Unusually good quotes](../88)
 * 2025-04-19 23:05:06Z [Architectures and Design Patterns](../212)
