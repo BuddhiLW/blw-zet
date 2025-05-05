@@ -1,3 +1,4 @@
+* 2025-05-05 11:49:48Z [TODO empresas sem website](../217)
 * 2025-05-04 14:41:22Z [Clean Architecture ](../215)
 * 2025-05-01 23:54:29Z [Book quotes](../214)
 * 2025-05-01 18:51:23Z [The True Believer ](../216)
