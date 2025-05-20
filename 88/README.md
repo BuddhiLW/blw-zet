@@ -465,3 +465,9 @@ Quem mata o tempo não é um assassino: é um suicida
 
 --Millôr Fernandes
 ```
+
+``` quote
+O aumento da sabedoria pode ser medido com exatidão pela diminuição do mau humor
+
+--Friedrich Wilhelm Nietzche
+```
