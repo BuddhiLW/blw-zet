@@ -471,3 +471,9 @@ O aumento da sabedoria pode ser medido com exatidão pela diminuição do mau hu
 
 --Friedrich Wilhelm Nietzche
 ```
+
+``` quote
+O fanatismo consiste em redobrar os esforcos quando se
+esqueceu os objetivos.
+-- George Santayana
+```
