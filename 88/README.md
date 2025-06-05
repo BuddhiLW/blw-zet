@@ -477,3 +477,9 @@ O fanatismo consiste em redobrar os esforcos quando se
 esqueceu os objetivos.
 -- George Santayana
 ```
+
+``` quote 
+Aqueles que amam ser temidos temem ser amados, e eles próprios são mais medrosos do que todos, porque enquanto os outros homens temem apenas a eles, eles temem a tudo
+
+--São Francisco de Sales
+```
