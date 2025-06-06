@@ -483,3 +483,9 @@ Aqueles que amam ser temidos temem ser amados, e eles próprios são mais medros
 
 --São Francisco de Sales
 ```
+
+``` quote 
+Se a influência de nossas convicções sobre nossa ação a faz efetiva, isto é, permite-nos realizar os fins visados, então a convicção é verdadeira
+
+--Kazimierz Ajdukiewicz
+```
