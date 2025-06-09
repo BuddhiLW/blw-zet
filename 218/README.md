@@ -1,5 +1,5 @@
 # Pantonímia
-m
+
 Pan = Todos, -tonímia = do Grego Onoma (nome)
 
 - Dar todos os nomes
