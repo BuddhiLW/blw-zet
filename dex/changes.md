@@ -1,3 +1,4 @@
+* 2025-06-09 09:06:10Z [Pantonímia](../218)
 * 2025-06-06 15:10:11Z [Unusually good quotes](../88)
 * 2025-05-05 11:49:48Z [TODO empresas sem website](../217)
 * 2025-05-04 14:41:22Z [Clean Architecture ](../215)
