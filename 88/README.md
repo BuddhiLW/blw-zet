@@ -489,3 +489,9 @@ Se a influência de nossas convicções sobre nossa ação a faz efetiva, isto �
 
 --Kazimierz Ajdukiewicz
 ```
+
+``` quote 
+Quanto mais ocupados nós somos, mais profundamente nos sentimos vivos, e mais consciência temos da vida
+
+--Emmanuel Kant
+```

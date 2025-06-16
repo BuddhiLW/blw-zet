@@ -1,7 +1,7 @@
+* 2025-06-16 10:58:36Z [Unusually good quotes](../88)
 * 2025-06-16 09:56:11Z [Clean Architecture](../215)
 * 2025-06-09 14:04:49Z [Pantonímia](../218)
 * 2025-06-09 14:04:42Z [](../219)
-* 2025-06-06 18:10:11Z [Unusually good quotes](../88)
 * 2025-05-05 14:49:48Z [TODO empresas sem website](../217)
 * 2025-05-02 02:54:29Z [Book quotes](../214)
 * 2025-05-01 21:51:23Z [The True Believer ](../216)
