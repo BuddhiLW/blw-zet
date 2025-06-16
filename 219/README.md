@@ -75,3 +75,8 @@ Portuguese, Spanish, Italian, German, French, and others also have Greek and Lat
 
 The English neologisms are so poor semantically, that coming from a different context, that `Entity` is used in both DDD and Clean Architecture. With totally different meanings. This is very confusing for someone who is not familiar with both. And, very often you have to explain "Entity as in DDD", or "Entity as in Clean Architecture" to someone. And this, in itself, is very cumbersome.
 
+
+## Other terms
+
+DTO: Data Transfer Object	-> Morphis (Morph) or Diathema (dia- through, transfer, passage) and Thema (topic, theme, subject).
+Morph (DTO): the immutable form we pass across service or process boundaries - “shape of data” not domain logic.

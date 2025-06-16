@@ -1,4 +1,4 @@
-# Clean Architecture 
+# Clean Architecture
 
 # Use Cases
 
@@ -13,3 +13,53 @@
 # Domain Driven Design
 
 
+
+# Refactoring examples
+
+``` go
+func Calc(a int, b int) int {
+    r := a * b
+    if r > 100 {
+        r = r - 25
+    } else if r > 50 {
+        r = r - 10
+    } else {
+        r = r + 15
+    }
+    return r
+}
+``` 
+
+``` go 
+struct CalcRequest {
+	baseA int
+	baseB int
+}
+
+func liquidValueCases(product int) int {
+	r := product
+    if isAboveThreshold(product) {
+        r = r - 25
+    } else if isAboveHalfThreshold(product) {
+        r = r - 10
+    } else {
+        r = r + 15
+    }
+	return r
+}
+
+func isAboveThreshold(value int) bool {
+	return value > 100
+}
+
+func isAboveHalfThreshold(value int) bool {
+	return value > 50
+}
+
+
+func (c CalcRequest) LiquidValue() int {
+    product := c.baseA * c.baseB
+    liquidValue := liquidValueCases(product)
+    return liquidValue
+}
+``` 
