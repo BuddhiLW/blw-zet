@@ -495,3 +495,9 @@ Quanto mais ocupados nós somos, mais profundamente nos sentimos vivos, e mais c
 
 --Emmanuel Kant
 ```
+
+```quote 
+        Do jeito que as coisas estão, de duas uma: ou estou perdido
+        ou não me acham.
+                -- Chico de Olinda
+```
