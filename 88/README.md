@@ -496,8 +496,17 @@ Quanto mais ocupados nós somos, mais profundamente nos sentimos vivos, e mais c
 --Emmanuel Kant
 ```
 
-```quote 
+``` quote 
         Do jeito que as coisas estão, de duas uma: ou estou perdido
         ou não me acham.
                 -- Chico de Olinda
+```
+
+``` quote
+Você já imaginou um mundo sem situações hipotéticas?
+```
+
+```quote
+        O cão não ladra por valentia e sim por medo.
+                -- Proverbio Chinês
 ```

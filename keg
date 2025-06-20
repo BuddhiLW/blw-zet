@@ -1,109 +1,10 @@
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 11:54:39Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 11:54:39Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-=======
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2024-04-06 01:23:44Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 11:54:39Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 11:54:39Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-08 15:10:25Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
-updated: 2025-06-17 12:36:27Z
-updated: 2025-01-13 16:32:35Z
+updated: 2025-06-20 08:27:37Z
 kegv:    2023-01
 
-title:   BuddhiLW's KEG
-url:     git@github.com:BuddhiLW/blw-zet.git
-creator: git@github.com:BuddhiLW/BuddhiLW.git
-state:   (bearly) living
+title:   A Sample Keg
+url:     git@github.com:YOU/keg.git
+creator: git@github.com:YOU/YOU.git
+state:   living
 
 summary:
   👋 Hey there! The KEG community welcomes you. This is an initial
@@ -125,7 +26,7 @@ summary:
     au bufnewfile,bufRead keg set ft=yaml
 
 indexes:
-  - file: dex/latest.md
+  - file: dex/changes.md
     summary: latest changes
   - file: dex/nodes.tsv
     summary: all nodes by id
