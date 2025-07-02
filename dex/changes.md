@@ -1,5 +1,5 @@
+* 2025-07-02 09:40:15Z [Unusually good quotes](../88)
 * 2025-06-20 08:27:37Z [On the nature of taking notes](../220)
-* 2025-06-20 08:23:16Z [Unusually good quotes](../88)
 * 2025-06-16 12:56:11Z [Clean Architecture](../215)
 * 2025-06-09 15:02:33Z [](../219)
 * 2025-06-09 14:04:49Z [Pantonímia](../218)

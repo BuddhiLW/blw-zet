@@ -510,3 +510,9 @@ Você já imaginou um mundo sem situações hipotéticas?
         O cão não ladra por valentia e sim por medo.
                 -- Proverbio Chinês
 ```
+
+```quote
+Não há médico para o medo.
+
+Provérbio Escocês
+```
