@@ -516,3 +516,9 @@ Não há médico para o medo.
 
 Provérbio Escocês
 ```
+
+```quote
+Disneyworld: A maior ratoeira humana já construida por um
+rato.
+        -- George S. Kaufman
+```
