@@ -1,3 +1,4 @@
+* 2025-07-27 21:33:28Z [Learning OpSec](../222)
 * 2025-07-14 12:08:46Z [Unusually good quotes](../88)
 * 2025-06-20 08:27:37Z [On the nature of taking notes](../220)
 * 2025-06-16 12:56:11Z [Clean Architecture](../215)
