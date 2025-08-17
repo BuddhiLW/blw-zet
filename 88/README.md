@@ -518,7 +518,12 @@ Provérbio Escocês
 ```
 
 ```quote
-Disneyworld: A maior ratoeira humana já construida por um
-rato.
+Disneyworld: A maior ratoeira humana já construida por um rato.
         -- George S. Kaufman
+```
+
+```quote 
+Seja feliz enquanto está vivo, pois você vai passar muito tempo morto
+
+--Provérbio Escocês
 ```

@@ -1,7 +1,7 @@
+* 2025-08-17 20:55:15Z [Unusually good quotes](../88)
 * 2025-08-17 13:41:29Z [Interesting Websites and People](../58)
 * 2025-08-17 13:40:26Z [Cryptography -- Steganography](../190)
 * 2025-07-27 21:33:28Z [Learning OpSec](../222)
-* 2025-07-14 12:08:46Z [Unusually good quotes](../88)
 * 2025-06-20 08:27:37Z [On the nature of taking notes](../220)
 * 2025-06-16 12:56:11Z [Clean Architecture](../215)
 * 2025-06-09 15:02:33Z [](../219)
