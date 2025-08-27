@@ -1,4 +1,4 @@
-* 2025-08-27 14:45:49Z [Kubernetes and GitOps](../224)
+* 2025-08-27 15:22:23Z [Kubernetes and GitOps](../224)
 * 2025-08-17 23:55:15Z [Unusually good quotes](../88)
 * 2025-08-17 18:10:37Z [Cryptography](../223)
 * 2025-08-17 16:41:29Z [Interesting Websites and People](../58)
