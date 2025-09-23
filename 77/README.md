@@ -19,3 +19,10 @@ Seaspiracy is a 2021 documentary film about the environmental impact of fishing 
 ## TODO "Before They Die!" (2008)
 
 ## TODO "Hate Crimes in the Heartland" (2014)
+
+
+# The man who knew too much
+
+Colin Wallace
+
+# The Trust Fall: Julian Assange
