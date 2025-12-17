@@ -522,8 +522,27 @@ Disneyworld: A maior ratoeira humana já construida por um rato.
         -- George S. Kaufman
 ```
 
-```quote 
+```quote
 Seja feliz enquanto está vivo, pois você vai passar muito tempo morto
 
 --Provérbio Escocês
+```
+
+``` quote
+No Brasil o sucesso é ofensa pessoal
+
+--Tom Jobim
+```
+
+``` quote
+Bom de briga é aquele que cai fora
+
+--Adoniram Barbosa
+```
+
+``` quote
+
+Se você for forte, encare a recessão como uma oportunidade de dar o golpe mortal em alguns jogadores marginais
+
+--Edward Lawler III
 ```

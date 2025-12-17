@@ -31,3 +31,4 @@ Aliás, a lista não para por aí. Essas gigantes, Adobe, Apple, Facebook, Amazo
 
 
 
+https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html
