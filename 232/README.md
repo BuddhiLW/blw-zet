@@ -329,3 +329,10 @@ add note in ADR about kanban etc, after a task is completed, the agent-llm shoud
   After multiple features complete a goal/milestone, they should merge into the staging branch. Then, after running multiple tests we will
   merge things at main; this last step will be explicit, human on the loop here.
 ```
+
+### Stiring up (giving guidance to) a proactive agent
+
+```
+ Make it into a repository in `assistencia-funeraria-francana`, similar to how we did with `proto-auth`, in terms of publishing as a
+  package. Use `gh` if needed. Use kanban mcps to create long-term plan to implement these features
+```
