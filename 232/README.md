@@ -322,6 +322,18 @@ Let's start out with local development tasks (application development first). Wo
  We will create integrations tests, when we move on to containarization and wirering it up to `dc`
 ```
 
+```
+summarize in a docs and add it to `sisf-sync` space. Update kanban. You are the architectural designer. Another `sisf-sync` specialist will implement these details.
+```
+
+### Asking questions
+
+```
+How will `sisf-sync` work? What's the principles and mechanisms? We may need to implement an incremental sync, instead of trying to sync everything all at once. Space it out,
+  to not overload firebird. Also, retry logic is very important. And collecting data of when it fails and reschedulling trying it again latter after consecutive retrys is
+  important here. We had to implement it for obituary service that feeds our website obituary page (retry logic).
+```
+
 ### Meta organization steps
 
 ```
@@ -363,3 +375,9 @@ Recommended Starting Points (Based on SESSION_CONTEXT.json)
 3. Implement observability in obito-backend - Production service with legacy Firebird
 4. Roll out to remaining SISF services - reference, contributor, obituary, payment
 ```
+
+```
+Note: vibe_kanban mcp is up and running; use it to track long-term session-agnostic progress and planning.
+``` 
+
+
