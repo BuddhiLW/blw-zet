@@ -336,3 +336,30 @@ add note in ADR about kanban etc, after a task is completed, the agent-llm shoud
  Make it into a repository in `assistencia-funeraria-francana`, similar to how we did with `proto-auth`, in terms of publishing as a
   package. Use `gh` if needed. Use kanban mcps to create long-term plan to implement these features
 ```
+
+```
+Let's use the monitoring shared-package for go backend services. Help me making tasks for each project; we have to probably change          Dockerfile, so `go mod tidy` pull with credentials our private project. See how other projects using `proto-auth` as a package accomplished that - it's the same process.
+
+
+Recent Progress (from CLAUDE.md - 2025-12-17)
+
+go-observability Package Created:
+- Published reusable observability library at https://github.com/Assistencia-Familiar-Francana/go-observability v0.1.0
+- Implements ADR-005: Prometheus metrics, zerolog logging, health endpoints, trace context
+
+Service Compliance Status (ADR-005):
+| Service         | Status                                                   |
+|-----------------|----------------------------------------------------------|
+| auth-service    | 90% - Has metrics/logging, needs /readyz + trace context |
+| sisf-sync       | Implemented (9ec8d6b)                                    |
+| cartas-backend  | 20% - Needs full implementation                          |
+| obito-backend   | 30% - Has health, needs metrics/logging                  |
+| sisf-* services | 0-10% - Ready for go-observability rollout               |
+
+Recommended Starting Points (Based on SESSION_CONTEXT.json)
+
+1. Implement observability in cartas-backend - Highest priority production service
+2. Complete auth-service observability - Add /readyz endpoint with DB checker, trace context
+3. Implement observability in obito-backend - Production service with legacy Firebird
+4. Roll out to remaining SISF services - reference, contributor, obituary, payment
+```
