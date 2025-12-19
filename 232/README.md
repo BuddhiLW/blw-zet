@@ -378,6 +378,7 @@ Recommended Starting Points (Based on SESSION_CONTEXT.json)
 
 ```
 Note: vibe_kanban mcp is up and running; use it to track long-term session-agnostic progress and planning.
+
 ``` 
 
 
@@ -389,4 +390,35 @@ Planning, defining goals, measure targets:
 
 in relation to the `<service>` service, how will we be able to know it's working as expected? What commands could we use to know it's
   working, partially failing or totally failing? Plan on how to evaluate success vs failure
+```
+
+```
+Plan and execute. Organize the exploration task, then follow up on creating subtasks that can be tackled on one session on our
+  two-tier kanban mcps system. Always follow DDD modeling, SOLID and CLARITY principles
+```
+
+## Asking for compatibility/parity in behavior.
+
+```
+Similar to `sisf-web`, when you access `inventario`, you should be redirected to keycloak if not identified.
+
+This is the console log we get, currently:
+
+```
+main.js:417 Inventory frontend initialized with routing
+main.js:1514 2025-12-19T19:32:27.270Z INFO [inventory.frontend.auth:63] - [Auth] Initializing auth via Gateway (BFF)...
+main.js:1514 2025-12-19T19:32:27.272Z DEBUG [inventory.frontend.config:13] - [Config] Loading runtime config...
+(index):1 [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) <input id=<200b>"password" placeholder=<200b>"Sua senha" class=<200b>"form-input" type=<200b>"password" value><200b>
+localhost:8083/items:1  Failed to load resource: net::ERR_CONNECTION_REFUSED
+localhost:8083/users:1  Failed to load resource: net::ERR_CONNECTION_REFUSED
+main.js:1514 2025-12-19T19:32:27.379Z INFO [inventory.frontend.config:29] - [Config] Runtime config loaded
+main.js:1514 2025-12-19T19:32:27.380Z INFO [inventory.frontend.config:104] - Loaded config: {:keycloak-url "https://keycloak.                 funerariafrancana.com.br", :keycloak-realm "funeraria", :keycloak-client-id "funeraria-web", :backend-auth-url "/api/auth", :backend-api-url  "/api/inventory"}
+main.js:1514 2025-12-19T19:32:27.380Z INFO [inventory.frontend.auth:72] - [Auth] Checking auth status at: /api/auth/me
+main.js:1514 2025-12-19T19:32:27.381Z INFO [inventory.frontend.auth:73] - [Auth] Gateway login URL: /
+main.js:1 Object
+/api/auth/me:1  Failed to load resource: the server responded with a status of 404 ()
+/favicon.ico:1  Failed to load resource: the server responded with a status of 404 ()
+```
+
+And we are in the internal login page of the application (which will be avoided, once hittig auth on /me return user data, or redirects to    keycloak, in case the user is not authorized/logged in).
 ```
