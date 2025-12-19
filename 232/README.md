@@ -381,3 +381,12 @@ Note: vibe_kanban mcp is up and running; use it to track long-term session-agnos
 ``` 
 
 
+
+## Accountability: planning, defining goals, measure targets
+
+```
+Planning, defining goals, measure targets:
+
+in relation to the `<service>` service, how will we be able to know it's working as expected? What commands could we use to know it's
+  working, partially failing or totally failing? Plan on how to evaluate success vs failure
+```

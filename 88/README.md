@@ -541,8 +541,11 @@ Bom de briga é aquele que cai fora
 ```
 
 ``` quote
-
 Se você for forte, encare a recessão como uma oportunidade de dar o golpe mortal em alguns jogadores marginais
 
 --Edward Lawler III
+```
+
+```
+Dívida pra mim é sagrada. Deus lhe pague!
 ```
