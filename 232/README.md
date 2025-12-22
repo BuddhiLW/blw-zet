@@ -422,3 +422,9 @@ main.js:1 Object
 
 And we are in the internal login page of the application (which will be avoided, once hittig auth on /me return user data, or redirects to    keycloak, in case the user is not authorized/logged in).
 ```
+
+## Debugging
+
+```
+Perfect. But, now, when we land on the cartas-frontend: we get a redirect loop. Because `user: "nil"` in console log. Meaning, auth /me seems either not being hit or the data returned not being digested through ports to Elm.
+``` 
