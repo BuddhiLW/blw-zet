@@ -435,4 +435,10 @@ Perfect. But, now, when we land on the cartas-frontend: we get a redirect loop. 
 ``` 
 
 
+### Setting up MCP with MCP
 
+```
+Yes, employ as many agents as needed. But, before assuming next two steps, let's use emacs-mcp and existing clojure-mcp tools to create a clojure-inventory-mcp (dev-tool)
+  specific to this project. So you can eval both front and backend clojure code, related to this project, in dev mode. And, progress, test, certify, much more smoothly through a
+  REPL experience
+```
