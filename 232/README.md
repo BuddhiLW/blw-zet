@@ -423,8 +423,16 @@ main.js:1 Object
 And we are in the internal login page of the application (which will be avoided, once hittig auth on /me return user data, or redirects to    keycloak, in case the user is not authorized/logged in).
 ```
 
+```
+we moved the mojibake solving library to `libs`. We may need to update obituary backend to import it, as well as Dockerfile
+to use private modules etc. auth-service does this (importing private modules) already. We can inspire ourselves from there.
+```
+
 ## Debugging
 
 ```
 Perfect. But, now, when we land on the cartas-frontend: we get a redirect loop. Because `user: "nil"` in console log. Meaning, auth /me seems either not being hit or the data returned not being digested through ports to Elm.
 ``` 
+
+
+
