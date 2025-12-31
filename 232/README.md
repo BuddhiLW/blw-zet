@@ -442,3 +442,9 @@ Yes, employ as many agents as needed. But, before assuming next two steps, let's
   specific to this project. So you can eval both front and backend clojure code, related to this project, in dev mode. And, progress, test, certify, much more smoothly through a
   REPL experience
 ```
+
+``` markdown
+> Using our swarm, let's plan and attack the following idea: extend `emacs-mcp` to be able to parser org files and store them as clojure data structures. So we can create 
+native commands to operate on it, then output/update a new version of the realized org-kanban. So we can be more efficient. And be a nice lib to work with org-mode files too 
+```
+
