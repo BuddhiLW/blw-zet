@@ -1,3 +1,4 @@
+* 2025-12-31 13:23:50Z [Personal Projects and why](../235)
 * 2025-12-31 12:25:36Z [Interesting projects](../234)
 * 2025-12-31 12:07:11Z [Facebook gathered-content](../6)
 * 2025-12-26 13:50:31Z [LLMs](../232)
@@ -205,7 +206,6 @@
 * 2025-10-23 03:48:05Z [Linkedin Convo](../110)
 * 2025-10-23 03:47:41Z [The Specter of Communism ](../11)
 * 2025-10-23 03:47:34Z [Cloud Walk ](../109)
-* 2025-10-23 03:47:25Z [Awesome practical projects](../108)
 * 2025-10-23 03:47:13Z [GPT for Carrer advice](../107)
 * 2025-10-23 03:47:00Z [Useful Linux Info (Keystroke Singnals and it's meanings)](../106)
 * 2025-10-23 03:46:50Z [Practical Physics](../105)
@@ -219,3 +219,4 @@
 * 2025-10-23 03:42:01Z [Sorry, planned but not yet available](../0)
 * 2025-10-23 01:00:03Z [Ascension of Bahá’u’lláh - what Emacs can tech you](../63)
 * 2025-10-23 00:59:37Z [My adventure into Infrastructure Land](../228)
+* 2025-10-23 00:47:25Z [Awesome practical projects](../108)
