@@ -52,6 +52,21 @@ Document data modeling, connections etc. We have a `mcp-ff` I just cloned here. 
   you can document technology-agnostically how we should model our data to stablish a correspondence with the legacy system
 ```
 
+### Meta-mcp
+
+```
+Use emacs-mcp to take a note and make a workflow; when I ask well-structured questions/prompts please add the prompt and an analysis of what it accomplishes and why it's well structure, as well as how could it be better
+prompted in a org-file. That later can be user for RAG on how LLMs can make useful requests for other LLMs. etc. Similar to how I'm doing in lages ፠ whitehead:keg(main)(λ) ls 232/README.md
+232/README.md
+lages ፠ whitehead:keg(main)(λ) pwd
+/home/lages/dotfiles/keg
+```
+
+```
+Create tasks (org-kanban AO [add-on]) for the following: create emacs-mcp (clojure code-side) capabilities to "RAG" inside emacs, exactly how you have done with emacs bindings, but with mcp-native commands instead of
+  elisp-eval.
+```
+
 
 ## Asking questions
 
@@ -447,4 +462,6 @@ Yes, employ as many agents as needed. But, before assuming next two steps, let's
 > Using our swarm, let's plan and attack the following idea: extend `emacs-mcp` to be able to parser org files and store them as clojure data structures. So we can create 
 native commands to operate on it, then output/update a new version of the realized org-kanban. So we can be more efficient. And be a nice lib to work with org-mode files too 
 ```
+
+
 
