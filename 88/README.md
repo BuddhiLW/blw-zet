@@ -549,3 +549,9 @@ Se você for forte, encare a recessão como uma oportunidade de dar o golpe mort
 ```
 Dívida pra mim é sagrada. Deus lhe pague!
 ```
+
+```
+O que é necessário não é a vontade de acreditar, mas o desejo de descobrir, que é justamente o oposto
+
+--Bertrand Russel
+```
