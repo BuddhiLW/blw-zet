@@ -478,3 +478,11 @@ We want to improve spawning and vterm returns experience. The dispatch should ma
   to have in short-term, and afterwards long-term; or now short-term, then discard once facts change and update memory with new facts
   etc)
 ```
+
+### Ask for PR
+
+``` 
+> I just recorded a video to showcase the mcp `~/mcp-showcase.mp4`. Do you think we can make a PR to upstream, while quickly ajusting
+the namespaces (BuddhiLW) in our fork, and send the video together with the contribution? Also, update the README to add a section on
+this new feature etc
+```
