@@ -479,6 +479,13 @@ We want to improve spawning and vterm returns experience. The dispatch should ma
   etc)
 ```
 
+```
+may we add a new workflow for cleaning up old JVM processes? I think when using swarm, it may
+  be very benefitial to keep track of which processes are because of the slave/lings in the
+  swarm and when they are done, we also kill their spawned JVM processes later (to
+  garbage-collect).
+``` 
+
 ### Ask for PR
 
 ``` 
@@ -486,3 +493,10 @@ We want to improve spawning and vterm returns experience. The dispatch should ma
 the namespaces (BuddhiLW) in our fork, and send the video together with the contribution? Also, update the README to add a section on
 this new feature etc
 ```
+
+```
+For our `https://github.com/melpa/melpa/pull/9747#issuecomment-3700699779` have we actually
+ updated the PR? I think although we updated the package it didn't come through to the PR.
+Run the linting again and if new changes are needed, make them. Then, make sure they are
+included in the PR - no need to say anything; just didn't see any new commits there
+``` 
