@@ -396,6 +396,11 @@ Note: vibe_kanban mcp is up and running; use it to track long-term session-agnos
 
 ``` 
 
+```
+Create task to extend tools to respond to prompts. And, to send vterm-send-return and other useful vterm operations. Keep in mind we may
+   need to do the same with `eat` in the future, so keep it adapter based and follow OCP, as well as all other SOLID principles. Always with
+   CLARITY in mind.
+```
 
 
 ## Accountability: planning, defining goals, measure targets
