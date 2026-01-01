@@ -560,3 +560,9 @@ O que é necessário não é a vontade de acreditar, mas o desejo de descobrir, 
 I have certain rules I live by. My first rule: I don't believe anything the government tells me.
                 -- George Carlin
 ```
+
+```
+Numa sociedade com base no conhecimento, por definição é necessário que você seja estudante a vida toda
+
+--Tom Peters
+```
