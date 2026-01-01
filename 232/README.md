@@ -464,4 +464,17 @@ native commands to operate on it, then output/update a new version of the realiz
 ```
 
 
+### Memory
 
+```
+We want to improve spawning and vterm returns experience. The dispatch should make sure it does send the requests. Currently, often
+  happens not to. Should we explore using `eat` backend? spawn lings to make both. and a ling in the swarm to break up tasks into parallel
+  tasks
+```
+
+```
+  We have to create tasks to chage /catchup and /wrap to use our memory system. With differentiation between what may be benefitial to
+  have in long-term vs shorterm memory. Make it editable, because some of these things may change of category (e.g., currently interesting
+  to have in short-term, and afterwards long-term; or now short-term, then discard once facts change and update memory with new facts
+  etc)
+```
