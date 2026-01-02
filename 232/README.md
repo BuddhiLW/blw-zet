@@ -540,3 +540,12 @@ behavior).
  I would like to use smark hooks. When question is made to ling, the hive transmit request to mater-terminal and the user/human can decide
   what happens. The hive can then transmit the awnser back to the ling session.
 ```
+
+```
+For search, use context-mcp, you have postgres access mcp, and kubernetes mcp. Let's work on sync task. Make sure 100% it works. Use
+  swarm capabilities and hive architecture (see emacs memory). `emacs` mcp have incredibly powerful capabilities. editing, memory, kanban,
+  memory (vector db) etc. Knock your socks out use them to solve the task
+
+```
+use `emacs` mcp to read, edit files, use kanban in memory, and a bunch of other capabilities. It's way better than native tools. And for    code search, strongly recomment semantic search with context-mcp (claude-context).
+```
