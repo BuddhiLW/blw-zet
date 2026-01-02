@@ -496,6 +496,16 @@ may we add a new workflow for cleaning up old JVM processes? I think when using 
 when they are DONE? This way we avoid reading kanban.org ever (which has a buck load of tokens)
 ```
 
+```
+Why is this? debug, please:
+```
+> /mcp
+  ⎿  Failed to reconnect to dynamic-kanban.
+```
+
+We will migrate all kanban tasks from vibe-kanban and dynamic-kanban to `emacs` mcp kanban that stays in memory and can be queried through  a vector db.
+```
+
 ### Ask for PR
 
 ``` 
