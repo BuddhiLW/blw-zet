@@ -1,3 +1,4 @@
+* 2026-01-01 23:05:03Z [Bussiness ideas](../236)
 * 2026-01-01 22:35:46Z [LLMs](../232)
 * 2026-01-01 15:18:23Z [Unusually good quotes](../88)
 * 2025-12-31 13:23:50Z [Personal Projects and why](../235)
@@ -175,7 +176,6 @@
 * 2025-10-23 03:56:38Z [Rice up](../139)
 * 2025-10-23 03:56:34Z [Set theory, Charles Pinter](../138)
 * 2025-10-23 03:56:31Z [A lógica matemática e a filosofia da vida.](../137)
-* 2025-10-23 03:56:25Z [Great Ideas Tasks](../136)
 * 2025-10-23 03:56:21Z [Pywal with Kitty terminal](../135)
 * 2025-10-23 03:56:12Z [Lazy Wall Cli](../134)
 * 2025-10-23 03:56:07Z [Github submodules](../133)
@@ -219,4 +219,5 @@
 * 2025-10-23 03:42:01Z [Sorry, planned but not yet available](../0)
 * 2025-10-23 01:00:03Z [Ascension of Bahá’u’lláh - what Emacs can tech you](../63)
 * 2025-10-23 00:59:37Z [My adventure into Infrastructure Land](../228)
+* 2025-10-23 00:56:25Z [Great Ideas Tasks](../136)
 * 2025-10-23 00:47:25Z [Awesome practical projects](../108)
