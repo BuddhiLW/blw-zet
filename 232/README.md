@@ -517,3 +517,16 @@ included in the PR - no need to say anything; just didn't see any new commits th
 Ok, we now aim to achieve parity in "native" bb-mcp capabilities to `emacs-mcp` (tool number and usage; e.g., write wrappers for all of
   them). Look the emacs-mcp code for it. Can use `context-mcp`, `clojure-emacs-mcp` (mcp dev tools)
 ```
+
+
+
+```
+I refreshed `emacs` mcp. Let's use our hive architecture (query emacs memory) to: 1. finish parity (work on cider addon wrappers); make
+a SOLID + CLARITY + DDD refactor in our code; also write unit and regression tests TDD style (so we make sure not to break working
+behavior).
+```
+
+```
+ I would like to use smark hooks. When question is made to ling, the hive transmit request to mater-terminal and the user/human can decide
+  what happens. The hive can then transmit the awnser back to the ling session.
+```
