@@ -1,6 +1,6 @@
+* 2026-01-02 12:18:24Z [LLMs](../232)
 * 2026-01-01 23:46:19Z [Future linkedin post](../237)
 * 2026-01-01 23:05:03Z [Bussiness ideas](../236)
-* 2026-01-01 22:35:46Z [LLMs](../232)
 * 2026-01-01 15:18:23Z [Unusually good quotes](../88)
 * 2025-12-31 13:23:50Z [Personal Projects and why](../235)
 * 2025-12-31 12:25:36Z [Interesting projects](../234)

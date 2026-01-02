@@ -510,3 +510,10 @@ For our `https://github.com/melpa/melpa/pull/9747#issuecomment-3700699779` have 
 Run the linting again and if new changes are needed, make them. Then, make sure they are
 included in the PR - no need to say anything; just didn't see any new commits there
 ``` 
+
+## Instructions on tools
+
+```
+Ok, we now aim to achieve parity in "native" bb-mcp capabilities to `emacs-mcp` (tool number and usage; e.g., write wrappers for all of
+  them). Look the emacs-mcp code for it. Can use `context-mcp`, `clojure-emacs-mcp` (mcp dev tools)
+```
