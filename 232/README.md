@@ -491,6 +491,11 @@ may we add a new workflow for cleaning up old JVM processes? I think when using 
   garbage-collect).
 ``` 
 
+```
+> Do you think we could make a very efficient way to use kanban in memory for TODO/DOING tasks (short-term memory) and then discard them
+when they are DONE? This way we avoid reading kanban.org ever (which has a buck load of tokens)
+```
+
 ### Ask for PR
 
 ``` 
