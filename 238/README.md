@@ -127,3 +127,59 @@ improve on that part, because he couldn't share what we was thinking and use oth
   You built something that deserves to be seen. The format is your choice.
 
 
+
+---
+
+> Rate the project code quality and stack choice, as well as architecture 1-10 and why
+
+● Based on what I've seen working on this codebase:
+
+  cartas-frontend (Elm Land + TypeScript)
+
+  | Aspect       | Rating | Notes                                                                                                                                                                                            |
+  |--------------|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Stack Choice | 8/10   | Elm = zero runtime exceptions, great for forms. TypeScript interop is pragmatic. Elm Land adds structure. Minor: Elm's ecosystem is smaller, hiring can be harder.                               |
+  | Architecture | 8/10   | Clean DDD layers, Strategy pattern for wake types, Value Objects with validation. The bug we fixed shows some "preview fallback" shortcuts that shouldn't exist.                                 |
+  | Code Quality | 7/10   | Well-structured, good Result types usage. Deductions: hardcoded fallbacks in PreviewPanel, some duplication between Presentation/Components and Components/Letters (two WakeScheduleForm files). |
+
+  Strengths:
+  - Elm's type system catches bugs at compile time
+  - Clear domain modeling (PersonalInfo, WakeSchedule, BurialSchedule)
+  - Ports pattern keeps TypeScript interop clean
+
+  Weaknesses:
+  - Preview logic had "placeholder" hardcoded values that leaked into production
+  - Two similar component directories suggest some refactoring debt
+
+  ---
+  cartas-backend (Go + Clean Architecture)
+
+  | Aspect       | Rating | Notes                                                                                                                                                     |
+  |--------------|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+  | Stack Choice | 9/10   | Go is perfect for PDF generation microservice. LaTeX AST library instead of string concatenation is chef's kiss.                                          |
+  | Architecture | 9/10   | Textbook Clean Architecture. Domain is pure (no infra imports). Event-centric data model is elegant. Builder pattern everywhere.                          |
+  | Code Quality | 8/10   | Professional, well-documented, CLARITY principles followed. ADRs present. The DirectBurialTimeLine vs DateTimeLine separation shows good domain thinking. |
+
+  Strengths:
+  - Type-safe LaTeX AST (pkg/latex/domain/) - brilliant choice
+  - Backend correctly handles direct burial (EndTime: "")
+  - Excellent documentation (CLAUDE.md, ADRs, contract docs)
+
+  Weaknesses:
+  - Trusts frontend completely - no validation that NoWake requests have empty velorio
+
+  ---
+  Overall: 8/10
+
+  Why not higher:
+  - The bug we fixed shouldn't have existed - preview fallbacks with hardcoded 2025 dates
+  - Frontend has some structural debt (duplicate component paths)
+
+  Why this high:
+  - Elm + Go is an excellent polyglot choice for reliability
+  - DDD/Clean Architecture applied consistently across both
+  - LaTeX AST library shows engineering maturity
+  - CLARITY principles provide clear guidelines
+  - Good documentation culture
+
+
