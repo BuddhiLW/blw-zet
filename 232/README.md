@@ -549,3 +549,11 @@ For search, use context-mcp, you have postgres access mcp, and kubernetes mcp. L
 ```
 use `emacs` mcp to read, edit files, use kanban in memory, and a bunch of other capabilities. It's way better than native tools. And for    code search, strongly recomment semantic search with context-mcp (claude-context).
 ```
+
+```
+Use swarm to accomplish this task. Break the task between the
+lings. See presents and spawn a team of lings that do a complete
+work, DDD, SOLID, and CLARITY complient. As well as an archivist
+to document progress and decisions etc. You coordinate them. They
+ can shout to you etc
+```
