@@ -36,6 +36,20 @@ Then, in case user-login happened (user info is not `nil`/`null`), then we shoul
 We are not using keycloak client approach anymore. This is done at the border (Envoy API Gateway + keycloak). If you can land on the application, cookies will  be set on the browser, and upon hitting `/me` application will have user data and also access to everything it needs.
 ``` 
 
+## Dev enviornment
+
+```
+our `dc` project should have sisf-sync, sisf-db, and sisf-web wired up. With it, we can test the new modules we develop. Would also be nice to figure out
+  a way to run dev build in a local project, like sisf-web and still communicate through `dc` services. So we have integration test environment and
+  development environment as close as possible
+```
+
+```
+Would be nice to have a locally running postgresql in dc that closely resamble the production data (could have a small subset sync for it). So the
+  applications get real "mocked" data injections. And we straight up can test backend in an integrated environment. If it works locally, very likely it will
+  also work on dev/staging/production in the cluster environemnt
+```
+
 ## Explaining things
 
 ### Flows
@@ -566,3 +580,4 @@ to document progress and decisions etc. You coordinate them. They
 using hive (swarm + hive architecture), let's work on <description>. Use `scc` to verify complexity, always aiming at green
   status; of course, we should follow DDD modeling, TDD for development, DDD and CLARITY principles for software modularity from start.
 ```
+
