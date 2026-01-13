@@ -557,3 +557,12 @@ work, DDD, SOLID, and CLARITY complient. As well as an archivist
 to document progress and decisions etc. You coordinate them. They
  can shout to you etc
 ```
+
+```
+
+## Modular prompts
+
+```
+using hive (swarm + hive architecture), let's work on <description>. Use `scc` to verify complexity, always aiming at green
+  status; of course, we should follow DDD modeling, TDD for development, DDD and CLARITY principles for software modularity from start.
+```
