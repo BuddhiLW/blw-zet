@@ -566,3 +566,9 @@ Numa sociedade com base no conhecimento, por definição é necessário que voc�
 
 --Tom Peters
 ```
+
+```
+Nada dá mais coragem a um homem que o medo que ele vê nos outros
+
+--Umberto Eco
+```
