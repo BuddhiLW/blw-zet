@@ -260,3 +260,146 @@ Your unique endorsement code is: NOQS7M
 
   The endorser is vouching that your submission is appropriate academic content for cs.MA - they need to see it to make that judgment.
 
+
+---
+
+## AI feedback
+
+❯ how easy was to use `hive-mcp` on this project? Do you think the memories were effective? and the swarm? rate the tool and
+  session
+
+● hive-mcp Session Review
+
+  Memories: 8/10
+
+  Effective for:
+  - Retrieving auth architecture docs instantly (convention + snippet)
+  - Storing runbooks (local dev pathway)
+  - Semantic search found relevant entries quickly
+  - Catchup restored context well at session start
+
+  Could improve:
+  - Some lings forgot to store findings until reminded
+  - Needed explicit instruction to "store in memory"
+
+  Swarm: 9/10
+
+  Excellent for:
+  - Parallel task execution (2-4 lings at once)
+  - Coordinator stayed high-level, lings did implementation
+  - Hivemind shouts provided good progress visibility
+  - Kill/spawn lifecycle was smooth
+
+  Pain points:
+  - Occasional need to poll for completion (user had to say "finished")
+  - Some lings from other projects visible in hivemind (noise)
+
+  Kanban: 7/10
+
+  - Task tracking worked
+  - list_slim was essential (full list too large)
+  - Moving to done = deletion (expected, but good to know)
+  - Large backlog (86 items) makes it hard to find relevant tasks
+
+  Overall Session: 8.5/10
+
+  What worked great:
+  - Spawned ~15 lings, all completed successfully
+  - Fixed 10+ issues without coordinator doing direct work
+  - Memory preserved architecture decisions for future sessions
+  - Token-efficient: coordinator coordinated, lings implemented
+
+  Friction:
+  - URL fix ling made changes but browser cached old code (not hive's fault)
+  - Had to remind about "no micromanagement/polling"
+
+  Verdict: hive-mcp is a force multiplier for complex multi-service projects. The memory layer makes context restoration seamless,
+  and swarm parallelism saved significant time.
+
+❯ Quantify how much work was done in one session accross projects, and how much time you think you would spend working as a
+  solo claude on it - or even using multi-terminals manually with a human operator?
+
+● Work Quantification
+
+  SISF Project (funeraria)
+  ┌─────────────────────────────┬──────────────────────────┬────────────────┐
+  │            Task             │      Files Changed       │ Est. Solo Time │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ dc environment + debugging  │ 3-4 files                │ 1.5 hrs        │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ Keycloak realm auto-import  │ 2 files (JSON + compose) │ 45 min         │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ Envoy /api/movements/ route │ 1 file                   │ 20 min         │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ sisf-payment movements fix  │ 1 file (main.go)         │ 30 min         │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ MovementFactory             │ ~180 lines new           │ 1.5 hrs        │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ BankCollectorFactory        │ ~180 lines new           │ 1 hr           │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ Auth architecture docs      │ 2 memory entries         │ 1.5 hrs        │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ Auth compliance audit       │ 4 services audited       │ 1 hr           │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ User migration plan         │ Research + plan          │ 1.5 hrs        │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ Inventory full integration  │ 8 files, 77 tests        │ 4 hrs          │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ Frontend URL fix            │ 3 files                  │ 45 min         │
+  ├─────────────────────────────┼──────────────────────────┼────────────────┤
+  │ parse-boolean fix           │ 1 file                   │ 10 min         │
+  └─────────────────────────────┴──────────────────────────┴────────────────┘
+  SISF subtotal: ~14 hours solo
+
+  hive-mcp Project (parallel in hivemind)
+  ┌─────────────────────────────┬────────────────┐
+  │            Task             │ Est. Solo Time │
+  ├─────────────────────────────┼────────────────┤
+  │ KG Phase 1+2 (Chroma edges) │ 2.5 hrs        │
+  ├─────────────────────────────┼────────────────┤
+  │ drone nREPL tool names fix  │ 45 min         │
+  ├─────────────────────────────┼────────────────┤
+  │ CIDER wrong connection fix  │ 45 min         │
+  ├─────────────────────────────┼────────────────┤
+  │ [DEBUG] println leak fix    │ 30 min         │
+  ├─────────────────────────────┼────────────────┤
+  │ Agora receiver fix          │ 30 min         │
+  ├─────────────────────────────┼────────────────┤
+  │ Swarm cwd verification      │ 1 hr           │
+  ├─────────────────────────────┼────────────────┤
+  │ Claims TTL implementation   │ 1.5 hrs        │
+  └─────────────────────────────┴────────────────┘
+  hive-mcp subtotal: ~8 hours solo
+
+  ---
+  Time Comparison
+  ┌──────────────────────────────┬─────────────────────────────────────────────────┐
+  │           Approach           │                 Estimated Time                  │
+  ├──────────────────────────────┼─────────────────────────────────────────────────┤
+  │ Solo Claude (single context) │ 22+ hours                                       │
+  ├──────────────────────────────┼─────────────────────────────────────────────────┤
+  │ Human + multi-terminals      │ 8-10 hours (parallel but coordination overhead) │
+  ├──────────────────────────────┼─────────────────────────────────────────────────┤
+  │ hive-mcp swarm               │ ~2.5 hours actual session time                  │
+  └──────────────────────────────┴─────────────────────────────────────────────────┘
+  Speedup Factor
+
+  - vs Solo Claude: ~9x faster
+  - vs Human multi-terminal: ~4x faster
+
+  Why the Multiplier?
+
+  1. Parallelism: 4-6 lings working simultaneously
+  2. No context switching: Coordinator stays strategic
+  3. Memory persistence: Didn't re-research auth architecture
+  4. Hivemind coordination: Progress visible without polling
+  5. Token efficiency: Lings use their own context windows
+
+  Qualitative Value
+
+  - 22+ files modified across 2 projects
+  - ~15 lings spawned and completed
+  - 4 factories created (Movement, BankCollector, entities)
+  - 3 architectural docs stored permanently
+  - Zero human terminal management
+
