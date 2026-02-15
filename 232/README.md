@@ -581,3 +581,11 @@ using hive (swarm + hive architecture), let's work on <description>. Use `scc` t
   status; of course, we should follow DDD modeling, TDD for development, DDD and CLARITY principles for software modularity from start.
 ```
 
+
+## Memory
+
+```
+Yes, profile them, then let's think in how they related to FP DDD + SOLID design and FP principles and patterns that could
+be used to solve them. snapshot their snippet now, then refactor, snapshot after. And link them to desgin and principle
+memories. This way we improve codebase, and ground knowledge for the future
+```
