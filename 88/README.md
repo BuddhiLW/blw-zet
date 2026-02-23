@@ -572,3 +572,14 @@ Nada dá mais coragem a um homem que o medo que ele vê nos outros
 
 --Umberto Eco
 ```
+
+```
+You can win the rat race but you're still a rat.
+                -- Banksy
+```
+
+```
+Você deve investir num negócio que até um idiota poderia dirigir, porque algum dia um idiota o dirigirá
+
+--Warren Buffett
+```

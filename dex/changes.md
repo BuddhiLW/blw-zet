@@ -1,7 +1,7 @@
+* 2026-02-23 11:12:59Z [Unusually good quotes](../88)
 * 2026-02-15 05:26:43Z [LLMs](../232)
 * 2026-01-30 02:02:53Z [Interesting projects](../234)
 * 2026-01-21 12:02:53Z [AI dialogue](../238)
-* 2026-01-19 09:23:30Z [Unusually good quotes](../88)
 * 2026-01-01 23:46:19Z [Future linkedin post](../237)
 * 2026-01-01 23:05:03Z [Bussiness ideas](../236)
 * 2025-12-31 13:23:50Z [Personal Projects and why](../235)
