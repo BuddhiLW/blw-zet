@@ -583,3 +583,8 @@ Você deve investir num negócio que até um idiota poderia dirigir, porque algu
 
 --Warren Buffett
 ```
+
+```
+We can't do anything to change the world until capitalism crumbles. In the meantime we should all go shopping to console ourselves.
+                -- Banksy
+```
