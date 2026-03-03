@@ -1,3 +1,4 @@
+* 2026-03-03 00:42:30Z [Computer Science Fundamentals Books](../240)
 * 2026-03-01 22:01:02Z [Unusually good quotes](../88)
 * 2026-02-24 15:06:49Z [Claude leaks](../239)
 * 2026-02-15 05:26:43Z [LLMs](../232)
