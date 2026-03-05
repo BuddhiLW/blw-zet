@@ -19,3 +19,16 @@ https://github.com/ankane/ahoy.js
 ## 
 
 https://github.com/risingwavelabs/risingwave
+
+## pentester for web apps and APIs
+
+https://github.com/KeygraphHQ/shannon
+
+## Pricing and billing
+
+https://github.com/useautumn/autumn
+
+## Hardening
+
+https://github.com/decalage2/awesome-security-hardening
+
